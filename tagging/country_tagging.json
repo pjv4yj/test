@@ -1,0 +1,3179 @@
+{
+	"target_country_tagging": {
+		"Afghanistan": {
+			"country_code": "AF",
+			"unicode": "U+1F1E6 U+1F1EB",
+			"emoji_flag": "🇦🇫",
+			"regions": [
+				"Southern Asia",
+				"South Asia",
+				"Asia",
+				"Central Asia and Southern Asia"
+			]
+		},
+		"Aland Islands": {
+			"country_code": "AX",
+			"unicode": "U+1F1E6 U+1F1FD",
+			"emoji_flag": "🇦🇽",
+			"regions": []
+		},
+		"Albania": {
+			"country_code": "AL",
+			"unicode": "U+1F1E6 U+1F1F1",
+			"emoji_flag": "🇦🇱",
+			"regions": [
+				"North America and Europe",
+				"Europe and Central Asia",
+				"European Region"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"North Atlantic treaty Organization (NATO)"
+			]
+		},
+		"Algeria": {
+			"country_code": "DZ",
+			"unicode": "U+1F1E9 U+1F1FF",
+			"emoji_flag": "🇩🇿",
+			"regions": [
+				"Middle East and North Africa",
+				"Northern Africa",
+				"Africa Region",
+				"Africa",
+				"Western Asia and Northern Africa"
+			]
+		},
+		"American Samoa": {
+			"country_code": "AS",
+			"unicode": "U+1F1E6 U+1F1F8",
+			"emoji_flag": "🇦🇸",
+			"regions": [
+				"Oceania excluding Australia and New Zealand",
+				"Oceania",
+				"East Asia and Pacific"
+			]
+		},
+		"Andorra": {
+			"country_code": "AD",
+			"unicode": "U+1F1E6 U+1F1E9",
+			"emoji_flag": "🇦🇩",
+			"regions": [
+				"Europe and Central Asia",
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Angola": {
+			"country_code": "AO",
+			"unicode": "U+1F1E6 U+1F1F4",
+			"emoji_flag": "🇦🇴",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa",
+				"West and Central Africa"
+			]
+		},
+		"Anguilla": {
+			"country_code": "AI",
+			"unicode": "U+1F1E6 U+1F1EE",
+			"emoji_flag": "🇦🇮",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"North America and Europe",
+				"North America"
+			]
+		},
+		"Antigua and Barbuda": {
+			"country_code": "AG",
+			"unicode": "U+1F1E6 U+1F1EC",
+			"emoji_flag": "🇦🇬",
+			"regions": [
+				"North America",
+				"Latin America and Caribbean",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"North America and Europe"
+			]
+		},
+		"Argentina": {
+			"country_code": "AR",
+			"unicode": "U+1F1E6 U+1F1F7",
+			"emoji_flag": "🇦🇷",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"South America",
+				"Banco Bilbao Vizcaya Argentaria",
+				"BBVA",
+				"Mercado Libre"
+			],
+			"international_organizations": [
+				"G20"
+			]
+		},
+		"Armenia": {
+			"country_code": "AM",
+			"unicode": "U+1F1E6 U+1F1F2",
+			"emoji_flag": "🇦🇲",
+			"regions": [
+				"North America and Europe",
+				"Western Asia and Northern Africa",
+				"Asia",
+				"Western Asia",
+				"Caucasus and Central Asia",
+				"Europe and Central Asia",
+				"European Region",
+				"Central and Eastern Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Aruba": {
+			"country_code": "AW",
+			"unicode": "U+1F1E6 U+1F1FC",
+			"emoji_flag": "🇦🇼",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Australia": {
+			"country_code": "AU",
+			"unicode": "U+1F1E6 U+1F1FA",
+			"emoji_flag": "🇦🇺",
+			"regions": [
+				"Oceania",
+				"Australia and New Zealand",
+				"East Asia and Pacific",
+				"Western Pacific Region"
+			],
+			"companies": [
+				"Australia Taxation Office",
+				"ATO",
+				"Westpac",
+				"Suncorp",
+				"ASB Bank Limited",
+				"St George Bank",
+				"National Australia Bank",
+				"NAB",
+				"Credit Union Australia",
+				"CUA",
+				"Commonwealth Bank of Australia",
+				"Bendigo Bank"
+			],
+			"international_organizations": [
+				"Five Eyes",
+				"G20"
+			]
+		},
+		"Austria": {
+			"country_code": "AS",
+			"unicode": "U+1F1E6 U+1F1FF",
+			"emoji_flag": "🇦🇹",
+			"regions": [
+				"Europe and Central Asia",
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"European Union"
+			]
+		},
+		"Azerbaijan": {
+			"country_code": "AZ",
+			"unicode": "U+1F1E6 U+1F1FF",
+			"emoji_flag": "🇦🇿",
+			"regions": [
+				"Western Asia",
+				"Caucasus and Central Asia",
+				"Europe and Central Asia",
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Bahamas": {
+			"country_code": "BS",
+			"unicode": "U+1F1E7 U+1F1F8",
+			"emoji_flag": "🇧🇸",
+			"regions": [
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"North America and Europe",
+				"Latin America and Caribbean"
+			]
+		},
+		"Bahrain": {
+			"country_code": "BH",
+			"unicode": "U+1F1E7 U+1F1ED",
+			"emoji_flag": "🇧🇭",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia",
+				"Western Asia"
+			]
+		},
+		"Bangladesh": {
+			"country_code": "BD",
+			"unicode": "U+1F1E7 U+1F1E9",
+			"emoji_flag": "🇧🇩",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia",
+				"Southern Asia excluding India",
+				"South Asia",
+				"Southern Asia"
+			]
+		},
+		"Barbados": {
+			"country_code": "BB",
+			"unicode": "U+1F1E7 U+1F1E7",
+			"emoji_flag": "🇧🇧",
+			"regions": [
+				"Latin America and Caribbean",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"North America and Europe",
+				"North America"
+			]
+		},
+		"Belarus": {
+			"country_code": "BY",
+			"unicode": "U+1F1E7 U+1F1FE",
+			"emoji_flag": "🇧🇾",
+			"regions": [
+				"Europe and Central Asia",
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			]
+		},
+		"Belgium": {
+			"country_code": "BE",
+			"unicode": "U+1F1E7 U+1F1EA",
+			"emoji_flag": "🇧🇪",
+			"regions": [
+				"North America and Europe",
+				"Europe and Central Asia",
+				"European Region"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"North Atlantic treaty Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Belize": {
+			"country_code": "BZ",
+			"unicode": "U+1F1E7 U+1F1FF",
+			"emoji_flag": "🇧🇿",
+			"regions": [
+				"Latin America and Caribbean",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Central America"
+			]
+		},
+		"Benin": {
+			"country_code": "BJ",
+			"unicode": "U+1F1E7 U+1F1EF",
+			"emoji_flag": "🇧🇯",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Bermuda": {
+			"country_code": "BM",
+			"unicode": "U+1F1E7 U+1F1F2",
+			"emoji_flag": "🇧🇲",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Bhutan": {
+			"country_code": "BT",
+			"unicode": "U+1F1E7 U+1F1F9",
+			"emoji_flag": "🇧🇹",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia",
+				"Southern Asia excluding India",
+				"Southern Asia",
+				"South Asia"
+			]
+		},
+		"Bolivia": {
+			"country_code": "BO",
+			"unicode": "U+1F1E7 U+1F1F4",
+			"emoji_flag": "🇧🇴",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Bosnia and Herzegovina": {
+			"country_code": "BA",
+			"unicode": "U+1F1E7 U+1F1E6",
+			"emoji_flag": "🇧🇦",
+			"regions": [
+				"North America and Europe",
+				"Europe and Central Asia",
+				"European Region"
+			]
+		},
+		"Botswana": {
+			"country_code": "BW",
+			"unicode": "U+1F1E7 U+1F1FC",
+			"emoji_flag": "🇧🇼",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Bouvet Island": {
+			"country_code": "BV",
+			"unicode": "U+1F1E7 U+1F1FB",
+			"emoji_flag": "🇧🇻",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Brazil": {
+			"country_code": "BR",
+			"unicode": "U+1F1E7 U+1F1F7",
+			"emoji_flag": "🇧🇷",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			],
+			"companies": [
+				"Banco De Brasil",
+				"Banco Real",
+				"Cielo",
+				"Nubank",
+				"Americanas.com",
+				"PagSeguro",
+				"Americanas",
+				"Casas Bahia",
+				"Dafiti",
+				"Bradesco",
+				"Americanas.com"
+			],
+			"international_organizations": [
+				"BRICS"
+			]
+		},
+		"British Virgin Islands": {
+			"country_code": "VG",
+			"unicode": "U+1F1FB U+1F1EC",
+			"emoji_flag": "🇻🇬",
+			"regions": [
+				"Region of the Americas",
+				"North America and Europe",
+				"North America",
+				"Region of the Americas"
+			]
+		},
+		"Brunei": {
+			"country_code": "BN",
+			"unicode": "U+1F1E7 U+1F1F3",
+			"emoji_flag": "🇧🇳",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia",
+				"South-eastern Asia"
+			]
+		},
+		"Bulgaria": {
+			"country_code": "BG",
+			"unicode": "U+1F1E7 U+1F1EC",
+			"emoji_flag": "🇧🇬",
+			"regions": [
+				"Europe and Central Asia",
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"North Atlantic treaty Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Burkina Faso": {
+			"country_code": "BF",
+			"unicode": "U+1F1E7 U+1F1EB",
+			"emoji_flag": "🇧🇫",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Burundi": {
+			"country_code": "BI",
+			"unicode": "U+1F1E7 U+1F1EE",
+			"emoji_flag": "🇧🇮",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Cambodia": {
+			"country_code": "KH",
+			"unicode": "U+1F1F0 U+1F1ED",
+			"emoji_flag": "🇰🇭",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia",
+				"South-eastern Asia",
+				"South-East Asia Region"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Cameroon": {
+			"country_code": "CM",
+			"unicode": "U+1F1E8 U+1F1F2",
+			"emoji_flag": "🇨🇲",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Canada": {
+			"country_code": "CA",
+			"unicode": "U+1F1E8 U+1F1E6",
+			"emoji_flag": "🇨🇦",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			],
+			"companies": [
+				"TD Canada Trust",
+				"Canada Revenue Agency",
+				"CRA",
+				"Kijiji",
+				"CBC",
+				"CFL",
+				"Canadian Pacific Railway",
+				"Via Rail",
+				"Suncor",
+				"Interac",
+				"Air Canada",
+				"WestJet",
+				"Simplii",
+				"Bank of Montreal",
+				"BMO",
+				"Royal Bank of Canada",
+				"RBC",
+				"Canadian Imperial Bank of Commerce",
+				"CIBC",
+				"Scotiabank",
+				"University of Toronto",
+				"Canada Post"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"G7",
+				"G20",
+				"North Atlantic treaty Organization (NATO)",
+				"North American Aerospace Defense Command (NORAD)",
+				"Five Eyes"
+			]
+		},
+		"Cape Verde": {
+			"country_code": "CV",
+			"unicode": "U+1F1E8 U+1F1FB",
+			"emoji_flag": "🇨🇻",
+			"regions": [
+				"West and Central Africa",
+				"Africa",
+				"Africa Region",
+				"Sub-Saharan Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Cayman Islands": {
+			"country_code": "KY",
+			"unicode": "U+1F1F0 U+1F1FE",
+			"emoji_flag": "🇰🇾",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"North America and Europe",
+				"North America"
+			]
+		},
+		"Central African Republic": {
+			"country_code": "CF",
+			"unicode": "U+1F1E8 U+1F1EB",
+			"emoji_flag": "🇨🇫",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Chad": {
+			"country_code": "TD",
+			"unicode": "U+1F1F9 U+1F1E9",
+			"emoji_flag": "🇹🇩",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Chile": {
+			"country_code": "CL",
+			"unicode": "U+1F1E8 U+1F1F1",
+			"emoji_flag": "🇨🇱",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			]
+		},
+		"China": {
+			"country_code": "CN",
+			"unicode": "U+1F1E8 U+1F1F3",
+			"emoji_flag": "🇨🇳",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia"
+			],
+			"companies": [
+				"Huawei",
+				"PetroChina",
+				"China Ocean Shipping",
+				"Evergreen Marine",
+				"Yang Ming",
+				"China Railway Group Limited",
+				"China Railway Construction Corporation",
+				"China State Construction",
+				"Jiangsu Shagang",
+				"Hebei Iron",
+				"Baosteel",
+				"Wuhan Iron"
+			],
+			"dissidents": [
+				"Uyghurs",
+				"uighurs",
+				"Falun Gong"
+			],
+			"international_organizations": [
+				"BRICS",
+				"United Nations Security Council (Permanent)"
+
+			]
+		},
+		"Christmas Island": {
+			"country_code": "CX",
+			"unicode": "U+1F1E8 U+1F1FD",
+			"emoji_flag": "🇨🇽",
+			"regions": [
+				"Eastern Asia and South-eastern Asia"
+			]
+		},
+		"Cocos Islands": {
+			"country_code": "CC",
+			"unicode": "U+1F1E8 U+1F1E8",
+			"emoji_flag": "🇨🇨",
+			"regions": [
+				"Eastern Asia and South-eastern Asia"
+			]
+		},
+		"Colombia": {
+			"country_code": "CO",
+			"unicode": "U+1F1E8 U+1F1F4",
+			"emoji_flag": "🇨🇴",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			],
+			"dissidents": [
+				"FARC"
+			]
+		},
+		"Comoros": {
+			"country_code": "KM",
+			"unicode": "U+1F1F0 U+1F1F2",
+			"emoji_flag": "🇰🇲",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Congo": {
+			"country_code": "CG",
+			"unicode": "U+1F1E8 U+1F1EC",
+			"emoji_flag": "🇨🇬",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Cook Islands": {
+			"country_code": "CK",
+			"unicode": "U+1F1E8 U+1F1F0",
+			"emoji_flag": "🇨🇰",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Costa Rica": {
+			"country_code": "CR",
+			"unicode": "U+1F1E8 U+1F1F7",
+			"emoji_flag": "🇨🇷",
+			"regions": [
+				"Latin America and Caribbean",
+				"Central America"
+			]
+		},
+		"Cote D'Ivoire": {
+			"country_code": "CI",
+			"unicode": "U+1F1E8 U+1F1EE",
+			"emoji_flag": "🇨🇮",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Croatia": {
+			"country_code": "HR",
+			"unicode": "U+1F1ED U+1F1F7",
+			"emoji_flag": "🇭🇷",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Cuba": {
+			"country_code": "CU",
+			"unicode": "U+1F1E8 U+1F1FA",
+			"emoji_flag": "🇨🇺",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"Curacao": {
+			"country_code": "CW",
+			"unicode": "U+1F1E8 U+1F1FC",
+			"emoji_flag": "🇨🇼",
+			"regions": []
+		},
+		"Cyprus": {
+			"country_code": "CY",
+			"unicode": "U+1F1E8 U+1F1FE",
+			"emoji_flag": "🇨🇾",
+			"regions": [
+				"European Region",
+				"Middle East and North Africa",
+				"North America and Europe",
+				"Asia"
+			],
+			"international_organizations": [
+				"European Union"
+			]
+		},
+		"Czech Republic": {
+			"country_code": "CZ",
+			"unicode": "U+1F1E8 U+1F1FF",
+			"emoji_flag": "🇨🇿",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Democratic Republic of the Congo": {
+			"country_code": "CD",
+			"unicode": "U+1F1E8 U+1F1E9",
+			"emoji_flag": "🇨🇩",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Denmark": {
+			"country_code": "DK",
+			"unicode": "U+1F1E9 U+1F1F0",
+			"emoji_flag": "🇩🇰",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Nordea"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Djibouti": {
+			"country_code": "DJ",
+			"unicode": "U+1F1E9 U+1F1EF",
+			"emoji_flag": "🇩🇯",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa",
+				"Middle East and North Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Dominica": {
+			"country_code": "DM",
+			"unicode": "U+1F1E9 U+1F1F2",
+			"emoji_flag": "🇩🇲",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Dominican Republic": {
+			"country_code": "DO",
+			"unicode": "U+1F1E9 U+1F1F4",
+			"emoji_flag": "🇩🇴",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"East Timor": {
+			"country_code": "TL",
+			"unicode": "U+1F1F9 U+1F1F1",
+			"emoji_flag": "🇹🇱",
+			"regions": [
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Ecuador": {
+			"country_code": "EC",
+			"unicode": "U+1F1EA U+1F1E8",
+			"emoji_flag": "🇪🇨",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			]
+		},
+		"Egypt": {
+			"country_code": "EG",
+			"unicode": "U+1F1EA U+1F1EC",
+			"emoji_flag": "🇪🇬",
+			"regions": [
+				"Middle East and North Africa",
+				"Northern Africa",
+				"Africa Region",
+				"Africa",
+				"Western Asia and Northern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"El Salvador": {
+			"country_code": "SV",
+			"unicode": "U+1F1F8 U+1F1FB",
+			"emoji_flag": "🇸🇻",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean",
+				"Central America"
+			]
+		},
+		"Equatorial Guinea": {
+			"country_code": "GQ",
+			"unicode": "U+1F1EC U+1F1F6",
+			"emoji_flag": "🇬🇶",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Eritrea": {
+			"country_code": "ER",
+			"unicode": "U+1F1EA U+1F1F7",
+			"emoji_flag": "🇪🇷",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Estonia": {
+			"country_code": "EE",
+			"unicode": "U+1F1EA U+1F1EA",
+			"emoji_flag": "🇪🇪",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Ethiopia": {
+			"country_code": "ET",
+			"unicode": "U+1F1EA U+1F1F9",
+			"emoji_flag": "🇪🇹",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Falkland Islands": {
+			"country_code": "FK",
+			"unicode": "U+1F1EB U+1F1F0",
+			"emoji_flag": "🇫🇰",
+			"regions": [
+				"South America"
+			]
+		},
+		"Faroe Islands": {
+			"country_code": "FO",
+			"unicode": "U+1F1EB U+1F1F4",
+			"emoji_flag": "🇫🇴",
+			"regions": []
+		},
+		"Fiji": {
+			"country_code": "FJ",
+			"unicode": "+1F1EB U+1F1EF",
+			"emoji_flag": "🇫🇯",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Finland": {
+			"country_code": "FI",
+			"unicode": "U+1F1EB U+1F1EE",
+			"emoji_flag": "🇫🇮",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"European Union"
+			]
+		},
+		"France": {
+			"country_code": "FR",
+			"unicode": "U+1F1EB U+1F1F7",
+			"emoji_flag": "🇫🇷",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Thales",
+				"Cariparma Credit Agricole",
+				"Orange",
+				"Fnac",
+				"CDiscount"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"United Nations Security Council (Permanent)",
+				"G7",
+				"G20",
+				"European Union",
+				"North Atlantic Treaty Organization (NATO)"
+			]
+		},
+		"French Guiana": {
+			"country_code": "GF",
+			"unicode": "U+1F1EC U+1F1EB",
+			"emoji_flag": "🇬🇫",
+			"regions": [
+				"South America"
+
+			]
+		},
+		"French Polynesia": {
+			"country_code": "PF",
+			"unicode": "U+1F1F5 U+1F1EB",
+			"emoji_flag": "🇵🇫",
+			"regions": []
+		},
+		"French Southern Territories": {
+			"country_code": "TF",
+			"unicode": "U+1F1F9 U+1F1EB",
+			"emoji_flag": "🇹🇫",
+			"regions": []
+		},
+		"Gabon": {
+			"country_code": "GA",
+			"unicode": "U+1F1EC U+1F1E6",
+			"emoji_flag": "🇬🇦",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Gambia": {
+			"country_code": "GM",
+			"unicode": "U+1F1EC U+1F1F2",
+			"emoji_flag": "🇬🇲",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Georgia": {
+			"country_code": "GE",
+			"unicode": "U+1F1EC U+1F1EA",
+			"emoji_flag": "🇬🇪",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Germany": {
+			"country_code": "DE",
+			"unicode": "U+1F1E9 U+1F1EA",
+			"emoji_flag": "🇩🇪",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"companies": [
+				"Volksbanken Raiffeisenbanken",
+				"Mobile.de",
+				"Otto",
+				"Real.de",
+				"Deutsche Bank",
+				"Sparkasse",
+				"Zalando",
+				"Lufthansa"
+			],
+			"international_organizations": [
+				"G7",
+				"G20",
+				"European Union",
+				"North Atlantic Treaty Organization (NATO)"
+			]
+		},
+		"Ghana": {
+			"country_code": "GH",
+			"unicode": "U+1F1EC U+1F1ED",
+			"emoji_flag": "🇬🇭",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Gibraltar": {
+			"country_code": "GI",
+			"unicode": "U+1F1EC U+1F1EE",
+			"emoji_flag": "🇬🇮",
+			"regions": []
+		},
+		"Greece": {
+			"country_code": "GR",
+			"unicode": "U+1F1EC U+1F1F7",
+			"emoji_flag": "🇬🇷",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"North Atlantic Treaty Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Greenland": {
+			"country_code": "GL",
+			"unicode": "U+1F1EC U+1F1F1",
+			"emoji_flag": "🇬🇱",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Grenada": {
+			"country_code": "GD",
+			"unicode": "U+1F1EC U+1F1E9",
+			"emoji_flag": "🇬🇩",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"Guadeloupe": {
+			"country_code": "GP",
+			"unicode": "U+1F1EC U+1F1F5",
+			"emoji_flag": "🇬🇵",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Guam": {
+			"country_code": "GU",
+			"unicode": "U+1F1EC U+1F1FA",
+			"emoji_flag": "🇬🇺",
+			"regions": []
+		},
+		"Guatemala": {
+			"country_code": "GT",
+			"unicode": "U+1F1EC U+1F1F9",
+			"emoji_flag": "🇬🇹",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean",
+				"Central America"
+			]
+		},
+		"Guernsey": {
+			"country_code": "GG",
+			"unicode": "U+1F1EC U+1F1EC",
+			"emoji_flag": "🇬🇬",
+			"regions": []
+		},
+		"Guinea": {
+			"country_code": "GN",
+			"unicode": "U+1F1EC U+1F1F3",
+			"emoji_flag": "🇬🇳",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Guinea-Bissau": {
+			"country_code": "GW",
+			"unicode": "U+1F1EC U+1F1FC",
+			"emoji_flag": "🇬🇼",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Guyana": {
+			"country_code": "GY",
+			"unicode": "U+1F1EC U+1F1FE",
+			"emoji_flag": "🇬🇾",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+
+			]
+		},
+		"Haiti": {
+			"country_code": "HT",
+			"unicode": "U+1F1ED U+1F1F9",
+			"emoji_flag": "🇭🇹",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Heard Island and Mcdonald Islands": {
+			"country_code": "HM",
+			"unicode": "U+1F1ED U+1F1F2",
+			"emoji_flag": "🇭🇲",
+			"regions": []
+		},
+		"Honduras": {
+			"country_code": "HN",
+			"unicode": "U+1F1ED U+1F1F3",
+			"emoji_flag": "🇭🇳",
+			"regions": [
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean",
+				"Central America"
+			]
+		},
+		"Hong Kong": {
+			"country_code": "HK",
+			"unicode": "U+1F1ED U+1F1F0",
+			"emoji_flag": "🇭🇰",
+			"regions": [
+				"Eastern Asia and South-eastern Asia"
+			]
+		},
+		"Hungary": {
+			"country_code": "HU",
+			"unicode": "U+1F1ED U+1F1FA",
+			"emoji_flag": "🇭🇺",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Iceland": {
+			"country_code": "IS",
+			"unicode": "U+1F1EE U+1F1F8",
+			"emoji_flag": "🇮🇸",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)"
+			]
+		},
+		"India": {
+			"country_code": "IN",
+			"unicode": "U+1F1EE U+1F1F3",
+			"emoji_flag": "🇮🇳",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			],
+			"companies": [
+				"ICICI",
+				"Axis Bank",
+				"State Bank of India",
+				"SBI",
+				"Flipkart",
+				"TATA Steel",
+				"TATA",
+				"Indian Premier League"
+			],
+			"international_organizations": [
+				"BRICS"
+			]
+		},
+		"Indonesia": {
+			"country_code": "ID",
+			"unicode": "U+1F1EE U+1F1E9",
+			"emoji_flag": "🇮🇩",
+			"regions": [
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Iran": {
+			"country_code": "IR",
+			"unicode": "U+1F1EE U+1F1F7",
+			"emoji_flag": "🇮🇷",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Iraq": {
+			"country_code": "IQ",
+			"unicode": "U+1F1EE U+1F1F6",
+			"emoji_flag": "🇮🇶",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Ireland": {
+			"country_code": "IE",
+			"unicode": "U+1F1EE U+1F1EA",
+			"emoji_flag": "🇮🇪",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Ryanair"
+			],
+			"international_organizations": [
+				"European Union"
+			]
+		},
+		"Isle of Man": {
+			"country_code": "IM",
+			"unicode": "U+1F1EE U+1F1F2",
+			"emoji_flag": "🇮🇲",
+			"regions": []
+		},
+		"Israel": {
+			"country_code": "IL",
+			"unicode": "U+1F1EE U+1F1F1",
+			"emoji_flag": "🇮🇱",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Italy": {
+			"country_code": "IT",
+			"unicode": "U+1F1EE U+1F1F9",
+			"emoji_flag": "🇮🇹",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Banca Di Roma",
+				"Intesa Sanpaolo",
+				"Intesa",
+				"Cartasi",
+				"UniCredit"
+			],
+			"international_organizations": [
+				"G7",
+				"G20",
+				"European Union",
+				"North Atlantic Treaty Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Jamaica": {
+			"country_code": "JM",
+			"unicode": "U+1F1EF U+1F1F2",
+			"emoji_flag": "🇯🇲",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"Japan": {
+			"country_code": "JP",
+			"unicode": "U+1F1EF U+1F1F5",
+			"emoji_flag": "🇯🇵",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			],
+			"international_organizations": [
+				"G7",
+				"G20"
+			]
+		},
+		"Jersey": {
+			"country_code": "JE",
+			"unicode": "U+1F1EF U+1F1EA",
+			"emoji_flag": "🇯🇪",
+			"regions": []
+		},
+		"Jordan": {
+			"country_code": "JO",
+			"unicode": "U+1F1EF U+1F1F4",
+			"emoji_flag": "🇯🇴",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Kazakhstan": {
+			"country_code": "KZ",
+			"unicode": "U+1F1F0 U+1F1FF",
+			"emoji_flag": "🇰🇿",
+			"regions": [
+				"European Region",
+				"Central Asia and Southern Asia",
+				"North America and Europe",
+				"Asia"
+			]
+		},
+		"Kenya": {
+			"country_code": "KE",
+			"unicode": "U+1F1F0 U+1F1EA",
+			"emoji_flag": "🇰🇪",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Kiribati": {
+			"country_code": "KI",
+			"unicode": "U+1F1F0 U+1F1EE",
+			"emoji_flag": "🇰🇮",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Kosovo": {
+			"country_code": "XK",
+			"unicode": "U+1F1FD U+1F1F0",
+			"emoji_flag": "🇽🇰",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			]
+		},
+		"Kuwait": {
+			"country_code": "",
+			"unicode": "",
+			"emoji_flag": "🇰🇼",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			],
+			"companies": [
+				"Kuwait Petroleum"
+			]
+		},
+		"Kyrgyzstan": {
+			"country_code": "KG",
+			"unicode": "U+1F1F0 U+1F1EC",
+			"emoji_flag": "🇰🇬",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Laos": {
+			"country_code": "LA",
+			"unicode": "U+1F1F1 U+1F1E6",
+			"emoji_flag": "🇱🇦",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Latvia": {
+			"country_code": "LV",
+			"unicode": "U+1F1F1 U+1F1FB",
+			"emoji_flag": "🇱🇻",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Lebanon": {
+			"country_code": "LB",
+			"unicode": "U+1F1F1 U+1F1E7",
+			"emoji_flag": "🇱🇧",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Lesotho": {
+			"country_code": "LS",
+			"unicode": "U+1F1F1 U+1F1F8",
+			"emoji_flag": "🇱🇸",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Liberia": {
+			"country_code": "LR",
+			"unicode": "U+1F1F1 U+1F1F7",
+			"emoji_flag": "🇱🇷",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Libya": {
+			"country_code": "LY",
+			"unicode": "U+1F1F1 U+1F1FE",
+			"emoji_flag": "🇱🇾",
+			"regions": [
+				"Middle East and North Africa",
+				"Northern Africa",
+				"Africa Region",
+				"Africa",
+				"Western Asia and Northern Africa"
+			]
+		},
+		"Liechtenstein": {
+			"country_code": "LI",
+			"unicode": "U+1F1F1 U+1F1EE",
+			"emoji_flag": "🇱🇮",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			]
+		},
+		"Lithuania": {
+			"country_code": "LT",
+			"unicode": "U+1F1F1 U+1F1F9",
+			"emoji_flag": "🇱🇹",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Luxembourg": {
+			"country_code": "LU",
+			"unicode": "U+1F1F1 U+1F1FA",
+			"emoji_flag": "🇱🇺",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"North Atlantic Treaty Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Macau": {
+			"country_code": "MO",
+			"unicode": "U+1F1F2 U+1F1F4",
+			"emoji_flag": "🇲🇴",
+			"regions": [
+				"Eastern Asia and South-eastern Asia"
+			]
+		},
+		"Madagascar": {
+			"country_code": "MG",
+			"unicode": "U+1F1F2 U+1F1EC",
+			"emoji_flag": "🇲🇬",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Malawi": {
+			"country_code": "MW",
+			"unicode": "U+1F1F2 U+1F1FC",
+			"emoji_flag": "🇲🇼",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Malaysia": {
+			"country_code": "MY",
+			"unicode": "U+1F1F2 U+1F1FE",
+			"emoji_flag": "🇲🇾",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Maldives": {
+			"country_code": "MV",
+			"unicode": "U+1F1F2 U+1F1FB",
+			"emoji_flag": "🇲🇻",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Mali": {
+			"country_code": "ML",
+			"unicode": "U+1F1F2 U+1F1F1",
+			"emoji_flag": "🇲🇱",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Malta": {
+			"country_code": "MT",
+			"unicode": "U+1F1F2 U+1F1F9",
+			"emoji_flag": "🇲🇹",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"European Union"
+			]
+		},
+		"Marshall Islands": {
+			"country_code": "MH",
+			"unicode": "U+1F1F2 U+1F1ED",
+			"emoji_flag": "🇲🇭",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Martinique": {
+			"country_code": "MQ",
+			"unicode": "U+1F1F2 U+1F1F6",
+			"emoji_flag": "🇲🇶",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Mauritania": {
+			"country_code": "MR",
+			"unicode": "U+1F1F2 U+1F1F7",
+			"emoji_flag": "🇲🇷",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Mauritius": {
+			"country_code": "MU",
+			"unicode": "U+1F1F2 U+1F1FA",
+			"emoji_flag": "🇲🇺",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Mayotte": {
+			"country_code": "YT",
+			"unicode": "U+1F1FE U+1F1F9",
+			"emoji_flag": "🇾🇹",
+			"regions": []
+		},
+		"Mexico": {
+			"country_code": "MX",
+			"unicode": "U+1F1F2 U+1F1FD",
+			"emoji_flag": "🇲🇽",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			],
+			"companies": [
+				"Pemex"
+			]
+		},
+		"Micronesia": {
+			"country_code": "FM",
+			"unicode": "U+1F1EB U+1F1F2",
+			"emoji_flag": "🇫🇲",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Moldova": {
+			"country_code": "MD",
+			"unicode": "U+1F1F2 U+1F1E9",
+			"emoji_flag": "🇲🇩",
+			"regions": [
+				"Central and Eastern Europe",
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Monaco": {
+			"country_code": "MC",
+			"unicode": "U+1F1F2 U+1F1E8",
+			"emoji_flag": "🇲🇨",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Mongolia": {
+			"country_code": "MN",
+			"unicode": "U+1F1F2 U+1F1F3",
+			"emoji_flag": "🇲🇳",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Montenegro": {
+			"country_code": "ME",
+			"unicode": "U+1F1F2 U+1F1EA",
+			"emoji_flag": "🇲🇪",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)"
+			]
+		},
+		"Montserrat": {
+			"country_code": "MS",
+			"unicode": "U+1F1F2 U+1F1F8",
+			"emoji_flag": "🇲🇸",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Morocco": {
+			"country_code": "MA",
+			"unicode": "U+1F1F2 U+1F1E6",
+			"emoji_flag": "🇲🇦",
+			"regions": [
+				"Middle East and North Africa",
+				"Northern Africa",
+				"Africa Region",
+				"Africa",
+				"Western Asia and Northern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Mozambique": {
+			"country_code": "MZ",
+			"unicode": "U+1F1F2 U+1F1FF",
+			"emoji_flag": "🇲🇿",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Myanmar": {
+			"country_code": "MM",
+			"unicode": "U+1F1F2 U+1F1F2",
+			"emoji_flag": "🇲🇲",
+			"regions": [
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Namibia": {
+			"country_code": "NA",
+			"unicode": "U+1F1F3 U+1F1E6",
+			"emoji_flag": "🇳🇦",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Nauru": {
+			"country_code": "NR",
+			"unicode": "U+1F1F3 U+1F1F7",
+			"emoji_flag": "🇳🇷",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Nepal": {
+			"country_code": "NP",
+			"unicode": "U+1F1F3 U+1F1F5",
+			"emoji_flag": "🇳🇵",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Netherlands": {
+			"country_code": "NL",
+			"unicode": "U+1F1F3 U+1F1F1",
+			"emoji_flag": "🇳🇱",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Airbus",
+				"ABN AMRO Bank",
+				"Bol.com",
+				"Rabobank"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Netherlands Antilles": {
+			"country_code": "NL",
+			"unicode": "U+1F1F3 U+1F1F1",
+			"emoji_flag": "🇳🇱",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"New Caledonia": {
+			"country_code": "NC",
+			"unicode": "U+1F1F3 U+1F1E8",
+			"emoji_flag": "🇳🇨",
+			"regions": []
+		},
+		"New Zealand": {
+			"country_code": "NZ",
+			"unicode": "U+1F1F3 U+1F1FF",
+			"emoji_flag": "🇳🇿",
+			"regions": [
+				"Western Pacific Region"
+			],
+			"companies": [
+				"Kiwibank"
+			],
+			"international_organizations": [
+				"Five Eyes"
+			]
+		},
+		"Nicaragua": {
+			"country_code": "NI",
+			"unicode": "U+1F1F3 U+1F1EE",
+			"emoji_flag": "🇳🇮",
+			"regions": [
+				"Latin America and Caribbean",
+				"Central America"
+			]
+		},
+		"Niger": {
+			"country_code": "NE",
+			"unicode": "U+1F1F3 U+1F1EA",
+			"emoji_flag": "🇳🇪",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Nigeria": {
+			"country_code": "NG",
+			"unicode": "U+1F1F3 U+1F1EC",
+			"emoji_flag": "🇳🇬",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Niue": {
+			"country_code": "NU",
+			"unicode": "U+1F1F3 U+1F1FA",
+			"emoji_flag": "🇳🇺",
+			"regions": [
+				"Western Pacific Region",
+				"Oceania excluding Australia and New Zealand",
+				"Oceania"
+			]
+		},
+		"North Korea": {
+			"country_code": "KP",
+			"unicode": "U+1F1F0 U+1F1F5",
+			"emoji_flag": "🇰🇵",
+			"regions": [
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"North Macedonia": {
+			"country_code": "MK",
+			"unicode": "U+1F1F2 U+1F1F0",
+			"emoji_flag": "🇲🇰",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Norfolk Island": {
+			"country_code": "NF",
+			"unicode": "U+1F1F3 U+1F1EB",
+			"emoji_flag": "🇳🇫",
+			"regions": [
+				"Western Pacific Region",
+				"Oceania excluding Australia and New Zealand",
+				"Oceania"
+			]
+		},
+		"Northern Mariana Islands": {
+			"country_code": "MP",
+			"unicode": "U+1F1F2 U+1F1F5",
+			"emoji_flag": "🇲🇵",
+			"regions": [
+				"Western Pacific Region",
+				"Oceania excluding Australia and New Zealand",
+				"Oceania"
+			]
+		},
+		"Norway": {
+			"country_code": "NO",
+			"unicode": "U+1F1F3 U+1F1F4",
+			"emoji_flag": "🇳🇴",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)"
+			]
+		},
+		"Oman": {
+			"country_code": "OM",
+			"unicode": "U+1F1F4 U+1F1F2",
+			"emoji_flag": "🇴🇲",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Pakistan": {
+			"country_code": "PK",
+			"unicode": "U+1F1F5 U+1F1F0",
+			"emoji_flag": "🇵🇰",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Palau": {
+			"country_code": "PW",
+			"unicode": "U+1F1F5 U+1F1FC",
+			"emoji_flag": "🇵🇼",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Palestine": {
+			"country_code": "PS",
+			"unicode": "U+1F1F5 U+1F1F8",
+			"emoji_flag": "🇵🇸",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Panama": {
+			"country_code": "PA",
+			"unicode": "U+1F1F5 U+1F1E6",
+			"emoji_flag": "🇵🇦",
+			"regions": [
+				"Latin America and Caribbean",
+				"Central America"
+			]
+		},
+		"Papua New Guinea": {
+			"country_code": "PG",
+			"unicode": "U+1F1F5 U+1F1EC",
+			"emoji_flag": "🇵🇬",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Paraguay": {
+			"country_code": "PY",
+			"unicode": "U+1F1F5 U+1F1FE",
+			"emoji_flag": "🇵🇾",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			]
+		},
+		"Peru": {
+			"country_code": "PE",
+			"unicode": "U+1F1F5 U+1F1EA",
+			"emoji_flag": "🇵🇪",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			]
+		},
+		"Philippines": {
+			"country_code": "PH",
+			"unicode": "U+1F1F5 U+1F1ED",
+			"emoji_flag": "🇵🇭",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Pitcairn": {
+			"country_code": "PN",
+			"unicode": "U+1F1F5 U+1F1F3",
+			"emoji_flag": "🇵🇳",
+			"regions": [
+				"Western Pacific Region",
+				"Oceania excluding Australia and New Zealand",
+				"Oceania"
+			]
+		},
+		"Poland": {
+			"country_code": "PL",
+			"unicode": "U+1F1F5 U+1F1F1",
+			"emoji_flag": "🇵🇱",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"companies": [
+				"Bank Millennium",
+				"Allegro",
+				"PKO"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Portugal": {
+			"country_code": "PT",
+			"unicode": "U+1F1F5 U+1F1F9",
+			"emoji_flag": "🇵🇹",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Puerto Rico": {
+			"country_code": "PR",
+			"unicode": "U+1F1F5 U+1F1F7",
+			"emoji_flag": "🇵🇷",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Qatar": {
+			"country_code": "QA",
+			"unicode": "U+1F1F6 U+1F1E6",
+			"emoji_flag": "🇶🇦",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			],
+			"companies": [
+				"Qatar Airways"
+			]
+		},
+		"Republic of Congo": {
+			"country_code": "CG",
+			"unicode": "U+1F1E8 U+1F1EC",
+			"emoji_flag": "🇨🇬",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Reunion": {
+			"country_code": "RE",
+			"unicode": "U+1F1F7 U+1F1EA",
+			"emoji_flag": "🇷🇪",
+			"regions": []
+		},
+		"Romania": {
+			"country_code": "RO",
+			"unicode": "U+1F1F7 U+1F1F4",
+			"emoji_flag": "🇷🇴",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"companies": [
+				"Okazii.ro",
+				"eMAG"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie",
+				"North Atlantic Treaty Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Russia": {
+			"country_code": "RU",
+			"unicode": "U+1F1F7 U+1F1FA",
+			"emoji_flag": "🇷🇺",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe",
+				"Asia"
+			],
+			"international_organizations": [
+				"BRICS",
+				"United Nations Security Council (Permanent)"
+			]
+		},
+		"Rwanda": {
+			"country_code": "RW",
+			"unicode": "U+1F1F7 U+1F1FC",
+			"emoji_flag": "🇷🇼",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Saint Barthelemy": {
+			"country_code": "BL",
+			"unicode": "U+1F1E7 U+1F1F1",
+			"emoji_flag": "🇧🇱",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Saint Helena": {
+			"country_code": "SH",
+			"unicode": "U+1F1F8 U+1F1ED",
+			"emoji_flag": "🇸🇭",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Saint Kitts and Nevis": {
+			"country_code": "KN",
+			"unicode": "U+1F1F0 U+1F1F3",
+			"emoji_flag": "🇰🇳",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"Saint Lucia": {
+			"country_code": "LC",
+			"unicode": "U+1F1F1 U+1F1E8",
+			"emoji_flag": "🇱🇨",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Saint Pierre and Miquelon": {
+			"country_code": "PM",
+			"unicode": "U+1F1F5 U+1F1F2",
+			"emoji_flag": "🇵🇲",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Saint Vincent and the Grenadines": {
+			"country_code": "VC",
+			"unicode": "U+1F1FB U+1F1E8",
+			"emoji_flag": "🇻🇨",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"Samoa": {
+			"country_code": "WS",
+			"unicode": "U+1F1FC U+1F1F8",
+			"emoji_flag": "🇼🇸",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"San Marino": {
+			"country_code": "SM",
+			"unicode": "U+1F1F8 U+1F1F2",
+			"emoji_flag": "🇸🇲",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			]
+		},
+		"Sao Tome and Principe": {
+			"country_code": "ST",
+			"unicode": "U+1F1F8 U+1F1F9",
+			"emoji_flag": "🇸🇹",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Saudi Arabia": {
+			"country_code": "SA",
+			"unicode": "U+1F1F8 U+1F1E6",
+			"emoji_flag": "🇸🇦",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			],
+			"companies": [
+				"SABIC",
+				"Saudi Aramco"
+			]
+		},
+		"Senegal": {
+			"country_code": "SN",
+			"unicode": "U+1F1F8 U+1F1F3",
+			"emoji_flag": "🇸🇳",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Serbia": {
+			"country_code": "RS",
+			"unicode": "U+1F1F7 U+1F1F8",
+			"emoji_flag": "🇷🇸",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			]
+		},
+		"Seychelles": {
+			"country_code": "SC",
+			"unicode": "U+1F1F8 U+1F1E8",
+			"emoji_flag": "🇸🇨",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Sierra Leone": {
+			"country_code": "SL",
+			"unicode": "U+1F1F8 U+1F1F1",
+			"emoji_flag": "🇸🇱",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			]
+		},
+		"Singapore": {
+			"country_code": "SG",
+			"unicode": "U+1F1F8 U+1F1EC",
+			"emoji_flag": "🇸🇬",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			],
+			"companies": [
+				"Development Bank of Singapore",
+				"CIMB Bank",
+				"Alliance Bank",
+				"DBS Bank"
+			]
+		},
+		"Slovakia": {
+			"country_code": "SK",
+			"unicode": "U+1F1F8 U+1F1F0",
+			"emoji_flag": "🇸🇰",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Slovenia": {
+			"country_code": "SI",
+			"unicode": "U+1F1F8 U+1F1EE",
+			"emoji_flag": "🇸🇮",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Solomon Islands": {
+			"country_code": "",
+			"unicode": "",
+			"emoji_flag": "",
+			"regions": []
+		},
+		"Somalia": {
+			"country_code": "SO",
+			"unicode": "U+1F1F8 U+1F1F4",
+			"emoji_flag": "🇸🇴",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"South Africa": {
+			"country_code": "SA",
+			"unicode": "U+1F1FF U+1F1E6",
+			"emoji_flag": "🇿🇦",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			],
+			"companies": [
+				"South African Revenue Service",
+				"ABSA Bank",
+				"Capitec Bank",
+				"Capitec",
+				"First National Bank (South Africa)"
+			],
+			"international_organizations": [
+				"BRICS"
+			]
+		},
+		"South Korea": {
+			"country_code": "KR",
+			"unicode": "U+1F1F0 U+1F1F7",
+			"emoji_flag": "🇰🇷",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"South Sudan": {
+			"country_code": "SS",
+			"unicode": "U+1F1F8 U+1F1F8",
+			"emoji_flag": "🇸🇸",
+			"regions": [
+				"Middle East and North Africa",
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa"
+			]
+		},
+		"South Georgia and the South Sandwich Islands": {
+			"country_code": "GS",
+			"unicode": "U+1F1EC U+1F1F8",
+			"emoji_flag": "🇬🇸",
+			"regions": []
+		},
+		"Spain": {
+			"country_code": "ES",
+			"unicode": "U+1F1EA U+1F1F8",
+			"emoji_flag": "🇪🇸",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Hola",
+				"HolaBank",
+				"Caixo",
+				"CaixoBank",
+				"Banco Santander, S.A.",
+				"Banco",
+				"Real Madrid"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)",
+				"European Union"
+			]
+		},
+		"Sri Lanka": {
+			"country_code": "LK",
+			"unicode": "U+1F1F1 U+1F1F0",
+			"emoji_flag": "🇱🇰",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Sudan": {
+			"country_code": "SD",
+			"unicode": "U+1F1F8 U+1F1E9",
+			"emoji_flag": "🇸🇩",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Suriname": {
+			"country_code": "SR",
+			"unicode": "U+1F1F8 U+1F1F7",
+			"emoji_flag": "🇸🇷",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+
+			]
+		},
+		"Svalbard and Jan Mayen": {
+			"country_code": "SJ",
+			"unicode": "U+1F1F8 U+1F1EF",
+			"emoji_flag": "🇸🇯",
+			"regions": []
+		},
+		"Swaziland": {
+			"country_code": "SZ",
+			"unicode": "U+1F1F8 U+1F1FF",
+			"emoji_flag": "🇸🇿",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Sweden": {
+			"country_code": "SE",
+			"unicode": "U+1F1F8 U+1F1EA",
+			"emoji_flag": "🇸🇪",
+			"regions": [
+				"Europe and Central Asia",
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Swedbank",
+				"Fyndiq"
+			],
+			"international_organizations": [
+				"European Union"
+			]
+		},
+		"Switzerland": {
+			"country_code": "CH",
+			"unicode": "U+1F1E8 U+1F1ED",
+			"emoji_flag": "🇨🇭",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			],
+			"companies": [
+				"Cembra"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Syria": {
+			"country_code": "SY",
+			"unicode": "U+1F1F8 U+1F1FE",
+			"emoji_flag": "🇸🇾",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Taiwan": {
+			"country_code": "TW",
+			"unicode": "U+1F1F9 U+1F1FC",
+			"emoji_flag": "🇹🇼",
+			"regions": [
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			],
+			"companies": [
+				"Formosa Plastics"
+			]
+		},
+		"Tajikistan": {
+			"country_code": "TJ",
+			"unicode": "U+1F1F9 U+1F1EF",
+			"emoji_flag": "🇹🇯",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Tanzania": {
+			"country_code": "TZ",
+			"unicode": "U+1F1F9 U+1F1FF",
+			"emoji_flag": "🇹🇿",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Thailand": {
+			"country_code": "TH",
+			"unicode": "U+1F1F9 U+1F1ED",
+			"emoji_flag": "🇹🇭",
+			"regions": [
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			]
+		},
+		"Togo": {
+			"country_code": "TG",
+			"unicode": "U+1F1F9 U+1F1EC",
+			"emoji_flag": "🇹🇬",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"West and Central Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Tokelau": {
+			"country_code": "TK",
+			"unicode": "U+1F1F9 U+1F1F0",
+			"emoji_flag": "🇹🇰",
+			"regions": []
+		},
+		"Tonga": {
+			"country_code": "TO",
+			"unicode": "U+1F1F9 U+1F1F4",
+			"emoji_flag": "🇹🇴",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"Trinidad and Tobago": {
+			"country_code": "TT",
+			"unicode": "U+1F1F9 U+1F1F9",
+			"emoji_flag": "🇹🇹",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean",
+				"Latin America and Caribbean"
+			]
+		},
+		"Tunisia": {
+			"country_code": "TN",
+			"unicode": "U+1F1F9 U+1F1F3",
+			"emoji_flag": "🇹🇳",
+			"regions": [
+				"Middle East and North Africa",
+				"Northern Africa",
+				"Africa Region",
+				"Africa",
+				"Western Asia and Northern Africa"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Turkey": {
+			"country_code": "TR",
+			"unicode": "U+1F1F9 U+1F1F7",
+			"emoji_flag": "🇹🇷",
+			"regions": [
+				"European Region",
+				"Middle East and North Africa",
+				"North America and Europe",
+				"Western Asia and Northern Africa",
+				"Asia"
+			],
+			"international_organizations": [
+				"North Atlantic Treat Organization (NATO)"
+			]
+		},
+		"Turkmenistan": {
+			"country_code": "TM",
+			"unicode": "U+1F1F9 U+1F1F2",
+			"emoji_flag": "🇹🇲",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Turks and Caicos Islands": {
+			"country_code": "TC",
+			"unicode": "U+1F1F9 U+1F1E8",
+			"emoji_flag": "🇹🇨",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Tuvalu": {
+			"country_code": "TV",
+			"unicode": "U+1F1F9 U+1F1FB",
+			"emoji_flag": "🇹🇻",
+			"regions": [
+				"Western Pacific Region"
+			]
+		},
+		"U.S. Virgin Islands": {
+			"country_code": "VI",
+			"unicode": "U+1F1FB U+1F1EE",
+			"emoji_flag": "🇻🇮",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			]
+		},
+		"Uganda": {
+			"country_code": "UG",
+			"unicode": "U+1F1FA U+1F1EC",
+			"emoji_flag": "🇺🇬",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Ukraine": {
+			"country_code": "UA",
+			"unicode": "U+1F1FA U+1F1E6",
+			"emoji_flag": "🇺🇦",
+			"regions": [
+				"European Region",
+				"Central and Eastern Europe",
+				"North America and Europe"
+			]
+		},
+		"United Arab Emirates": {
+			"country_code": "AE",
+			"unicode": "U+1F1E6 U+1F1EA",
+			"emoji_flag": "🇦🇪",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			],
+			"companies": [
+				"Etihad",
+				"Emirates"
+			]
+		},
+		"United Kingdom": {
+			"country_code": "GB",
+			"unicode": "U+1F1EC U+1F1E7",
+			"emoji_flag": "🇬🇧",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			],
+			"companies": [
+				"Lloyds Bank",
+				"British Petroleum",
+				"BP",
+				"Cahoot",
+				"Co-operative Bank",
+				"Metro Bank",
+				"Smile Bank",
+				"Royal Bank of Scotland",
+				"Trustee Savings Bank",
+				"TSB",
+				"Santander UK",
+				"Manchester United",
+				"Daily Mail and General Trust",
+				"Daily Mail",
+				"The Guardian",
+				"Vodafone",
+				"Severn Trent",
+				"Thames Water",
+				"Onbuy",
+				"Fruugo",
+				"Folksy",
+				"Flubit",
+				"Coolshop",
+				"Asos"
+			],
+			"international_organizations": [
+				"G7",
+				"G20",
+				"United Nations Security Council (Permanent)",
+				"North Atlantic treaty Organization (NATO)"
+			]
+		},
+		"United States": {
+			"country_code": "US",
+			"unicode": "U+1F1FA U+1F1F8",
+			"emoji_flag": "🇺🇸",
+			"regions": [
+				"North America and Europe",
+				"North America",
+				"Region of the Americas",
+				"The Americas and Caribbean"
+			],
+			"companies": [
+				"Stanford University",
+				"Stanford",
+				"Harvard",
+				"MIT",
+				"Massachusetts Institute of Technology",
+				"California Institute of Technology",
+				"Princeton University",
+				"Columbia University",
+				"Yale University",
+				"University of California, Berkeley",
+				"UC Berkeley",
+				"University of Michigan",
+				"University of California",
+				"UCLA",
+				"BDO USA",
+				"Mazars USA",
+				"Lockheed Martin",
+				"SpaceX",
+				"Monsanto",
+				"Deere",
+				"Wells Fargo",
+				"JPMorgan Chase and Co.",
+				"Bank of America Corporation",
+				"Scotiabank",
+				"TD Ameritrade",
+				"Washington Mutual",
+				"United Services Automobile Association",
+				"USAA",
+				"Salem Five",
+				"Safra National Bank of New York",
+				"Navy Federal CU",
+				"Navy Federal",
+				"BMO Harris Bank",
+				"Marshall & Ilsley",
+				"Key Bank",
+				"Gather Federal Credit Union",
+				"GFCU",
+				"Kauai Community Federal Credit Union",
+				"KCFCU",
+				"First National Bank",
+				"First Federal Bank of California",
+				"First Direct",
+				"Fifth Third Bank",
+				"First Hawaiian Bank",
+				"FHB",
+				"Discover Bank",
+				"Discovery Card",
+				"Diners Club",
+				"Bank of America",
+				"BoA",
+				"MBNA",
+				"Amarillo National Bank",
+				"Amarillo",
+				"Delta Air Lines",
+				"Delta",
+				"American Airlines",
+				"Porter",
+				"United Airlines",
+				"Southwest Airlines",
+				"Booz Allen Hamilton",
+				"BAH",
+				"Acxiom",
+				"Epsilon",
+				"Experian",
+				"CoreLogic",
+				"Datalogix",
+				"Intelius",
+				"PeekYou",
+				"Exactis",
+				"Recorded Future",
+				"Nielsen",
+				"Equifax",
+				"Brookfield",
+				"ExxonMobil",
+				"Credit Karma",
+				"Internal Revenue Service",
+				"IRS",
+				"America's Best Value",
+				"Motel 6",
+				"AT&T",
+				"Cox Communications",
+				"AOL",
+				"Xfinity",
+				"Comcast",
+				"Verizon",
+				"CenturyLink",
+				"Raytheon",
+				"United States Citizenship and Immigration Services",
+				"U.S. Citizenship and Immigration Services",
+				"US Citizenship and Immigration Services",
+				"United States Immigration and Naturalization Service",
+				"U.S. Immigration and Naturalization Service",
+				"US Immigration and Naturalization Service",
+				"State Farm",
+				"People's Insurance",
+				"People's",
+				"Peoples",
+				"Office of the Director of National Intelligence",
+				"ODNI",
+				"Central Intelligence Agency",
+				"CIA",
+				"National Security Agency",
+				"NSA",
+				"Defense Intelligence Agency",
+				"DIA",
+				"Federal Bureau of Investigation",
+				"FBI",
+				"Bureau of Intelligence and Research",
+				"Office of Intelligence and Analysis",
+				"Office of National Security Intelligence",
+				"Office of Intelligence and Counterintelligence",
+				"National Geospatial-Intelligence Agency",
+				"National Reconnaissance Office",
+				"NRO",
+				"Office of Naval Intelliengce",
+				"ONI",
+				"DHL",
+				"FedEx",
+				"UPS",
+				"Unites States Postal Service",
+				"USPS",
+				"Wikimedia",
+				"News Corp",
+				"The New York Times Company",
+				"Norfolk Southern",
+				"Amtrak",
+				"CSX",
+				"MLB",
+				"NHL",
+				"NBA",
+				"NFL",
+				"MLS",
+				"New England Patriots",
+				"Los Angeles Lakers",
+				"Knicks",
+				"Dallas Cowboys",
+				"New York Yankees",
+				"CBS",
+				"NBC",
+				"ABC",
+				"Fox",
+				"ESPN",
+				"USA Network",
+				"MSNBC",
+				"The CW",
+				"CW",
+				"HGTV",
+				"TBS",
+				"Telemundo",
+				"Discovery",
+				"History",
+				"CNN",
+				"Brookings Institution",
+				"Brookings",
+				"Center for Strategic and International Studies",
+				"American Enterprise Institute",
+				"Carnegie Endowment for International Peace",
+				"Cato Institute",
+				"Fraser Institute",
+				"RAND Corporation",
+				"Council on Foreign Relations",
+				"Center for American Progress",
+				"American Greetings",
+				"California Water Service",
+				"Aqua America",
+				"American States Water",
+				"American Water Works",
+				"Caesar's Palace",
+				"Bellagio",
+				"Florida Power & Light",
+				"Dominion Virginia Power",
+				"Amazon.com",
+				"Bonanza",
+				"Cratejoy",
+				"eBay",
+				"Etsy",
+				"Reverb",
+				"Sears",
+				"Walmart",
+				"Wayfair",
+				"Wish",
+				"Craigslist",
+				"BuyWithMe",
+				"Groupon",
+				"Bank of the West",
+				"SunTrust",
+				"TD Ameritrade",
+				"PNC Bank",
+				"Branch Banking and Trust Company",
+				"PNC Bank",
+				"NatWest",
+				"National City",
+				"Interactive Brokers",
+				"Independent Bank",
+				"Huntington Bank",
+				"Compass",
+				"Compass Bank",
+				"Comerica",
+				"Chase",
+				"Charter One",
+				"Citizens Bank",
+				"CNB",
+				"CNB Bank",
+				"Truist Financial",
+				"BB&T",
+				"BoA",
+				"MBNA"
+			],
+			"international_organizations": [
+				"G7",
+				"G20",
+				"United Nations Security Council (Permanent)",
+				"North Atlantic treaty Organization (NATO)",
+				"North American Aerospace Defense Command (NORAD)"
+			]
+		},
+		"United States Minor Outlying Islands": {
+			"country_code": "US",
+			"unicode": "U+1F1FA U+1F1F8",
+			"emoji_flag": "🇺🇸",
+			"regions": []
+		},
+		"Uruguay": {
+			"country_code": "UY",
+			"unicode": "U+1F1FA U+1F1FE",
+			"emoji_flag": "🇺🇾",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			]
+		},
+		"Uzbekistan": {
+			"country_code": "UZ",
+			"unicode": "U+1F1FA U+1F1FF",
+			"emoji_flag": "🇺🇿",
+			"regions": [
+				"Central Asia and Southern Asia",
+				"Asia"
+			]
+		},
+		"Vanuatu": {
+			"country_code": "VU",
+			"unicode": "U+1F1FB U+1F1FA",
+			"emoji_flag": "🇻🇺",
+			"regions": [
+				"Western Pacific Region"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Vatican": {
+			"country_code": "VA",
+			"unicode": "U+1F1FB U+1F1E6",
+			"emoji_flag": "🇻🇦",
+			"regions": [
+				"European Region",
+				"North America and Europe"
+			]
+		},
+		"Venezuela": {
+			"country_code": "VE",
+			"unicode": "U+1F1FB U+1F1EA",
+			"emoji_flag": "🇻🇪",
+			"regions": [
+				"Latin America and Caribbean",
+				"South America"
+			]
+		},
+		"Vietnam": {
+			"country_code": "VN",
+			"unicode": "U+1F1FB U+1F1F3",
+			"emoji_flag": "🇻🇳",
+			"regions": [
+				"Western Pacific Region",
+				"Eastern Asia and South-eastern Asia",
+				"Asia"
+			],
+			"international_organizations": [
+				"Organisation internationale de la Francophonie"
+			]
+		},
+		"Wallis and Futuna": {
+			"country_code": "WF",
+			"unicode": "U+1F1FC U+1F1EB",
+			"emoji_flag": "🇼🇫",
+			"regions": []
+		},
+		"Western Sahara": {
+			"country_code": "EH",
+			"unicode": "U+1F1EA U+1F1ED",
+			"emoji_flag": "🇪🇭",
+			"regions": []
+		},
+		"Yemen": {
+			"country_code": "YE",
+			"unicode": "U+1F1FE U+1F1EA",
+			"emoji_flag": "🇾🇪",
+			"regions": [
+				"Middle East and North Africa",
+				"Western Asia and Northern Africa",
+				"Asia"
+			]
+		},
+		"Zambia": {
+			"country_code": "ZM",
+			"unicode": "U+1F1FF U+1F1F2",
+			"emoji_flag": "🇿🇲",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		},
+		"Zimbabwe": {
+			"country_code": "ZW",
+			"unicode": "U+1F1FF U+1F1FC",
+			"emoji_flag": "🇿🇼",
+			"regions": [
+				"Africa Region",
+				"Africa",
+				"Sub-Saharan Africa",
+				"Eastern and Southern Africa"
+			]
+		}
+	}
+}

@@ -1,0 +1,1692 @@
+[
+    {
+        "name": "Arp",
+        "id": "S0099",
+        "actors": [
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            },
+            {
+                "name": "APT32",
+                "id": "G0050"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Network Configuration Discovery",
+                "id": "T1016"
+            }
+        ]
+    },
+    {
+        "name": "BITSAdmin",
+        "id": "S0190",
+        "actors": [
+            {
+                "name": "Leviathan",
+                "id": "G0065"
+            },
+            {
+                "name": "Tropic Trooper",
+                "id": "G0081"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Lateral Tool Transfer",
+                "id": "T1570"
+            }
+        ]
+    },
+    {
+        "name": "CARROTBALL",
+        "id": "S0465",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "Cachedump",
+        "id": "S0119",
+        "actors": [
+            {
+                "name": "APT1",
+                "id": "G0006"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Cached Domain Credentials",
+                "id": "T1003.005"
+            }
+        ]
+    },
+    {
+        "name": "CrackMapExec",
+        "id": "S0488",
+        "actors": [
+            {
+                "name": "APT39",
+                "id": "G0087"
+            },
+            {
+                "name": "MuddyWater",
+                "id": "G0069"
+            },
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Remote System Discovery",
+                "id": "T1018"
+            }
+        ]
+    },
+    {
+        "name": "Empire",
+        "id": "S0363",
+        "actors": [
+            {
+                "name": "CopyKittens",
+                "id": "G0052"
+            },
+            {
+                "name": "FIN10",
+                "id": "G0051"
+            },
+            {
+                "name": "APT19",
+                "id": "G0073"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "WIRTE",
+                "id": "G0090"
+            },
+            {
+                "name": "Silence",
+                "id": "G0091"
+            },
+            {
+                "name": "Frankenstein",
+                "id": "G0101"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            },
+            {
+                "name": "MuddyWater",
+                "id": "G0069"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Group Policy Modification",
+                "id": "T1484.001"
+            }
+        ]
+    },
+    {
+        "name": "Expand",
+        "id": "S0361",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "FTP",
+        "id": "S0095",
+        "actors": [
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol",
+                "id": "T1048.003"
+            }
+        ]
+    },
+    {
+        "name": "Fgdump",
+        "id": "S0120",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "Forfiles",
+        "id": "S0193",
+        "actors": [
+            {
+                "name": "APT28",
+                "id": "G0007"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Data from Local System",
+                "id": "T1005"
+            }
+        ]
+    },
+    {
+        "name": "HTRAN",
+        "id": "S0040",
+        "actors": [
+            {
+                "name": "APT12",
+                "id": "G0005"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Rootkit",
+                "id": "T1014"
+            }
+        ]
+    },
+    {
+        "name": "Havij",
+        "id": "S0224",
+        "actors": [
+            {
+                "name": "Magic Hound",
+                "id": "G0059"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Exploit Public-Facing Application",
+                "id": "T1190"
+            }
+        ]
+    },
+    {
+        "name": "Imminent Monitor",
+        "id": "S0434",
+        "actors": [
+            {
+                "name": "APT-C-36",
+                "id": "G0099"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Credentials from Web Browsers",
+                "id": "T1555.003"
+            }
+        ]
+    },
+    {
+        "name": "Impacket",
+        "id": "S0357",
+        "actors": [
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "LSA Secrets",
+                "id": "T1003.004"
+            }
+        ]
+    },
+    {
+        "name": "Invoke-PSImage",
+        "id": "S0231",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "Koadic",
+        "id": "S0250",
+        "actors": [
+            {
+                "name": "APT28",
+                "id": "G0007"
+            },
+            {
+                "name": "MuddyWater",
+                "id": "G0069"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "NTDS",
+                "id": "T1003.003"
+            }
+        ]
+    },
+    {
+        "name": "LaZagne",
+        "id": "S0349",
+        "actors": [
+            {
+                "name": "Leafminer",
+                "id": "G0077"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "APT3",
+                "id": "G0022"
+            },
+            {
+                "name": "MuddyWater",
+                "id": "G0069"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            },
+            {
+                "name": "Inception",
+                "id": "G0100"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "/etc/passwd and /etc/shadow",
+                "id": "T1003.008"
+            }
+        ]
+    },
+    {
+        "name": "Lslsass",
+        "id": "S0121",
+        "actors": [
+            {
+                "name": "APT1",
+                "id": "G0006"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "LSASS Memory",
+                "id": "T1003.001"
+            }
+        ]
+    },
+    {
+        "name": "MCMD",
+        "id": "S0500",
+        "actors": [
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Windows Command Shell",
+                "id": "T1059.003"
+            }
+        ]
+    },
+    {
+        "name": "MailSniper",
+        "id": "S0413",
+        "actors": [
+            {
+                "name": "Leafminer",
+                "id": "G0077"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Email Account",
+                "id": "T1087.003"
+            }
+        ]
+    },
+    {
+        "name": "MimiPenguin",
+        "id": "S0179",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "Mimikatz",
+        "id": "S0002",
+        "actors": [
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "APT28",
+                "id": "G0007"
+            },
+            {
+                "name": "Cleaver",
+                "id": "G0003"
+            },
+            {
+                "name": "Magic Hound",
+                "id": "G0059"
+            },
+            {
+                "name": "Carbanak",
+                "id": "G0008"
+            },
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "Leafminer",
+                "id": "G0077"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "BRONZE BUTLER",
+                "id": "G0060"
+            },
+            {
+                "name": "Lazarus Group",
+                "id": "G0032"
+            },
+            {
+                "name": "APT32",
+                "id": "G0050"
+            },
+            {
+                "name": "DarkHydrus",
+                "id": "G0079"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "MuddyWater",
+                "id": "G0069"
+            },
+            {
+                "name": "Thrip",
+                "id": "G0076"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            },
+            {
+                "name": "Cobalt Group",
+                "id": "G0080"
+            },
+            {
+                "name": "APT38",
+                "id": "G0082"
+            },
+            {
+                "name": "PittyTiger",
+                "id": "G0011"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            },
+            {
+                "name": "Stolen Pencil",
+                "id": "G0086"
+            },
+            {
+                "name": "APT39",
+                "id": "G0087"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            },
+            {
+                "name": "TEMP.Veles",
+                "id": "G0088"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            },
+            {
+                "name": "FIN6",
+                "id": "G0037"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            },
+            {
+                "name": "Whitefly",
+                "id": "G0107"
+            },
+            {
+                "name": "Blue Mockingbird",
+                "id": "G0108"
+            },
+            {
+                "name": "Dragonfly",
+                "id": "G0035"
+            },
+            {
+                "name": "Chimera",
+                "id": "G0114"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            },
+            {
+                "name": "UNC2452",
+                "id": "G0118"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "LSA Secrets",
+                "id": "T1003.004"
+            }
+        ]
+    },
+    {
+        "name": "Net",
+        "id": "S0039",
+        "actors": [
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            },
+            {
+                "name": "Deep Panda",
+                "id": "G0009"
+            },
+            {
+                "name": "Threat Group-1314",
+                "id": "G0028"
+            },
+            {
+                "name": "admin@338",
+                "id": "G0018"
+            },
+            {
+                "name": "APT38",
+                "id": "G0082"
+            },
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "APT32",
+                "id": "G0050"
+            },
+            {
+                "name": "BRONZE BUTLER",
+                "id": "G0060"
+            },
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "FIN8",
+                "id": "G0061"
+            },
+            {
+                "name": "Leviathan",
+                "id": "G0065"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            },
+            {
+                "name": "TA505",
+                "id": "G0092"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Domain Account",
+                "id": "T1087.002"
+            }
+        ]
+    },
+    {
+        "name": "Nltest",
+        "id": "S0359",
+        "actors": [
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Network Configuration Discovery",
+                "id": "T1016"
+            }
+        ]
+    },
+    {
+        "name": "Pass-The-Hash Toolkit",
+        "id": "S0122",
+        "actors": [
+            {
+                "name": "APT1",
+                "id": "G0006"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Pass the Hash",
+                "id": "T1550.002"
+            }
+        ]
+    },
+    {
+        "name": "Ping",
+        "id": "S0097",
+        "actors": [
+            {
+                "name": "Deep Panda",
+                "id": "G0009"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Remote System Discovery",
+                "id": "T1018"
+            }
+        ]
+    },
+    {
+        "name": "PoshC2",
+        "id": "S0378",
+        "actors": [
+            {
+                "name": "APT33",
+                "id": "G0064"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Local Account",
+                "id": "T1087.001"
+            }
+        ]
+    },
+    {
+        "name": "PowerSploit",
+        "id": "S0194",
+        "actors": [
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Patchwork",
+                "id": "G0040"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            },
+            {
+                "name": "MuddyWater",
+                "id": "G0069"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Credentials from Password Stores",
+                "id": "T1555"
+            }
+        ]
+    },
+    {
+        "name": "PsExec",
+        "id": "S0029",
+        "actors": [
+            {
+                "name": "FIN5",
+                "id": "G0053"
+            },
+            {
+                "name": "FIN6",
+                "id": "G0037"
+            },
+            {
+                "name": "Magic Hound",
+                "id": "G0059"
+            },
+            {
+                "name": "Leafminer",
+                "id": "G0077"
+            },
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "Cobalt Group",
+                "id": "G0080"
+            },
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            },
+            {
+                "name": "Carbanak",
+                "id": "G0008"
+            },
+            {
+                "name": "Threat Group-1314",
+                "id": "G0028"
+            },
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "Night Dragon",
+                "id": "G0014"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            },
+            {
+                "name": "Cleaver",
+                "id": "G0003"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Thrip",
+                "id": "G0076"
+            },
+            {
+                "name": "Stolen Pencil",
+                "id": "G0086"
+            },
+            {
+                "name": "APT39",
+                "id": "G0087"
+            },
+            {
+                "name": "TEMP.Veles",
+                "id": "G0088"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            },
+            {
+                "name": "DarkVishnya",
+                "id": "G0105"
+            },
+            {
+                "name": "Dragonfly",
+                "id": "G0035"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Lateral Tool Transfer",
+                "id": "T1570"
+            }
+        ]
+    },
+    {
+        "name": "Pupy",
+        "id": "S0192",
+        "actors": [
+            {
+                "name": "Magic Hound",
+                "id": "G0059"
+            },
+            {
+                "name": "APT33",
+                "id": "G0064"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Credentials from Web Browsers",
+                "id": "T1555.003"
+            }
+        ]
+    },
+    {
+        "name": "QuasarRAT",
+        "id": "S0262",
+        "actors": [
+            {
+                "name": "Gorgon Group",
+                "id": "G0078"
+            },
+            {
+                "name": "Patchwork",
+                "id": "G0040"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Credentials from Web Browsers",
+                "id": "T1555.003"
+            }
+        ]
+    },
+    {
+        "name": "RawDisk",
+        "id": "S0364",
+        "actors": [
+            {
+                "name": "Lazarus Group",
+                "id": "G0032"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Disk Content Wipe",
+                "id": "T1561.001"
+            }
+        ]
+    },
+    {
+        "name": "Reg",
+        "id": "S0075",
+        "actors": [
+            {
+                "name": "Honeybee",
+                "id": "G0072"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "Rancor",
+                "id": "G0075"
+            },
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Modify Registry",
+                "id": "T1112"
+            }
+        ]
+    },
+    {
+        "name": "Remcos",
+        "id": "S0332",
+        "actors": [
+            {
+                "name": "Gorgon Group",
+                "id": "G0078"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Python",
+                "id": "T1059.006"
+            }
+        ]
+    },
+    {
+        "name": "Responder",
+        "id": "S0174",
+        "actors": [
+            {
+                "name": "APT28",
+                "id": "G0007"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "LLMNR/NBT-NS Poisoning and SMB Relay",
+                "id": "T1557.001"
+            }
+        ]
+    },
+    {
+        "name": "Ruler",
+        "id": "S0358",
+        "actors": [
+            {
+                "name": "APT33",
+                "id": "G0064"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Outlook Forms",
+                "id": "T1137.003"
+            }
+        ]
+    },
+    {
+        "name": "SDelete",
+        "id": "S0195",
+        "actors": [
+            {
+                "name": "FIN5",
+                "id": "G0053"
+            },
+            {
+                "name": "Cobalt Group",
+                "id": "G0080"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            },
+            {
+                "name": "Silence",
+                "id": "G0091"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Data Destruction",
+                "id": "T1485"
+            }
+        ]
+    },
+    {
+        "name": "ShimRatReporter",
+        "id": "S0445",
+        "actors": [
+            {
+                "name": "Mofang",
+                "id": "G0103"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Exfiltration Over C2 Channel",
+                "id": "T1041"
+            }
+        ]
+    },
+    {
+        "name": "Systeminfo",
+        "id": "S0096",
+        "actors": [
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "Honeybee",
+                "id": "G0072"
+            },
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "admin@338",
+                "id": "G0018"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Information Discovery",
+                "id": "T1082"
+            }
+        ]
+    },
+    {
+        "name": "Tasklist",
+        "id": "S0057",
+        "actors": [
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "Deep Panda",
+                "id": "G0009"
+            },
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "Honeybee",
+                "id": "G0072"
+            },
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Process Discovery",
+                "id": "T1057"
+            }
+        ]
+    },
+    {
+        "name": "Tor",
+        "id": "S0183",
+        "actors": [
+            {
+                "name": "APT29",
+                "id": "G0016"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Multi-hop Proxy",
+                "id": "T1090.003"
+            }
+        ]
+    },
+    {
+        "name": "UACMe",
+        "id": "S0116",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "Windows Credential Editor",
+        "id": "S0005",
+        "actors": [
+            {
+                "name": "BRONZE BUTLER",
+                "id": "G0060"
+            },
+            {
+                "name": "FIN6",
+                "id": "G0037"
+            },
+            {
+                "name": "FIN5",
+                "id": "G0053"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            },
+            {
+                "name": "APT39",
+                "id": "G0087"
+            },
+            {
+                "name": "Leviathan",
+                "id": "G0065"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "LSASS Memory",
+                "id": "T1003.001"
+            }
+        ]
+    },
+    {
+        "name": "Winexe",
+        "id": "S0191",
+        "actors": [
+            {
+                "name": "APT28",
+                "id": "G0007"
+            },
+            {
+                "name": "Silence",
+                "id": "G0091"
+            },
+            {
+                "name": "DarkVishnya",
+                "id": "G0105"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Service Execution",
+                "id": "T1569.002"
+            }
+        ]
+    },
+    {
+        "name": "certutil",
+        "id": "S0160",
+        "actors": [
+            {
+                "name": "Rancor",
+                "id": "G0075"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "APT28",
+                "id": "G0007"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Ingress Tool Transfer",
+                "id": "T1105"
+            }
+        ]
+    },
+    {
+        "name": "cmd",
+        "id": "S0106",
+        "actors": [
+            {
+                "name": "BRONZE BUTLER",
+                "id": "G0060"
+            },
+            {
+                "name": "Honeybee",
+                "id": "G0072"
+            },
+            {
+                "name": "APT18",
+                "id": "G0026"
+            },
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Ingress Tool Transfer",
+                "id": "T1105"
+            }
+        ]
+    },
+    {
+        "name": "dsquery",
+        "id": "S0105",
+        "actors": [
+            {
+                "name": "FIN8",
+                "id": "G0061"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Domain Trust Discovery",
+                "id": "T1482"
+            }
+        ]
+    },
+    {
+        "name": "esentutl",
+        "id": "S0404",
+        "actors": [
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Lateral Tool Transfer",
+                "id": "T1570"
+            }
+        ]
+    },
+    {
+        "name": "gsecdump",
+        "id": "S0008",
+        "actors": [
+            {
+                "name": "Night Dragon",
+                "id": "G0014"
+            },
+            {
+                "name": "BRONZE BUTLER",
+                "id": "G0060"
+            },
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "PittyTiger",
+                "id": "G0011"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "LSA Secrets",
+                "id": "T1003.004"
+            }
+        ]
+    },
+    {
+        "name": "ifconfig",
+        "id": "S0101",
+        "actors": [],
+        "techniques": []
+    },
+    {
+        "name": "ipconfig",
+        "id": "S0100",
+        "actors": [
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            },
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "admin@338",
+                "id": "G0018"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            },
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "APT32",
+                "id": "G0050"
+            },
+            {
+                "name": "Soft Cell",
+                "id": "G0093"
+            },
+            {
+                "name": "APT29",
+                "id": "G0016"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Network Configuration Discovery",
+                "id": "T1016"
+            }
+        ]
+    },
+    {
+        "name": "meek",
+        "id": "S0175",
+        "actors": [
+            {
+                "name": "APT29",
+                "id": "G0016"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Domain Fronting",
+                "id": "T1090.004"
+            }
+        ]
+    },
+    {
+        "name": "nbtstat",
+        "id": "S0102",
+        "actors": [
+            {
+                "name": "Turla",
+                "id": "G0010"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Network Configuration Discovery",
+                "id": "T1016"
+            }
+        ]
+    },
+    {
+        "name": "netsh",
+        "id": "S0108",
+        "actors": [
+            {
+                "name": "Carbanak",
+                "id": "G0008"
+            },
+            {
+                "name": "Lazarus Group",
+                "id": "G0032"
+            },
+            {
+                "name": "Dragonfly 2.0",
+                "id": "G0074"
+            },
+            {
+                "name": "Naikon",
+                "id": "G0019"
+            },
+            {
+                "name": "APT32",
+                "id": "G0050"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Netsh Helper DLL",
+                "id": "T1546.007"
+            }
+        ]
+    },
+    {
+        "name": "netstat",
+        "id": "S0104",
+        "actors": [
+            {
+                "name": "OilRig",
+                "id": "G0049"
+            },
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            },
+            {
+                "name": "admin@338",
+                "id": "G0018"
+            },
+            {
+                "name": "Turla",
+                "id": "G0010"
+            },
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Network Connections Discovery",
+                "id": "T1049"
+            }
+        ]
+    },
+    {
+        "name": "pwdump",
+        "id": "S0006",
+        "actors": [
+            {
+                "name": "APT1",
+                "id": "G0006"
+            },
+            {
+                "name": "FIN5",
+                "id": "G0053"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "Threat Group-3390",
+                "id": "G0027"
+            },
+            {
+                "name": "APT41",
+                "id": "G0096"
+            },
+            {
+                "name": "APT39",
+                "id": "G0087"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Security Account Manager",
+                "id": "T1003.002"
+            }
+        ]
+    },
+    {
+        "name": "route",
+        "id": "S0103",
+        "actors": [
+            {
+                "name": "Orangeworm",
+                "id": "G0071"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Network Configuration Discovery",
+                "id": "T1016"
+            }
+        ]
+    },
+    {
+        "name": "schtasks",
+        "id": "S0111",
+        "actors": [
+            {
+                "name": "APT3",
+                "id": "G0022"
+            },
+            {
+                "name": "BRONZE BUTLER",
+                "id": "G0060"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Scheduled Task",
+                "id": "T1053.005"
+            }
+        ]
+    },
+    {
+        "name": "spwebmember",
+        "id": "S0227",
+        "actors": [
+            {
+                "name": "Ke3chang",
+                "id": "G0004"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Sharepoint",
+                "id": "T1213.002"
+            }
+        ]
+    },
+    {
+        "name": "sqlmap",
+        "id": "S0225",
+        "actors": [
+            {
+                "name": "Magic Hound",
+                "id": "G0059"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Exploit Public-Facing Application",
+                "id": "T1190"
+            }
+        ]
+    },
+    {
+        "name": "xCmd",
+        "id": "S0123",
+        "actors": [
+            {
+                "name": "APT1",
+                "id": "G0006"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Service Execution",
+                "id": "T1569.002"
+            }
+        ]
+    },
+    {
+        "name": "AdFind",
+        "id": "S0552",
+        "actors": [
+            {
+                "name": "FIN6",
+                "id": "G0037"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            },
+            {
+                "name": "menuPass",
+                "id": "G0045"
+            },
+            {
+                "name": "UNC2452",
+                "id": "G0118"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "Domain Groups",
+                "id": "T1069.002"
+            }
+        ]
+    },
+    {
+        "name": "BloodHound",
+        "id": "S0521",
+        "actors": [
+            {
+                "name": "Chimera",
+                "id": "G0114"
+            },
+            {
+                "name": "Wizard Spider",
+                "id": "G0102"
+            }
+        ],
+        "techniques": [
+            {
+                "name": "System Owner/User Discovery",
+                "id": "T1033"
+            }
+        ]
+    }
+]

@@ -1,0 +1,4424 @@
+[
+    {
+        "threat_name": "Adwind",
+        "aka": [
+            "JSocket",
+            "AlienSpy",
+            "Frutas",
+            "Sockrat",
+            "Unrecom",
+            "jFrutas",
+            "Frutas RAT",
+            "Adwind",
+            "jBiFrost",
+            "jRat",
+            "Trojan.Maljava",
+            "adwin"
+        ],
+        "status": "Complete",
+        "UUID": "84c906b7-9f92-4884-bd96-03e95aef4cd0"
+    },
+    {
+        "threat_name": "Agent Tesla",
+        "aka": [
+            "AgentTesla",
+            "Agent Tesla",
+            "Tesla"
+        ],
+        "status": "Complete",
+        "UUID": "c3fbd1f5-eeb6-4b3b-b1cb-8eae282fcdb1"
+    },
+    {
+        "threat_name": "ASPXSpy",
+        "aka": [
+            "ASPXSpy",
+            "ASPXTool"
+        ],
+        "status": "Complete",
+        "UUID": "625d6fce-01db-4377-bbb6-b52a5095e333"
+    },
+    {
+        "threat_name": "AZORult",
+        "aka": [
+            "AZORult",
+            "PuffStealer",
+            "Rultazo"
+        ],
+        "status": "Complete",
+        "UUID": "2284e78e-9d99-47f4-8cdd-7602d43c4515"
+    },
+    {
+        "threat_name": "China Chopper",
+        "aka": [
+            "China Chopper",
+            "ChinaChopper",
+            "Chopper"
+        ],
+        "status": "Complete",
+        "UUID": "093fbdd7-2eb7-4989-897d-c73ce534066d"
+    },
+    {
+        "threat_name": "Cobalt Strike",
+        "aka": [
+            "CobaltStrike",
+            "Cobalt Strike"
+        ],
+        "status": "Complete",
+        "UUID": "bf187673-9670-4932-b0a8-79b3fdbe1a70"
+    },
+    {
+        "threat_name": "Dark Comet",
+        "aka": [
+            "Dark Comet",
+            "DarkComet",
+            "Fynloski",
+            "klovbot",
+            "DarkKomet",
+            "Krademok",
+            "FYNLOS",
+            "Breut"
+        ],
+        "status": "Complete",
+        "UUID": "f7d56e46-efe9-445e-938b-7ed2ac31f3ad"
+    },
+    {
+        "threat_name": "Dridex",
+        "aka": [
+            "Dridex",
+            "Bugat",
+            "Cridex"
+        ],
+        "status": "Complete",
+        "UUID": "57af1331-73a7-47ee-ab22-f0f3a0d12548"
+    },
+    {
+        "threat_name": "Emotet",
+        "aka": [
+            "Emotet",
+            "Heodo"
+        ],
+        "status": "Complete",
+        "UUID": "60f16b99-aac5-4497-a90d-7a2e9a4dec96"
+    },
+    {
+        "threat_name": "FlawedAmmyy",
+        "aka": [
+            "FlawedAmmyy",
+            "Flawed Ammyy",
+            "FlawedAmy"
+        ],
+        "status": "Complete",
+        "UUID": "c2770f77-bbdc-42a2-a4ef-630afdbb3655"
+    },
+    {
+        "threat_name": "FormBook",
+        "aka": [
+            "Babushka Crypter"
+        ],
+        "status": "Complete",
+        "UUID": "6ddb98aa-a912-436d-b420-e2f3d3e1f5fa"
+    },
+    {
+        "threat_name": "GootKit",
+        "aka": [
+            "Gootkit",
+            "GootKit",
+            "Waldek",
+            "Xswkit",
+            "Talalpek"
+        ],
+        "status": "Complete",
+        "UUID": "dcaa180e-3a56-4d31-8aec-8866f7905cd0"
+    },
+    {
+        "threat_name": "IcedID",
+        "aka": [
+            "IcedID",
+            "BokBot"
+        ],
+        "status": "Complete",
+        "UUID": "31517a3e-d660-4795-b3c1-8b321390e64b"
+    },
+    {
+        "threat_name": "Loki",
+        "aka": [
+            "Loki",
+            "Loki Password Stealer",
+            "LokiPWS",
+            "LokiBot",
+            "Loki-bot"
+        ],
+        "status": "Complete",
+        "UUID": "aea8051a-5b82-48f0-af2f-f37466f13c7c"
+    },
+    {
+        "threat_name": "Mimikatz",
+        "aka": [
+            ""
+        ],
+        "status": "Complete",
+        "UUID": "0fd6e6c6-79b1-4110-8c2f-b03118f4aaae"
+    },
+    {
+        "threat_name": "NanoCore",
+        "aka": [
+            "NanoCore",
+            "Nanocore",
+            "Nancrat",
+            "NanoBot",
+            "Nanocor",
+            "nancocore",
+            "nanocre"
+        ],
+        "status": "Complete",
+        "UUID": "e2bc1fa5-487f-4adb-8243-f11f6091a4cd"
+    },
+    {
+        "threat_name": "njRAT",
+        "aka": [
+            "njRAT",
+            "Bladabindi",
+            "Njw0rm",
+            "LV",
+            "Jenxcus",
+            "KJ-w0rm",
+            "SiR DoOoM",
+            "Ratenjay",
+            "njra"
+        ],
+        "status": "Complete",
+        "UUID": "cadf7144-66f2-4806-952e-30f007b05222"
+    },
+    {
+        "threat_name": "Smoke Loader",
+        "aka": [
+            "Smoke Loader",
+            "Smokeloader",
+            "SmokeLdr",
+            "Smoke Bot",
+            "Dofoil",
+            "Sharik"
+        ],
+        "status": "Complete",
+        "UUID": "bc5fe771-c94b-4a87-8ddc-e9ad31c9e381"
+    },
+    {
+        "threat_name": "TrickBot",
+        "aka": [
+            "TrickLoader",
+            "Trickster",
+            "TheTrick",
+            "TrickLoader",
+            "Totbrick",
+            "TSPY_TRICKLOAD"
+        ],
+        "status": "Complete",
+        "UUID": "a031667e-5aa1-44c3-b9fa-b1290e2b61fc"
+    },
+    {
+        "threat_name": "Ursnif",
+        "aka": [
+            "Gozi",
+            "Gozi-ISFB",
+            "Dreambot",
+            "Ursnif",
+            "PE_URSNIF"
+        ],
+        "status": "Complete",
+        "UUID": "be7a7fa2-baca-4a56-a023-71fae602a946"
+    },
+    {
+        "threat_name": "Vawtrak",
+        "aka": [
+            "Vawtrak",
+            "Catch",
+            "grabnew",
+            "GRABNEW",
+            "S-Classe",
+            "NeverQuest",
+            "NeverQuest2",
+            "Snifula",
+            "Grabnew"
+        ],
+        "status": "Complete",
+        "UUID": "5a90dde8-2729-4f2b-8bed-e3fffacb5ae2"
+    },
+    {
+        "threat_name": "Zeus Panda",
+        "aka": [
+            "Panda Banker",
+            "ZeuS Panda",
+            "PandaBot",
+            "Panda Bot",
+            "Panda"
+        ],
+        "status": "Complete",
+        "UUID": "16cfdab1-9cec-4650-bb03-1efda6453452"
+    },
+    {
+        "threat_name": "PlugX",
+        "aka": [
+            "KORPLUG",
+            "SOGU",
+            "Destroy RAT",
+            "Kaba"
+        ],
+        "status": "Complete",
+        "UUID": "0672ef9c-0414-420a-95db-0ed09c70789f"
+    },
+    {
+        "threat_name": "GuLoader",
+        "aka": [
+            "vbdropper"
+        ],
+        "status": "Complete",
+        "UUID": "ea76ea85-8f60-4c93-b168-75cb124601f3"
+    },
+    {
+        "threat_name": "AveMaria",
+        "aka": [
+            "AVE_MARIA",
+            "AveMariaRAT",
+            "Warzone RAT",
+            "avemaria",
+            "Ave Maria"
+        ],
+        "status": "Complete",
+        "UUID": "6449edbe-6468-45ba-a3c7-aaddfb198acc"
+    },
+    {
+        "threat_name": "Glupteba",
+        "aka": [
+            "BEEHIVE",
+            "Gupdamon"
+        ],
+        "status": "Complete",
+        "UUID": "8e69dc51-8a05-475c-b93a-11e8f0241e41"
+    },
+    {
+        "threat_name": "Terdot",
+        "aka": [
+            "Terdot",
+            "DELoader",
+            "Zeus XSphinx",
+            "Zloader",
+            "Zbot"
+        ],
+        "status": "Complete",
+        "UUID": "17f76ec1-1fc9-43b1-8419-b6917257448a"
+    },
+    {
+        "threat_name": "DanaBot",
+        "aka": [
+            "Dana bot"
+        ],
+        "status": "Complete",
+        "UUID": "8c6e6da5-7e66-422a-8b5b-1d3120fd71e3"
+    },
+    {
+        "threat_name": "NetWire",
+        "aka": [
+            "NetWire",
+            "NetWire RAT",
+            "Recam",
+            "NetwireRAT",
+            "NetWeird",
+            "NetWiredRC"
+        ],
+        "status": "Complete",
+        "UUID": "1ef74f82-9cdb-4cda-910c-88711a73a860"
+    },
+    {
+        "threat_name": "Quasar",
+        "aka": [
+            "Quasar RAT",
+            "CinaRAT",
+            "QuasarRAT",
+            "Yggdrasil",
+            "DILLJUICE",
+            "xRAT"
+        ],
+        "status": "Complete",
+        "UUID": "20037b27-d08c-4ddb-986d-be309bfd12f7"
+    },
+    {
+        "threat_name": "HawkEye",
+        "aka": [
+            "HawkEye Reborn",
+            "Predator Pain"
+        ],
+        "status": "Complete",
+        "UUID": "ba5eda58-b3c2-4993-8cc1-3a8259c5de9d"
+    },
+    {
+        "threat_name": "Hancitor",
+        "aka": [
+            "Tordal",
+            "Chanitor"
+        ],
+        "status": "Complete",
+        "UUID": "e9961818-0c9e-4f8e-b1ea-034542b9d0c3"
+    },
+    {
+        "threat_name": "Remcos",
+        "aka": [
+            "RemcosRAT",
+            "Remcos RAT",
+            "Remcps",
+            "Remvio"
+        ],
+        "status": "Complete",
+        "UUID": "0f5bb666-de1d-4ab9-840f-a336d77157ee"
+    },
+    {
+        "threat_name": "Vidar",
+        "aka": [
+            "VidarStealer",
+            "Vidar Stealer"
+        ],
+        "status": "Complete",
+        "UUID": "7d11d612-e0bb-490e-b4f3-1e9999e21ed0"
+    },
+    {
+        "threat_name": "Raccoon",
+        "aka": [
+            "Raccoon Stealer",
+            "RaccoonStealer",
+            "Raccon",
+            "Mohazo",
+            "Racealer"
+        ],
+        "status": "Complete",
+        "UUID": "adf25b4a-a0e5-4971-aef2-cb8d083033c6"
+    },
+    {
+        "threat_name": "Pony",
+        "aka": [
+            "Siplog",
+            "Fareit"
+        ],
+        "status": "Complete",
+        "UUID": "d0d4ad38-559d-464c-b7bf-bef0c5d50359"
+    },
+    {
+        "threat_name": "Predator the Thief",
+        "aka": [
+            "Predator"
+        ],
+        "status": "Complete",
+        "UUID": "f6502817-6087-44da-aba7-07166ff20ff9"
+    },
+    {
+        "threat_name": "Ryuk",
+        "aka": [
+            "Hermes 2.1"
+        ],
+        "status": "Complete",
+        "UUID": "bbd8f894-5e3b-4620-8831-e3e438a45862"
+    },
+    {
+        "threat_name": "Troldesh",
+        "aka": [
+            "Shade",
+            "Encoder.858"
+        ],
+        "status": "Complete",
+        "UUID": "a2ba537a-54ff-43f6-b7ec-bbe3823fd960"
+    },
+    {
+        "threat_name": "Revenge",
+        "aka": [
+            "RevengeRAT",
+            "Revenge RAT",
+            "Revetrat"
+        ],
+        "status": "Complete",
+        "UUID": "3290520d-fbb5-4024-934c-3c0e6f610f62"
+    },
+    {
+        "threat_name": "Sodinokibi",
+        "aka": [
+            "Sodinokibi",
+            "Sodin",
+            "REvil"
+        ],
+        "status": "Complete",
+        "UUID": "9f464ad9-2f1f-451e-94b1-cb7fe5cd0b05"
+    },
+    {
+        "threat_name": "Orcus",
+        "aka": [
+            "Orcus RAT",
+            "OrcusRAT",
+            "Schnorchel"
+        ],
+        "status": "Complete",
+        "UUID": "14fd66c8-ab75-481c-b3d7-3a0038f01dc3"
+    },
+    {
+        "threat_name": "GandCrab",
+        "aka": [
+            "Gand Crab",
+            "GrandCrab",
+            "Grand Crab"
+        ],
+        "status": "Complete",
+        "UUID": "c9ae5eca-4c3c-4589-a330-7ea3d7809f2f"
+    },
+    {
+        "threat_name": "Dharma",
+        "aka": [
+            "Arena",
+            "Crysis",
+            "Wadhrama"
+        ],
+        "status": "Complete",
+        "UUID": "0b801a7d-585e-43c1-a272-b47410ccbbca"
+    },
+    {
+        "threat_name": "Crimson",
+        "aka": [
+            "Crimson RAT",
+            "CrimsonRAT",
+            "SEEDOOR",
+            "Scarimson"
+        ],
+        "status": "In Progress",
+        "UUID": "c4aa90d6-bfd3-4c5a-a160-65ce4251bdd1"
+    },
+    {
+        "threat_name": "Pteranodon",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "168dddf4-3531-4a93-8373-9c0305fa731b"
+    },
+    {
+        "threat_name": "Arkei",
+        "aka": [
+            "ArkeiStealer",
+            "Arkei Stealer",
+            "Win32/Feury.B!cl"
+        ],
+        "status": "Complete",
+        "UUID": "27746d27-7e45-4a16-b077-15078d4a1296"
+    },
+    {
+        "threat_name": "Qakbot",
+        "aka": [
+            "Pinkslipbot",
+            "Qbot",
+            "Quakbot"
+        ],
+        "status": "Complete",
+        "UUID": "e5176026-5987-4ddf-822f-ea1969eb3cc7"
+    },
+    {
+        "threat_name": "BlackRAT",
+        "aka": [
+            "BlackRemote",
+            "Black RAT",
+            "Black Remote Access Trojan",
+            "Black Remote"
+        ],
+        "status": "Complete",
+        "UUID": "b3788389-c406-4e5e-b1ce-6fad99b9ed03"
+    },
+    {
+        "threat_name": "Houdini",
+        "aka": [
+            "dunihi",
+            "dunihiworm",
+            "Hworm",
+            "Njw0rm",
+            "Jenxcus",
+            "Kognito",
+            "WSHRAT",
+            "H-worm"
+        ],
+        "status": "Complete",
+        "UUID": "e79dd915-237f-4a26-84f6-56b2cec846a2"
+    },
+    {
+        "threat_name": "Phorpiex",
+        "aka": [
+            "Trik",
+            "SDBot",
+            "TrikBot"
+        ],
+        "status": "Complete",
+        "UUID": "fca076db-5e9f-439f-9eda-ac5c24d5e303"
+    },
+    {
+        "threat_name": "Neutrino",
+        "aka": [
+            "MWZLesson",
+            "Neutrino",
+            "Kasidet",
+            "W32/Trojan.FAVQ-2299",
+            "TR/Crypt.ZPACK.99635",
+            "TROJ_SPNR.0AJ414"
+        ],
+        "status": "Complete",
+        "UUID": "a0059ef3-edba-46dd-88c6-fbb3d653bbf0"
+    },
+    {
+        "threat_name": "Xtreme",
+        "aka": [
+            "ExtRat",
+            "xtreme RAT",
+            "xtremerat",
+            "xtremrat",
+            "ExtremeRAT",
+            "Xtrat",
+            "XtremeRAT"
+        ],
+        "status": "Complete",
+        "UUID": "d14e3009-0160-4b48-99d7-846e405b9aa6"
+    },
+    {
+        "threat_name": "Luminosity",
+        "aka": [
+            "LuminosityRAT",
+            "LuminosityLink",
+            "Luminosity RAT"
+        ],
+        "status": "In Progress",
+        "UUID": "e5bd3a85-0473-4baf-91ef-d60243611b54"
+    },
+    {
+        "threat_name": "LimeRAT",
+        "aka": [
+            "Limeworm",
+            "Lime RAT",
+            "Lime Worm"
+        ],
+        "status": "In Progress",
+        "UUID": "7338a808-6635-43dd-b4b6-9470c232e191"
+    },
+    {
+        "threat_name": "Imminent",
+        "aka": [
+            "Imminent Monitor RAT",
+            "imminentrat",
+            "Imminent Monitor"
+        ],
+        "status": "Complete",
+        "UUID": "a488d00a-74fb-4d38-84dd-edb12ecd1991"
+    },
+    {
+        "threat_name": "Poison Ivy",
+        "aka": [
+            "pivy",
+            "poisonivy",
+            "Darkmoon"
+        ],
+        "status": "Complete",
+        "UUID": "df08c6c6-b310-437f-9621-8b5b06da89b4"
+    },
+    {
+        "threat_name": "Darktrack",
+        "aka": [
+            "DarktrackRAT",
+            "Darktrack RAT",
+            "DtBackdoor"
+        ],
+        "status": "In Progress",
+        "UUID": "a8ab4550-558a-42ca-93e4-841aef75fe05"
+    },
+    {
+        "threat_name": "JavaRAT",
+        "aka": [
+            "Java RAT"
+        ],
+        "status": "In Progress",
+        "UUID": "7d648c02-807d-4764-b9c3-31294e94e2dc"
+    },
+    {
+        "threat_name": "xRAT",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "103255ea-c72d-4f70-aa30-b9798116e302"
+    },
+    {
+        "threat_name": "jRAT",
+        "aka": [
+            "Jacksbot",
+            "Jacks Bot"
+        ],
+        "status": "Complete",
+        "UUID": "99ad1e45-9668-4685-a751-23f4a89afddc"
+    },
+    {
+        "threat_name": "RevCode",
+        "aka": [
+            "WebMonitor",
+            "WebMonitor RAT",
+            "WebMonitorRAT"
+        ],
+        "status": "In Progress",
+        "UUID": "4661d8cf-bfec-4928-a65e-f77c97270d1c"
+    },
+    {
+        "threat_name": "BabyLon RAT",
+        "aka": [
+            "babylonrat",
+            "babylon"
+        ],
+        "status": "In Progress",
+        "UUID": "e5c0b459-0040-465d-b770-01b10c2bc1dd"
+    },
+    {
+        "threat_name": "Blackworm",
+        "aka": [
+            "BlackwormRAT",
+            "Blackworm RAT",
+            "Black Ninja",
+            "BlackNinja"
+        ],
+        "status": "In Progress",
+        "UUID": "d414fb87-1d63-4383-8122-fd20000a1264"
+    },
+    {
+        "threat_name": "vjw0rm",
+        "aka": [
+            "vjworm",
+            "Vengeance Justice Worm"
+        ],
+        "status": "In Progress",
+        "UUID": "79f0aadf-be76-4d96-8dcc-316146dbaa51"
+    },
+    {
+        "threat_name": "Amadey",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "d8b5244f-53ab-4698-9bc2-9dcce510c1b6"
+    },
+    {
+        "threat_name": "AsyncRAT",
+        "aka": [
+            "Async RAT",
+            "Async"
+        ],
+        "status": "Complete",
+        "UUID": "8f0bea93-5f54-408d-af23-5278aded63e3"
+    },
+    {
+        "threat_name": "MAZE",
+        "aka": [
+            "ChaCha"
+        ],
+        "status": "Complete",
+        "UUID": "d807152b-ad33-47d8-a551-5c91040f1270"
+    },
+    {
+        "threat_name": "MassLogger",
+        "aka": [
+            "MASS Logger"
+        ],
+        "status": "Complete",
+        "UUID": "1791c39e-9003-495c-91b2-8ad7e3ca352d"
+    },
+    {
+        "threat_name": "CheetahKeylogger",
+        "aka": [
+            "Cheetah",
+            "Cheetah Keylogger"
+        ],
+        "status": "Complete",
+        "UUID": "d47fc9d0-abe0-4978-adb0-073d13fc3ba8"
+    },
+    {
+        "threat_name": "ExtenBro",
+        "aka": [
+            "Adware.ExtenBro"
+        ],
+        "status": "Complete",
+        "UUID": "896994a3-734f-49cf-ae83-4e6f6cde058a"
+    },
+    {
+        "threat_name": "404Keylogger",
+        "aka": [
+            "404 Keylogger",
+            "404K",
+            "404",
+            "Snake Keylogger",
+            "SnakeKeylogger"
+        ],
+        "status": "Complete",
+        "UUID": "4dba83ea-e603-469a-913b-818e2d428c96"
+    },
+    {
+        "threat_name": "Lucifer",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "613f0462-acb0-45a3-b3af-8570d3ed9d75"
+    },
+    {
+        "threat_name": "SystemBC",
+        "aka": [
+            "System BC"
+        ],
+        "status": "Complete",
+        "UUID": "2835d467-28e6-476d-9ebd-5f3b9cf0e47c"
+    },
+    {
+        "threat_name": "DownloadMR",
+        "aka": [
+            "Adware.DownloadMR",
+            "Solimba"
+        ],
+        "status": "Complete",
+        "UUID": "77df0afe-b150-467d-a5c7-e028a044a873"
+    },
+    {
+        "threat_name": "QNodeService",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "130b8cb6-1d08-4272-897a-e8cfb7c35413"
+    },
+    {
+        "threat_name": "Valak",
+        "aka": [
+            "ADSLOAD"
+        ],
+        "status": "Complete",
+        "UUID": "76baf953-a6d9-4047-976e-737ad4c3b21a"
+    },
+    {
+        "threat_name": "BuerLoader",
+        "aka": [
+            "Buer Loader",
+            "Buer"
+        ],
+        "status": "Complete",
+        "UUID": "4ce151de-36de-4ea4-981c-a1b94c40ecea"
+    },
+    {
+        "threat_name": "Snojan",
+        "aka": [
+            "Sonja"
+        ],
+        "status": "Complete",
+        "UUID": "3313bc0d-924d-4192-9437-28de2cce77f5"
+    },
+    {
+        "threat_name": "ComRAT",
+        "aka": [
+            "Com RAT",
+            "Agent.BTZ",
+            "Chinch",
+            "BIRDPEN"
+        ],
+        "status": "Complete",
+        "UUID": "6cc3c815-ad7f-4c9b-b7ff-d049c4746b59"
+    },
+    {
+        "threat_name": "Bunitu",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "b2489a00-77d3-4c50-9c98-ecd867654e7e"
+    },
+    {
+        "threat_name": "RedLineStealer",
+        "aka": [
+            "RedLine",
+            "RedLine Stealer"
+        ],
+        "status": "Complete",
+        "UUID": "9ae4b48f-712f-4293-8d39-6ed46a221976"
+    },
+    {
+        "threat_name": "Clop",
+        "aka": [
+            "C|0P",
+            "cl0p",
+            "c1op"
+        ],
+        "status": "In Progress",
+        "UUID": "e63a40ff-f514-4683-a941-ded425d2bab7"
+    },
+    {
+        "threat_name": "Sekhmet",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "495ebcb4-d746-44d3-9d5e-b8dbf20ff4e9"
+    },
+    {
+        "threat_name": "NEMTY",
+        "aka": [
+            "Neflim",
+            "Nephilim"
+        ],
+        "status": "In Progress",
+        "UUID": "79fcffec-9c91-40e9-9967-e195b03631c9"
+    },
+    {
+        "threat_name": "DoppelPaymer",
+        "aka": [
+            "BitPaymer",
+            "FriedEx",
+            "IEncrypt",
+            "DopplePaymer"
+        ],
+        "status": "In Progress",
+        "UUID": "ac741492-5403-4de5-b325-6d370d1e5070"
+    },
+    {
+        "threat_name": "Ragnar",
+        "aka": [
+            "RagnarLocker",
+            "Ragnar Locker",
+            "Ragnar_Locker"
+        ],
+        "status": "Complete",
+        "UUID": "df8f9ab1-9209-4549-b28c-7431205fecb0"
+    },
+    {
+        "threat_name": "NetWalker",
+        "aka": [
+            "Mailto",
+            "Koko",
+            "NetWalker"
+        ],
+        "status": "In Progress",
+        "UUID": "91afac41-e6a8-40bf-a437-d5c43b23b0c3"
+    },
+    {
+        "threat_name": "Ako",
+        "aka": [
+            "MedusaLocker",
+            "Medusa Locker",
+            "AKO Ransomware",
+            "AKO Doxware",
+            "MedusaReborn",
+            "Medusa Reborn",
+            "Ranzy"
+        ],
+        "status": "In Progress",
+        "UUID": "48d068a5-13a8-4851-81d8-b2da226c1eda"
+    },
+    {
+        "threat_name": "CryLocker",
+        "aka": [
+            "CryLock",
+            "Central Security Treatment Organization",
+            "CSTO",
+            "Cry Ransomware"
+        ],
+        "status": "Complete",
+        "UUID": "a76ad873-0e23-49de-8dd5-f94cb8d01813"
+    },
+    {
+        "threat_name": "ProLock",
+        "aka": [
+            "PwndLocker",
+            "KeyLocker"
+        ],
+        "status": "In Progress",
+        "UUID": "0dcfe314-2a73-4201-807f-4356cd65a29b"
+    },
+    {
+        "threat_name": "EKANS",
+        "aka": [
+            "Snake",
+            "Snake Ransomware",
+            "EKANS Ransomware"
+        ],
+        "status": "Complete",
+        "UUID": "eb042ea2-aa34-4213-9273-d8bc1bdb3150"
+    },
+    {
+        "threat_name": "Snatch",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "6daf1d7c-d24f-46af-9d03-1d92796e4df6"
+    },
+    {
+        "threat_name": "Pysa",
+        "aka": [
+            "Mespinoza",
+            "Snatch"
+        ],
+        "status": "In Progress",
+        "UUID": "9c35db48-78c0-47ea-b830-da685535fcf5"
+    },
+    {
+        "threat_name": "ParallaxRAT",
+        "aka": [
+            "Parallax RAT"
+        ],
+        "status": "Complete",
+        "UUID": "769b5186-37cd-4127-ba3b-c219ec8ff29d"
+    },
+    {
+        "threat_name": "Zyklon",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "fccd31f8-b53a-464f-a7db-330cdb7ac1c3"
+    },
+    {
+        "threat_name": "TVRAT",
+        "aka": [
+            "SpY-Agent",
+            "TeamSpy",
+            "TeamViewer",
+            "TeamViewer v6",
+            "RMS",
+            "TVSPY"
+        ],
+        "status": "Complete",
+        "UUID": "d0d3b49c-8e85-4bb8-953b-737c628ae7b0"
+    },
+    {
+        "threat_name": "CobianRAT",
+        "aka": [
+            "Cobian",
+            "Cobian RAT"
+        ],
+        "status": "Complete",
+        "UUID": "ec518b8e-a9b1-4b30-a985-aa8c61e3a274"
+    },
+    {
+        "threat_name": "Adware.Generic",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "14e1c4da-1472-43f0-8da1-13b0a3a27d2e"
+    },
+    {
+        "threat_name": "KPOTStealer",
+        "aka": [
+            "KPOT Stealer",
+            "Khalesi",
+            "Kpot",
+            "KPOT V2.0"
+        ],
+        "status": "Complete",
+        "UUID": "144f25ea-0fb0-4ca7-a026-9023fda950bf"
+    },
+    {
+        "threat_name": "XpertRAT",
+        "aka": [
+            "Expert RAT",
+            "xpert RAT",
+            "ExpertRAT"
+        ],
+        "status": "Complete",
+        "UUID": "45c37562-a7d1-4268-bfb2-fd661b4d8f1b"
+    },
+    {
+        "threat_name": "Recslurp",
+        "aka": [
+            "W32/Recslurp",
+            "W32.DownloadRecslurpG",
+            "W32.DownloadRecslurp"
+        ],
+        "status": "Complete",
+        "UUID": "6c7d28b8-edf9-4c3f-8840-f696a7224be9"
+    },
+    {
+        "threat_name": "Ribaj",
+        "aka": [
+            "Worm.Ribaj"
+        ],
+        "status": "In Progress",
+        "UUID": "2bdbebc1-905e-4d24-b4b5-cd9c4cd3d452"
+    },
+    {
+        "threat_name": "FinderBot",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "96ca95ec-e3be-4649-9768-78baefdc5a08"
+    },
+    {
+        "threat_name": "SysVenFak",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "7172696c-7ab9-41e7-a4c5-b2df521fda10"
+    },
+    {
+        "threat_name": "Meterpreter",
+        "aka": [
+            "Metasploit"
+        ],
+        "status": "Complete",
+        "UUID": "91edd958-dd8b-4b95-b5bf-4af90df72fb5"
+    },
+    {
+        "threat_name": "ISRStealer",
+        "aka": [
+            "ISR Stealer",
+            "ISR",
+            "PWS-FCGH",
+            "FCGH"
+        ],
+        "status": "Complete",
+        "UUID": "3f739e28-563c-4b5d-a68f-d7bd68230c97"
+    },
+    {
+        "threat_name": "Expiro",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "a676c45e-5935-4f5c-b484-8720f930d681"
+    },
+    {
+        "threat_name": "Upatre",
+        "aka": [
+            "Downloader.Upatre"
+        ],
+        "status": "Complete",
+        "UUID": "c54b654c-d75b-4645-816a-f93d8058dd31"
+    },
+    {
+        "threat_name": "Sality",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "a2745b42-845c-41fa-a2fb-c40a7a8dd8ab"
+    },
+    {
+        "threat_name": "ReconYC",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "1c7ee842-0e0a-45c9-bc03-6ef30f87bf0d"
+    },
+    {
+        "threat_name": "Coinminer.Generic",
+        "aka": [
+            "Cryptocurrency Miner",
+            "Cryptojacker",
+            "Cryptojacking",
+            "Coin Miner"
+        ],
+        "status": "Complete",
+        "UUID": "28535be2-9225-4cff-a369-eeb0e744daca"
+    },
+    {
+        "threat_name": "BlackShades",
+        "aka": [
+            "Black Shades",
+            "BlackShades NET",
+            "Cambot"
+        ],
+        "status": "In Progress",
+        "UUID": "dbd7ce48-4233-418f-9a0c-98ddc0e1c1d7"
+    },
+    {
+        "threat_name": "Tinba",
+        "aka": [
+            "Zusy",
+            "Illi",
+            "TinyBanker",
+            "chthonic",
+            "tinbanker"
+        ],
+        "status": "Complete",
+        "UUID": "1d1ae677-ea93-4757-b7c8-0625b926da38"
+    },
+    {
+        "threat_name": "Anyplace Control",
+        "aka": [
+            "Anyplace"
+        ],
+        "status": "Complete",
+        "UUID": "9456cbc9-4c53-48ed-915f-81a514a63a88"
+    },
+    {
+        "threat_name": "TerraStealer",
+        "aka": [
+            "TaurusStealer",
+            "StealerOne, Taurus Loader Stealer Module",
+            "StealerOne",
+            "SONE",
+            "Taurus Stealer"
+        ],
+        "status": "In Progress",
+        "UUID": "7d075a4d-5294-4433-b379-dda5c7d07e9d"
+    },
+    {
+        "threat_name": "TerraLoader",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "ce87dedc-bdc6-413e-8569-709398c177ef"
+    },
+    {
+        "threat_name": "more_eggs",
+        "aka": [
+            "SpicyOmelette",
+            "SKID"
+        ],
+        "status": "In Progress",
+        "UUID": "94c9876e-ca8a-42bf-9233-6bebdd95c315"
+    },
+    {
+        "threat_name": "TerraRecon",
+        "aka": [
+            "Taurus Loader Reconnaissance Module"
+        ],
+        "status": "In Progress",
+        "UUID": "8788938a-c6f9-44f8-ab04-cd1db1df417c"
+    },
+    {
+        "threat_name": "TerraTV",
+        "aka": [
+            "Taurus Loader TeamViewer Module"
+        ],
+        "status": "In Progress",
+        "UUID": "7a1bd803-a911-4b5e-a25a-47b49b362b8a"
+    },
+    {
+        "threat_name": "Dyre",
+        "aka": [
+            "Dyzap",
+            "Dyreza"
+        ],
+        "status": "Complete",
+        "UUID": "07ba6b71-69d2-49c9-82a8-14149281f393"
+    },
+    {
+        "threat_name": "ModiLoader",
+        "aka": [
+            "Modi Loader"
+        ],
+        "status": "Complete",
+        "UUID": "e457b902-75c0-4033-bd5a-7893c26518b0"
+    },
+    {
+        "threat_name": "CryptoBot",
+        "aka": [
+            "Crypto Bot",
+            "CryptBot",
+            "Paycrypt"
+        ],
+        "status": "In Progress",
+        "UUID": "5baf0dfb-fab5-40cc-8d71-7158633b0477"
+    },
+    {
+        "threat_name": "NukeSped",
+        "aka": [
+            "Nuke Sped"
+        ],
+        "status": "Complete",
+        "UUID": "9e600658-bb63-40bb-baef-77a545f7a6b4"
+    },
+    {
+        "threat_name": "Skimmer.Generic",
+        "aka": [
+            "Sniffer",
+            "Skimmer",
+            "JS Skimmer",
+            "JS Sniffer",
+            "JavaScript Skimmer",
+            "JavaScript Sniffer"
+        ],
+        "status": "Complete",
+        "UUID": "c2cc342c-a193-4420-b508-e61644d681c6"
+    },
+    {
+        "threat_name": "Citadel",
+        "aka": [
+            "Atmos"
+        ],
+        "status": "Complete",
+        "UUID": "bfd9d006-f749-4f5d-a267-f55c69c6a35e"
+    },
+    {
+        "threat_name": "Shifu",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "b655a663-12c8-4eea-acad-0fe438fa1bb6"
+    },
+    {
+        "threat_name": "BozokRAT",
+        "aka": [
+            "Bozok"
+        ],
+        "status": "In Progress",
+        "UUID": "f03be5d4-0b62-4f1c-9d0b-68549af223e7"
+    },
+    {
+        "threat_name": "BlackNET",
+        "aka": [
+            "BlackNET RAT",
+            "Black NET"
+        ],
+        "status": "In Progress",
+        "UUID": "e5ec4d97-5bdb-4547-8f20-1ed28649285a"
+    },
+    {
+        "threat_name": "Albertino Advanced RAT",
+        "aka": [
+            "AARRAT",
+            "AARRat",
+            "Albertino",
+            "AAR"
+        ],
+        "status": "In Progress",
+        "UUID": "417c236d-b239-482b-b57d-a46018b95365"
+    },
+    {
+        "threat_name": "Rapid",
+        "aka": [
+            "Rapid Ransomware"
+        ],
+        "status": "In Progress",
+        "UUID": "800c940c-66be-4fae-84a9-406eafd1783b"
+    },
+    {
+        "threat_name": "CyberGate",
+        "aka": [
+            "Rebhip"
+        ],
+        "status": "In Progress",
+        "UUID": "76dc6dc4-28d8-454e-94d5-ce5f09e80a2b"
+    },
+    {
+        "threat_name": "STOP",
+        "aka": [
+            "KeyPass",
+            "Djvu",
+            "STOP Ransomware"
+        ],
+        "status": "In Progress",
+        "UUID": "83da6cb2-c315-4006-8294-8a2ba454d6e1"
+    },
+    {
+        "threat_name": "Ostap",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "4e08309c-f8f6-4c0d-8dc6-8e6d700dc121"
+    },
+    {
+        "threat_name": "Qealler",
+        "aka": [
+            "Pyrogenic Infostealer",
+            "Pyrogenic"
+        ],
+        "status": "In Progress",
+        "UUID": "dec393a3-e3d0-4d78-82cb-e1eb967d3c06"
+    },
+    {
+        "threat_name": "MistStealer",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "ce38b0c3-97cb-42fa-9b71-efd08c8b8041"
+    },
+    {
+        "threat_name": "Avaddon",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "8538bb33-4f15-4dc1-bc16-d9cd4b7b4533"
+    },
+    {
+        "threat_name": "TroyStealer",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "5da5b306-bd80-4bb4-a03c-8c6dfecd43cc"
+    },
+    {
+        "threat_name": "ESCAL",
+        "aka": [],
+        "status": "New",
+        "UUID": "48e55ead-574e-451b-8945-ae683b633f0b"
+    },
+    {
+        "threat_name": "DCRat",
+        "aka": [
+            "DarkCrystal RAT",
+            "DarkCrystal"
+        ],
+        "status": "In Progress",
+        "UUID": "7c6c6621-9466-4267-a9ec-456d5a24fdd6"
+    },
+    {
+        "threat_name": "CannibalRAT",
+        "aka": [
+            "Cannibal RAT",
+            "Cannibal"
+        ],
+        "status": "In Progress",
+        "UUID": "04251d36-9d77-48b1-be48-d819759acb6b"
+    },
+    {
+        "threat_name": "MicroRAT",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "b45d2427-18e0-4eab-98b4-010c76bc3d32"
+    },
+    {
+        "threat_name": "TelegramRAT",
+        "aka": [
+            "Telegram RAT",
+            "Telegram-RAT"
+        ],
+        "status": "Complete",
+        "UUID": "141bad42-59ac-4089-a1d8-83430962b998"
+    },
+    {
+        "threat_name": "RunningRAT",
+        "aka": [
+            "Running RAT",
+            "running_rat"
+        ],
+        "status": "In Progress",
+        "UUID": "4e8edeaa-7cdb-478a-8df1-513eb9b4c2b7"
+    },
+    {
+        "threat_name": "Micropsia",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "3c4cd97f-f97e-487e-a6d9-e8da0fa59b5d"
+    },
+    {
+        "threat_name": "Kasperagent",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "98774c84-9cd0-45ee-bf37-8433ffb28afa"
+    },
+    {
+        "threat_name": "EvilOSX",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "94a665f6-603e-4fb6-beae-0f77d25bd5d7"
+    },
+    {
+        "threat_name": "Parat",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "33618c13-cab0-4868-aa20-8ea9af907579"
+    },
+    {
+        "threat_name": "7ev3n",
+        "aka": [
+            "7ev3n-HONE$T"
+        ],
+        "status": "Complete",
+        "UUID": "8138f3f5-0e44-4f21-8949-a6b932e43edb"
+    },
+    {
+        "threat_name": "8.t Dropper",
+        "aka": [
+            "8t_dropper",
+            "RoyalRoad",
+            "8.t"
+        ],
+        "status": "New",
+        "UUID": "b44d52cb-4971-4cfd-891b-e685643b1275"
+    },
+    {
+        "threat_name": "AbaddonPOS",
+        "aka": [
+            "PinkKite",
+            "Pink Kite",
+            "Abaddon"
+        ],
+        "status": "New",
+        "UUID": "9650d981-2779-4dfd-9002-6edf86439609"
+    },
+    {
+        "threat_name": "Abantes",
+        "aka": [],
+        "status": "New",
+        "UUID": "e55bb2af-3036-4b94-83cd-d76b07b34df4"
+    },
+    {
+        "threat_name": "AbSent Loader",
+        "aka": [
+            "HimeraLoader",
+            "Himera Loader"
+        ],
+        "status": "New",
+        "UUID": "2112215d-db02-44f7-a907-e402904c1894"
+    },
+    {
+        "threat_name": "ACBackdoor",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "8381304d-0591-4411-bc06-6548460acace"
+    },
+    {
+        "threat_name": "AcridRain",
+        "aka": [
+            "Acrid Rain"
+        ],
+        "status": "New",
+        "UUID": "f50b9a8c-74be-48c0-98e5-12597ab57072"
+    },
+    {
+        "threat_name": "ActionSpy",
+        "aka": [
+            "AxeSpy"
+        ],
+        "status": "New",
+        "UUID": "11ef1904-c1b9-4e13-bf1e-1aaa94c2a552"
+    },
+    {
+        "threat_name": "AdKoob",
+        "aka": [
+            "Ad Koob"
+        ],
+        "status": "New",
+        "UUID": "1e5ee235-e626-4a49-8072-2fa8b20caa71"
+    },
+    {
+        "threat_name": "AdultSwine",
+        "aka": [],
+        "status": "New",
+        "UUID": "a41e257b-5405-48b8-b37b-4f383367576f"
+    },
+    {
+        "threat_name": "AdvisorsBot",
+        "aka": [
+            "Advisors Bot"
+        ],
+        "status": "New",
+        "UUID": "ada02d70-5136-4e84-92a1-4f9089cce748"
+    },
+    {
+        "threat_name": "Adylkuzz",
+        "aka": [],
+        "status": "New",
+        "UUID": "175f2894-d91f-43ac-a3dc-38d05e476f97"
+    },
+    {
+        "threat_name": "Adzok",
+        "aka": [
+            "Adsocks"
+        ],
+        "status": "New",
+        "UUID": "9f0ab7b5-3534-457f-b062-844ba9eb7eed"
+    },
+    {
+        "threat_name": "AhMyth",
+        "aka": [],
+        "status": "New",
+        "UUID": "00ef3f35-c482-4a71-a830-65f27ee72827"
+    },
+    {
+        "threat_name": "AirDropBot",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "5bd5c924-7214-4555-8892-b9b5b86c19a8"
+    },
+    {
+        "threat_name": "Aldibot",
+        "aka": [],
+        "status": "New",
+        "UUID": "76165cb2-b76c-4a55-b194-4ba5f4fa7fd5"
+    },
+    {
+        "threat_name": "Alina POS",
+        "aka": [
+            "alina_spark",
+            "alina_eagle",
+            "katrina",
+            "AlinaPOS"
+        ],
+        "status": "New",
+        "UUID": "c99402ed-516b-4d2a-8e1b-389ba4fd4021"
+    },
+    {
+        "threat_name": "AllaKore",
+        "aka": [],
+        "status": "New",
+        "UUID": "e0910b49-9e37-4858-905b-5487be90daed"
+    },
+    {
+        "threat_name": "Allaple",
+        "aka": [
+            "Starman"
+        ],
+        "status": "New",
+        "UUID": "611f3042-dcfe-4f5e-8b74-d0dc927c2421"
+    },
+    {
+        "threat_name": "Alma Communicator",
+        "aka": [],
+        "status": "New",
+        "UUID": "1ae56dc9-41d3-4d13-bf99-cee13763143d"
+    },
+    {
+        "threat_name": "AlmaLocker",
+        "aka": [],
+        "status": "New",
+        "UUID": "5d159fa0-81d9-48d0-bc8b-43f19825f5c9"
+    },
+    {
+        "threat_name": "Alphabet Ransomware",
+        "aka": [],
+        "status": "New",
+        "UUID": "8d8046af-5cae-4bfa-8310-9e78fb474050"
+    },
+    {
+        "threat_name": "AlphaLocker",
+        "aka": [],
+        "status": "New",
+        "UUID": "6c2da4b1-6721-44d2-a2d5-abc809559fa2"
+    },
+    {
+        "threat_name": "AlphaNC",
+        "aka": [
+            "Duuzer"
+        ],
+        "status": "New",
+        "UUID": "89be987b-5a17-41d0-b6e8-465ed72f54d4"
+    },
+    {
+        "threat_name": "Alreay",
+        "aka": [],
+        "status": "New",
+        "UUID": "717e2c4f-0c70-4db3-970b-1f4dbff11cae"
+    },
+    {
+        "threat_name": "Alureon",
+        "aka": [
+            "Olmarik",
+            "Pihar",
+            "TDL",
+            "TDSS",
+            "wowlik",
+            "TDL4",
+            "TDL-4",
+            "Purple Haze"
+        ],
+        "status": "New",
+        "UUID": "9f5b8b27-b131-4f3a-b269-a1332d131c05"
+    },
+    {
+        "threat_name": "AMTSol",
+        "aka": [
+            "Adupihan",
+            "Active Management Technology Serial-over-LAN"
+        ],
+        "status": "New",
+        "UUID": "6b2ca3a1-31ad-4301-bcad-58eaa1cb1295"
+    },
+    {
+        "threat_name": "Anatova Ransomware",
+        "aka": [],
+        "status": "New",
+        "UUID": "a67cdff9-bacc-4926-b483-43ea09629035"
+    },
+    {
+        "threat_name": "Anchor",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "2425b236-e800-4169-b012-15003d5c2d9d"
+    },
+    {
+        "threat_name": "AndroMut",
+        "aka": [
+            "Gelup"
+        ],
+        "status": "Complete",
+        "UUID": "a3973b8f-f7df-4a4c-a9f3-f388b15644ec"
+    },
+    {
+        "threat_name": "AndroRAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "64055bdc-671d-434c-a5ff-d375df11df89"
+    },
+    {
+        "threat_name": "Anel",
+        "aka": [
+            "UPPERCUT",
+            "lena"
+        ],
+        "status": "New",
+        "UUID": "ee1bf829-1d16-4c91-8fd5-85052fd00f03"
+    },
+    {
+        "threat_name": "ANGRYREBEL",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "950b31c3-fbdc-4702-a74a-f6458786c462"
+    },
+    {
+        "threat_name": "Ani-Shell",
+        "aka": [
+            "Anishell"
+        ],
+        "status": "In Progress",
+        "UUID": "c686bbfb-a214-4e47-985d-acfb5240c8e3"
+    },
+    {
+        "threat_name": "ANTAK",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "0745b113-8825-440d-8f54-cff4403a3277"
+    },
+    {
+        "threat_name": "AnteFrigus Ransomware",
+        "aka": [
+            "AnteFrigus"
+        ],
+        "status": "New",
+        "UUID": "c7666c9c-0350-47b2-9756-932f1ac57bf7"
+    },
+    {
+        "threat_name": "Antilam",
+        "aka": [
+            "Latinus"
+        ],
+        "status": "New",
+        "UUID": "ae3427b2-8092-4e9c-8245-73daf49e5ebc"
+    },
+    {
+        "threat_name": "Anubis",
+        "aka": [
+            "BankBot",
+            "android.bankbot",
+            "android.bankspy",
+            "BankSpy"
+        ],
+        "status": "New",
+        "UUID": "aaad3a8c-7480-48e3-a3ca-05906f3958e5"
+    },
+    {
+        "threat_name": "Apocalypse",
+        "aka": [],
+        "status": "New",
+        "UUID": "27661541-9d58-4392-8959-47bfd813218e"
+    },
+    {
+        "threat_name": "AppleJeus",
+        "aka": [
+            "CUTEJUICE"
+        ],
+        "status": "New",
+        "UUID": "27828f80-def3-45dd-ac33-5232c6b13948"
+    },
+    {
+        "threat_name": "APT3 Keylogger",
+        "aka": [],
+        "status": "New",
+        "UUID": "954d9599-9c8d-4aa4-a18e-a47dd6fa535d"
+    },
+    {
+        "threat_name": "Archivist",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "7f90dd14-267b-4bab-ae10-92067a2317f7"
+    },
+    {
+        "threat_name": "ArdaMax",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "701cd539-a77c-45ce-85cf-6b3c2507d61e"
+    },
+    {
+        "threat_name": "Arefty",
+        "aka": [
+            "USB Thief"
+        ],
+        "status": "In Progress",
+        "UUID": "90c7fa4b-4acf-4739-b5ae-adb2e4f73c1f"
+    },
+    {
+        "threat_name": "Ares",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "c18b48b4-0cff-49bf-82f4-4317aba05197"
+    },
+    {
+        "threat_name": "Aria-body",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "c64df030-efb0-46a8-b67e-1ab568df921b"
+    },
+    {
+        "threat_name": "Arik Keylogger",
+        "aka": [
+            "Aaron Keylogger",
+            "Aaron",
+            "Arik"
+        ],
+        "status": "In Progress",
+        "UUID": "bbd2e39f-5e84-4598-8455-cd8927d2ef1f"
+    },
+    {
+        "threat_name": "ARS VBS Downloader",
+        "aka": [
+            "ARS Loader",
+            "ZeroEvil"
+        ],
+        "status": "Complete",
+        "UUID": "836ca735-94a3-40bb-aca9-347796a18ae3"
+    },
+    {
+        "threat_name": "ARTFULPIE",
+        "aka": [
+            "Fireball"
+        ],
+        "status": "Complete",
+        "UUID": "6fe2da38-2b05-483d-8db9-7f4a356f49e1"
+    },
+    {
+        "threat_name": "Artra Downloader",
+        "aka": [
+            "ArtraDownloader"
+        ],
+        "status": "In Progress",
+        "UUID": "dd1c6523-a848-4f16-8d99-6bf50aa5a49d"
+    },
+    {
+        "threat_name": "Asacub",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "74de33b3-2fef-4dc1-a823-675773aa5403"
+    },
+    {
+        "threat_name": "AscentLoader",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "5e2162da-9e1e-44a3-bd25-6ef3af88f5db"
+    },
+    {
+        "threat_name": "Ashas",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "de9fb889-b756-4e72-b8e5-faded59dfede"
+    },
+    {
+        "threat_name": "ASPC",
+        "aka": [
+            "FUD ASPC"
+        ],
+        "status": "Complete",
+        "UUID": "c05c340f-9ca6-445a-8a1d-2269b408c452"
+    },
+    {
+        "threat_name": "Asprox",
+        "aka": [
+            "Aseljo",
+            "BadSrc",
+            "Kuluoz"
+        ],
+        "status": "New",
+        "UUID": "aeef0ce3-8f1c-446d-af41-bd65fe46d065"
+    },
+    {
+        "threat_name": "Asruex",
+        "aka": [],
+        "status": "New",
+        "UUID": "a5d2aa55-c092-478c-b046-cc9b60041016"
+    },
+    {
+        "threat_name": "Astaroth",
+        "aka": [
+            "Guildma",
+            "Lucifer"
+        ],
+        "status": "New",
+        "UUID": "4a75abdb-872b-4328-a4f9-78a351940ff7"
+    },
+    {
+        "threat_name": "AthenaGo RAT",
+        "aka": [
+            "AthenaGo"
+        ],
+        "status": "Complete",
+        "UUID": "ec74dfb4-36d6-43c4-ab66-9d0be897e169"
+    },
+    {
+        "threat_name": "ATI-Agent",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "e10f6c27-edb1-44e8-beb2-fea2faf1c352"
+    },
+    {
+        "threat_name": "ATMii",
+        "aka": [],
+        "status": "New",
+        "UUID": "48f77b03-2e06-464c-9bc2-c7760e9b846c"
+    },
+    {
+        "threat_name": "ATMitch",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "cbe01bd2-05d8-40f0-ae54-a5bd32885aed"
+    },
+    {
+        "threat_name": "Atmosphere",
+        "aka": [],
+        "status": "New",
+        "UUID": "b657e3a0-6892-4e07-95a9-6631be3f111c"
+    },
+    {
+        "threat_name": "ATMSpitter",
+        "aka": [
+            "ATM Spitter",
+            "ATMJackpot",
+            "Jackpot",
+            "ATMRipper"
+        ],
+        "status": "Complete",
+        "UUID": "43338d61-5d86-4418-9cd4-e4772565e16c"
+    },
+    {
+        "threat_name": "Attor",
+        "aka": [],
+        "status": "New",
+        "UUID": "0ab88277-13bc-4247-addd-400ef5d56f24"
+    },
+    {
+        "threat_name": "August Stealer",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "95f57cfe-81b3-4f00-934b-1b381986c9dd"
+    },
+    {
+        "threat_name": "Auriga",
+        "aka": [
+            "Riodrv"
+        ],
+        "status": "New",
+        "UUID": "911852d2-57d3-45e0-afe0-92d9aa8e83c0"
+    },
+    {
+        "threat_name": "Aurora",
+        "aka": [
+            "OneKeyLocker",
+            "OneKey Locker",
+            "OneKey"
+        ],
+        "status": "New",
+        "UUID": "56be9301-5af6-4786-b67a-d43038b376d2"
+    },
+    {
+        "threat_name": "AutoCAD Downloader",
+        "aka": [
+            "Acad.Bursted",
+            "Duxfas",
+            "Bursted",
+            "Kenlife"
+        ],
+        "status": "Complete",
+        "UUID": "57f22819-8023-412a-8603-1d96a9f8df93"
+    },
+    {
+        "threat_name": "AvastDisabler",
+        "aka": [],
+        "status": "New",
+        "UUID": "ad52324a-86dc-437a-9a51-d79f5d0d5c5d"
+    },
+    {
+        "threat_name": "AVCrypt",
+        "aka": [
+            "LOL"
+        ],
+        "status": "New",
+        "UUID": "a06c6497-f45a-4036-b0d5-d4324311b172"
+    },
+    {
+        "threat_name": "Aveo",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "91ddfe4c-7a89-4173-bd18-b4b019e6a59d"
+    },
+    {
+        "threat_name": "Avzhan",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "9db592c4-df0a-40d4-9cb6-569426bc7122"
+    },
+    {
+        "threat_name": "Ayegent",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "19f898d6-1f7f-421a-bee4-4538df4bd135"
+    },
+    {
+        "threat_name": "Azazel",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "f7d99414-b471-43ca-8309-99663a9d41d9"
+    },
+    {
+        "threat_name": "Babar",
+        "aka": [
+            "SNOWBALL"
+        ],
+        "status": "New",
+        "UUID": "fed373f3-fb5d-4916-acbb-72f1025d937d"
+    },
+    {
+        "threat_name": "BABYMETAL",
+        "aka": [],
+        "status": "New",
+        "UUID": "21e77d47-85d3-4600-884d-5803b2f19fb6"
+    },
+    {
+        "threat_name": "BabyShark",
+        "aka": [],
+        "status": "New",
+        "UUID": "27e8e106-5061-4b12-808e-19b968fa6b59"
+    },
+    {
+        "threat_name": "BACKBEND",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "d58d1969-5209-43c2-9895-eb18df46ed51"
+    },
+    {
+        "threat_name": "BackNet",
+        "aka": [],
+        "status": "New",
+        "UUID": "0a6efc75-f2b7-407f-8c03-07ce1d546d68"
+    },
+    {
+        "threat_name": "BACKSPACE",
+        "aka": [
+            "Lecna",
+            "ZRLnk",
+            "ZJLnk"
+        ],
+        "status": "In Progress",
+        "UUID": "9cfb0396-ed58-4bbb-ab7f-193e47575f7a"
+    },
+    {
+        "threat_name": "BADCALL",
+        "aka": [],
+        "status": "New",
+        "UUID": "55ea5061-ed33-4e58-8663-82dcf149858a"
+    },
+    {
+        "threat_name": "BadEncript",
+        "aka": [],
+        "status": "New",
+        "UUID": "1f8f0a20-2a5c-482d-ac4d-1cf80ec62dae"
+    },
+    {
+        "threat_name": "BADFLICK",
+        "aka": [
+            "GREENBACKS"
+        ],
+        "status": "New",
+        "UUID": "1a56b652-95d2-45d2-8c85-e2a5666eb2fd"
+    },
+    {
+        "threat_name": "BadNews",
+        "aka": [],
+        "status": "New",
+        "UUID": "c6383b9f-68d7-46d4-b395-f55f051b6f29"
+    },
+    {
+        "threat_name": "Bagle",
+        "aka": [
+            "Beagle"
+        ],
+        "status": "New",
+        "UUID": "b9104b79-900c-4353-a28f-acb386a30c72"
+    },
+    {
+        "threat_name": "Baldr",
+        "aka": [
+            "Baldir"
+        ],
+        "status": "Complete",
+        "UUID": "d7096d8f-0b31-4303-a4ec-d9666c1a938e"
+    },
+    {
+        "threat_name": "BalkanDoor",
+        "aka": [],
+        "status": "New",
+        "UUID": "ef0408be-ab7b-4585-946c-5caf0f41e31a"
+    },
+    {
+        "threat_name": "BalkanRAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "bb02e06c-f966-4fc1-9e73-8a3a1df45570"
+    },
+    {
+        "threat_name": "Bamital",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "428df624-1ff1-47e5-8173-ff61ccb5c66d"
+    },
+    {
+        "threat_name": "Banatrix",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "12ebd10a-8251-40b4-a349-9ef429ca4e54"
+    },
+    {
+        "threat_name": "Bandook",
+        "aka": [
+            "Bandok"
+        ],
+        "status": "New",
+        "UUID": "5fa697d9-61d7-4967-99e7-729bcca268b3"
+    },
+    {
+        "threat_name": "Bangat",
+        "aka": [],
+        "status": "New",
+        "UUID": "ccc8b645-16f2-4101-9bc3-135f4f755091"
+    },
+    {
+        "threat_name": "Banjori",
+        "aka": [
+            "MultiBanker 2",
+            "BankPatch",
+            "BackPatcher",
+            "Patcher"
+        ],
+        "status": "New",
+        "UUID": "1b771d98-d1b3-44bc-8f03-5a12ef4d96d5"
+    },
+    {
+        "threat_name": "Bankshot",
+        "aka": [
+            "COPPERHEDGE"
+        ],
+        "status": "New",
+        "UUID": "e0516ca9-0901-40d0-a8a8-f0b9293cd1fa"
+    },
+    {
+        "threat_name": "Banload",
+        "aka": [],
+        "status": "New",
+        "UUID": "5aaa04dd-d930-40e9-b4bb-09c1b62fe26a"
+    },
+    {
+        "threat_name": "Bart",
+        "aka": [],
+        "status": "New",
+        "UUID": "229d74bd-b691-4a79-8d8a-868dff661e4c"
+    },
+    {
+        "threat_name": "Bashlite",
+        "aka": [
+            "gayfgt",
+            "Gafgyt",
+            "qbot",
+            "torlus",
+            "lizkebab"
+        ],
+        "status": "New",
+        "UUID": "8d9917f4-3d1e-4e26-b4dd-ad976a0b881e"
+    },
+    {
+        "threat_name": "BatchWiper",
+        "aka": [],
+        "status": "New",
+        "UUID": "b08d5974-5ea6-4454-aed6-c696d8b12a21"
+    },
+    {
+        "threat_name": "Batel",
+        "aka": [
+            "Batle"
+        ],
+        "status": "New",
+        "UUID": "b6ebfa62-fc4e-446f-a6d1-7159eeb50ba8"
+    },
+    {
+        "threat_name": "Bateleur",
+        "aka": [],
+        "status": "New",
+        "UUID": "c6af9a0c-c9cc-4104-a2c1-e42a762c76fb"
+    },
+    {
+        "threat_name": "BazarBackdoor",
+        "aka": [
+            "Team9Backdoor",
+            "Team9 Backdoor"
+        ],
+        "status": "New",
+        "UUID": "22ae2ebf-29ec-42a6-a498-db4c72f24575"
+    },
+    {
+        "threat_name": "BBSRAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "08d91386-d2ed-4a12-a9e7-61cb6d65c865"
+    },
+    {
+        "threat_name": "BCMPUPnP_Hunter",
+        "aka": [],
+        "status": "New",
+        "UUID": "3d0e1fb0-3779-4260-8d91-6179e7d95708"
+    },
+    {
+        "threat_name": "Beapy",
+        "aka": [],
+        "status": "New",
+        "UUID": "e34ee2c0-6a10-4e21-8e00-b9843da0b472"
+    },
+    {
+        "threat_name": "Bedep",
+        "aka": [],
+        "status": "New",
+        "UUID": "03488685-4c99-4de3-ac40-e537bb82906d"
+    },
+    {
+        "threat_name": "Beendoor",
+        "aka": [],
+        "status": "New",
+        "UUID": "4687010d-bff9-42f3-ba6f-09c1df574a49"
+    },
+    {
+        "threat_name": "BeepService",
+        "aka": [],
+        "status": "New",
+        "UUID": "c7728eb9-9c64-4a56-a15f-0e40b9ef6199"
+    },
+    {
+        "threat_name": "Bella",
+        "aka": [],
+        "status": "New",
+        "UUID": "8ef1d6f8-d57f-410b-8ea4-d9d580015d75"
+    },
+    {
+        "threat_name": "BELLHOP",
+        "aka": [],
+        "status": "New",
+        "UUID": "060afc0b-6fba-49f5-b1d8-e42e9ac2b6c1"
+    },
+    {
+        "threat_name": "Belonard",
+        "aka": [],
+        "status": "New",
+        "UUID": "d0b73b25-ecc8-4c08-9577-30f52afcba08"
+    },
+    {
+        "threat_name": "Berbomthum",
+        "aka": [],
+        "status": "New",
+        "UUID": "cc5253f9-009e-4fa0-88aa-04d3e7e7a5e9"
+    },
+    {
+        "threat_name": "BernhardPOS",
+        "aka": [],
+        "status": "New",
+        "UUID": "1c8fa96d-9b26-476b-afaa-6c5cbf565528"
+    },
+    {
+        "threat_name": "BestKorea",
+        "aka": [],
+        "status": "New",
+        "UUID": "6ca91479-1f97-4fdd-ad1c-93dee58d48dc"
+    },
+    {
+        "threat_name": "BetaBot",
+        "aka": [
+            "Neurevt",
+            "Beta Bot"
+        ],
+        "status": "New",
+        "UUID": "a9aebdf8-e463-47c5-92ce-86796b14e562"
+    },
+    {
+        "threat_name": "Bezigate",
+        "aka": [],
+        "status": "New",
+        "UUID": "393f38ef-e52b-48a1-b5ca-da063bea21c2"
+    },
+    {
+        "threat_name": "BFBOT",
+        "aka": [
+            "Butterfly Bot",
+            "BF BOT"
+        ],
+        "status": "New",
+        "UUID": "d089372b-bd34-480e-937d-d12e3f731080"
+    },
+    {
+        "threat_name": "BI_D Ransomware",
+        "aka": [],
+        "status": "New",
+        "UUID": "f38d7db9-6281-49c9-952b-dd086b2c9def"
+    },
+    {
+        "threat_name": "BianLian",
+        "aka": [],
+        "status": "New",
+        "UUID": "50db4428-2f0a-4bf1-b86a-3ad4577edd29"
+    },
+    {
+        "threat_name": "BillGates",
+        "aka": [],
+        "status": "New",
+        "UUID": "52041832-ed42-421d-941e-abd483251634"
+    },
+    {
+        "threat_name": "Binanen",
+        "aka": [],
+        "status": "New",
+        "UUID": "9da7058f-d1f2-4a65-adf6-f2a3add4ea21"
+    },
+    {
+        "threat_name": "BioData",
+        "aka": [],
+        "status": "New",
+        "UUID": "bf5e7d87-38f5-41f0-a8c3-36c7a767946d"
+    },
+    {
+        "threat_name": "Biscuit",
+        "aka": [
+            "zxdosml"
+        ],
+        "status": "New",
+        "UUID": "5a887958-e939-42e3-9636-7279b4810b92"
+    },
+    {
+        "threat_name": "BISTROMATH",
+        "aka": [],
+        "status": "New",
+        "UUID": "2a051671-5a4d-4341-af75-a46eb4d5a5fd"
+    },
+    {
+        "threat_name": "BitPyLock",
+        "aka": [],
+        "status": "New",
+        "UUID": "489457df-e1dc-4109-8bf5-0fdfcd122516"
+    },
+    {
+        "threat_name": "Bitsran",
+        "aka": [
+            "SHADYCAT"
+        ],
+        "status": "New",
+        "UUID": "f13b24d9-ece2-4594-bdd2-b8ae9391c69d"
+    },
+    {
+        "threat_name": "Bitter RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "09764365-724c-4bf0-9ab8-525075c1e279"
+    },
+    {
+        "threat_name": "BKA Trojaner",
+        "aka": [
+            "bwin3_bka"
+        ],
+        "status": "New",
+        "UUID": "7662004a-010f-4c94-bc46-c366121a47c6"
+    },
+    {
+        "threat_name": "BLACKCOFFEE",
+        "aka": [
+            "PNGRAT",
+            "PNG RAT",
+            "gresim",
+            "ZoxPNG"
+        ],
+        "status": "New",
+        "UUID": "7b1b9054-9506-4e60-8e81-28db49ce503c"
+    },
+    {
+        "threat_name": "BlackEnergy",
+        "aka": [],
+        "status": "New",
+        "UUID": "85a053f8-af82-462f-9a24-15284e09e6eb"
+    },
+    {
+        "threat_name": "BlackNix RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "bf7174d2-209b-4430-9c3e-ea359a135cd9"
+    },
+    {
+        "threat_name": "BlackPOS",
+        "aka": [
+            "POSWDS",
+            "Reedum",
+            "Kaptoxa"
+        ],
+        "status": "New",
+        "UUID": "af3373f5-0306-4800-9ef8-a815737dbfeb"
+    },
+    {
+        "threat_name": "BlackRevolution",
+        "aka": [],
+        "status": "New",
+        "UUID": "252682b6-c24c-45c1-ac09-e93103b43473"
+    },
+    {
+        "threat_name": "BlackRouter",
+        "aka": [
+            "BLACKHEART"
+        ],
+        "status": "New",
+        "UUID": "528bc2fe-829e-44ab-8bbe-6640eb9cfb44"
+    },
+    {
+        "threat_name": "Blackruby",
+        "aka": [
+            "Black Ruby"
+        ],
+        "status": "New",
+        "UUID": "2d830e8a-e1ca-4175-9c01-22659fae1438"
+    },
+    {
+        "threat_name": "BLINDTOAD",
+        "aka": [],
+        "status": "New",
+        "UUID": "84d022d0-a1d3-4f5c-9388-d9888698d6ef"
+    },
+    {
+        "threat_name": "BLUETHER",
+        "aka": [
+            "CAPGELD",
+            "Plead"
+        ],
+        "status": "New",
+        "UUID": "60d352ff-71ea-40a1-bd51-ec0e7dec08d8"
+    },
+    {
+        "threat_name": "Boaxxe",
+        "aka": [],
+        "status": "New",
+        "UUID": "8be6e0a5-7adf-433e-bfa2-de298e881a96"
+    },
+    {
+        "threat_name": "Bohmini",
+        "aka": [],
+        "status": "New",
+        "UUID": "02baa586-bc79-48db-b6e8-1afaf904bff4"
+    },
+    {
+        "threat_name": "Bolek",
+        "aka": [
+            "KBOT"
+        ],
+        "status": "New",
+        "UUID": "191c786d-8b7d-47ba-95ab-9189ff8e69c9"
+    },
+    {
+        "threat_name": "BONDUPDATER",
+        "aka": [
+            "Poison Frog",
+            "Glimpse"
+        ],
+        "status": "New",
+        "UUID": "7effa614-9a27-4db9-845a-430b726ba7f1"
+    },
+    {
+        "threat_name": "BOOSTWRITE",
+        "aka": [],
+        "status": "New",
+        "UUID": "523b914a-5735-45ca-9e7a-4414e718001e"
+    },
+    {
+        "threat_name": "BOOTWRECK",
+        "aka": [
+            "MBRKiller",
+            "MBR Killer",
+            "KillDisk"
+        ],
+        "status": "New",
+        "UUID": "a658b6dc-c271-47c8-bb0b-222840e5b104"
+    },
+    {
+        "threat_name": "Borr",
+        "aka": [],
+        "status": "New",
+        "UUID": "6fc22669-88c2-4e98-8084-c4abbea60f8d"
+    },
+    {
+        "threat_name": "Bouncer",
+        "aka": [],
+        "status": "New",
+        "UUID": "cfb60a31-d264-474c-a911-35bdd1dfc8e6"
+    },
+    {
+        "threat_name": "BRAIN",
+        "aka": [
+            "Pakistani Brain"
+        ],
+        "status": "New",
+        "UUID": "3a6484f8-055b-462a-a47c-305daf6e187a"
+    },
+    {
+        "threat_name": "Brambul",
+        "aka": [
+            "SORRYBRUTE"
+        ],
+        "status": "New",
+        "UUID": "fefd4276-5605-4ea3-b997-8b6a8f803a33"
+    },
+    {
+        "threat_name": "BRATA",
+        "aka": [
+            "Brazilian RAT Android"
+        ],
+        "status": "New",
+        "UUID": "7e1b1c33-e5f7-4c64-bfc1-779ccb8555e4"
+    },
+    {
+        "threat_name": "BravoNC",
+        "aka": [],
+        "status": "New",
+        "UUID": "3660f7bb-d0d0-46c4-8ac6-a281e2ffca89"
+    },
+    {
+        "threat_name": "BreachRAT",
+        "aka": [
+            "Breach Remote Administration Tool"
+        ],
+        "status": "New",
+        "UUID": "8bed31e7-b148-4311-abf9-40a2fcfd7709"
+    },
+    {
+        "threat_name": "Breakthrough",
+        "aka": [],
+        "status": "New",
+        "UUID": "0fc1ac4b-43ba-43c2-986d-919b6b078814"
+    },
+    {
+        "threat_name": "Bredolab",
+        "aka": [],
+        "status": "New",
+        "UUID": "a258d5f8-d475-44d6-b9b5-44180b235027"
+    },
+    {
+        "threat_name": "BrickerBot",
+        "aka": [
+            "Dahua"
+        ],
+        "status": "New",
+        "UUID": "8a060ee7-532b-4860-a363-f9cae4d69cd8"
+    },
+    {
+        "threat_name": "BROLER",
+        "aka": [
+            "down_new"
+        ],
+        "status": "New",
+        "UUID": "c1ffc9a9-24f4-4be0-9afe-69cbaa2419d0"
+    },
+    {
+        "threat_name": "BrushaLoader",
+        "aka": [],
+        "status": "New",
+        "UUID": "c8c4739c-ccbd-42cd-82fc-4ddd3126fd75"
+    },
+    {
+        "threat_name": "BrutPOS",
+        "aka": [],
+        "status": "New",
+        "UUID": "d99a715f-7b57-4586-9ec7-1c07a53141e8"
+    },
+    {
+        "threat_name": "BS2005",
+        "aka": [],
+        "status": "New",
+        "UUID": "bb8d427a-b769-4921-9d63-16951b00905f"
+    },
+    {
+        "threat_name": "BTCWare",
+        "aka": [
+            "Nuclear BTCWare"
+        ],
+        "status": "New",
+        "UUID": "c79cd5c9-e28a-46ad-842e-3925765390d0"
+    },
+    {
+        "threat_name": "BUBBLEWRAP",
+        "aka": [
+            "Backdoor.APT.FakeWinHTTPHelper"
+        ],
+        "status": "New",
+        "UUID": "8cd0d460-7a3e-4af7-aa70-c813c0632a08"
+    },
+    {
+        "threat_name": "Buer",
+        "aka": [
+            "Buerak"
+        ],
+        "status": "New",
+        "UUID": "75496471-ccd5-41ee-bb93-95422a1fd257"
+    },
+    {
+        "threat_name": "BUFFETLINE",
+        "aka": [],
+        "status": "New",
+        "UUID": "a9963a15-911c-473b-8e90-2f8266037f3b"
+    },
+    {
+        "threat_name": "Buhtrap",
+        "aka": [
+            "Ratopak",
+            "Pegasus"
+        ],
+        "status": "New",
+        "UUID": "c43b3440-4bde-4167-946a-cadadcf7002f"
+    },
+    {
+        "threat_name": "Bundestrojaner",
+        "aka": [
+            "R2D2",
+            "0zapftis",
+            "C3P0-r2d2-POE"
+        ],
+        "status": "New",
+        "UUID": "474983bf-8b0a-4e0c-b1a9-4d1ca3f7db0e"
+    },
+    {
+        "threat_name": "Bundlore",
+        "aka": [
+            "Surfbuyer",
+            "BundloreX",
+            "OSX/Bundlore"
+        ],
+        "status": "New",
+        "UUID": "5f3bc59b-27dc-4704-b1b2-37ed991c4caa"
+    },
+    {
+        "threat_name": "BusyGasper",
+        "aka": [],
+        "status": "New",
+        "UUID": "3e64365b-8bb8-4c82-97b5-19892a9d5dea"
+    },
+    {
+        "threat_name": "Buterat",
+        "aka": [
+            "Spyvoltar"
+        ],
+        "status": "New",
+        "UUID": "97088ebf-558c-4eca-af7a-2b9e1a425471"
+    },
+    {
+        "threat_name": "Buzus",
+        "aka": [
+            "Yimfoca"
+        ],
+        "status": "New",
+        "UUID": "8683e626-4e8d-43fe-982a-1a3479fbcddb"
+    },
+    {
+        "threat_name": "BYEBY",
+        "aka": [
+            "Mikroceen",
+            "Microcin",
+            "Calypso RAT"
+        ],
+        "status": "Complete",
+        "UUID": "5b684f1e-f236-41c3-ab9d-d157bccd0c78"
+    },
+    {
+        "threat_name": "c0d0so0",
+        "aka": [],
+        "status": "New",
+        "UUID": "bf9c55f7-0100-4106-a6d4-32f591223461"
+    },
+    {
+        "threat_name": "c99shell",
+        "aka": [],
+        "status": "New",
+        "UUID": "b467293e-2b1f-471a-b26f-0096035299b4"
+    },
+    {
+        "threat_name": "CabArt",
+        "aka": [
+            "cabart"
+        ],
+        "status": "New",
+        "UUID": "458aa52b-768e-4375-99a7-44ca04912d16"
+    },
+    {
+        "threat_name": "CACTUSTORCH",
+        "aka": [],
+        "status": "New",
+        "UUID": "8e200488-9658-4c62-95af-3942af73f764"
+    },
+    {
+        "threat_name": "CadelSpy",
+        "aka": [],
+        "status": "New",
+        "UUID": "fce3db91-fc83-4a81-8c19-6da50c8dfd57"
+    },
+    {
+        "threat_name": "CamuBot",
+        "aka": [],
+        "status": "New",
+        "UUID": "befe9682-ee09-463d-aa08-d6028ca1a138"
+    },
+    {
+        "threat_name": "Cannon",
+        "aka": [],
+        "status": "New",
+        "UUID": "7a576caa-ad11-4833-be31-ee26177947b6"
+    },
+    {
+        "threat_name": "Carbanak",
+        "aka": [
+            "Anunak"
+        ],
+        "status": "New",
+        "UUID": "d912c3e1-a95e-4035-a4f2-074f8d6c2077"
+    },
+    {
+        "threat_name": "Carberp",
+        "aka": [],
+        "status": "New",
+        "UUID": "01dee61a-21a9-4f1a-afae-2980bdd9a5d1"
+    },
+    {
+        "threat_name": "Cardinal RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "a0555631-8a65-4d51-8afe-d49579a230dc"
+    },
+    {
+        "threat_name": "Careto",
+        "aka": [
+            "Mask",
+            "Appetite"
+        ],
+        "status": "New",
+        "UUID": "c94a1239-1851-4eeb-8ffb-f95fc629554c"
+    },
+    {
+        "threat_name": "CARROTBALL",
+        "aka": [],
+        "status": "New",
+        "UUID": "b11b5ca4-6bf3-443c-a375-90c99850514e"
+    },
+    {
+        "threat_name": "CARROTBAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "213d2bd9-d927-4305-8375-6a495bc89396"
+    },
+    {
+        "threat_name": "Casper",
+        "aka": [],
+        "status": "New",
+        "UUID": "7dc79513-6d51-40df-a887-4d8800bd6c7f"
+    },
+    {
+        "threat_name": "Catchamas",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "c3b90e6d-0a19-4337-aa2a-8dc519bf2817"
+    },
+    {
+        "threat_name": "Catelites",
+        "aka": [
+            "Catelites Bot"
+        ],
+        "status": "New",
+        "UUID": "e5e0118b-8e09-44fa-9077-55c716cf6348"
+    },
+    {
+        "threat_name": "DIRTCLEANER",
+        "aka": [
+            "CCleaner Backdoor"
+        ],
+        "status": "New",
+        "UUID": "f7c98841-8ccb-4a8f-973c-7dca03fff316"
+    },
+    {
+        "threat_name": "CDorked",
+        "aka": [
+            "CDorked.A"
+        ],
+        "status": "New",
+        "UUID": "17373959-8728-4acf-8ea5-7d48ec4cbad7"
+    },
+    {
+        "threat_name": "Cerber",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "9409bffe-6608-43cc-8d7c-b068b78dda43"
+    },
+    {
+        "threat_name": "Cerebrus",
+        "aka": [
+            "CenterPOS"
+        ],
+        "status": "New",
+        "UUID": "bbdf5a2d-a400-49af-9256-a89e9329bb53"
+    },
+    {
+        "threat_name": "Cerbu",
+        "aka": [],
+        "status": "New",
+        "UUID": "59126b2b-0e07-4bdd-9cf5-7ebd250c7e0a"
+    },
+    {
+        "threat_name": "CHAINSHOT",
+        "aka": [],
+        "status": "New",
+        "UUID": "67321ff6-8c40-4970-856a-9457d72401d2"
+    },
+    {
+        "threat_name": "Chamois",
+        "aka": [],
+        "status": "New",
+        "UUID": "2d05b606-1cce-4d3c-8a07-ba8ca9548846"
+    },
+    {
+        "threat_name": "Chaperone",
+        "aka": [
+            "Taj Mahal",
+            "TajMahal",
+            "Tokyo",
+            "Yokohama"
+        ],
+        "status": "In Progress",
+        "UUID": "5243ad17-9e72-4ca2-8916-408095a8b5c1"
+    },
+    {
+        "threat_name": "Chapro",
+        "aka": [],
+        "status": "New",
+        "UUID": "4a669b3a-19c5-41fd-96ed-cda8a07119a3"
+    },
+    {
+        "threat_name": "Charger",
+        "aka": [],
+        "status": "New",
+        "UUID": "2400f7f4-11d8-4d7f-bc13-c4a433c87290"
+    },
+    {
+        "threat_name": "CHCH",
+        "aka": [
+            "Squad",
+            "Garrant",
+            "Garranty"
+        ],
+        "status": "New",
+        "UUID": "48816c5b-dec7-4031-b48f-67aceb9dd5b0"
+    },
+    {
+        "threat_name": "ChChes",
+        "aka": [
+            "HAYMAKER",
+            "Ham Backdoor"
+        ],
+        "status": "New",
+        "UUID": "1a1d693f-5161-4b36-9db3-6bc3d418d181"
+    },
+    {
+        "threat_name": "CHEESETRAY",
+        "aka": [
+            "CROWDEDFLOUNDER"
+        ],
+        "status": "New",
+        "UUID": "2e11bb57-73b1-42b5-8025-f455c32f31cc"
+    },
+    {
+        "threat_name": "Chernolocker",
+        "aka": [],
+        "status": "New",
+        "UUID": "ed04a0ec-8ac5-42d8-8da7-07bdd374dbde"
+    },
+    {
+        "threat_name": "CherryPicker POS",
+        "aka": [
+            "cherrypickerpos",
+            "cherrypicker",
+            "cherry_picker"
+        ],
+        "status": "New",
+        "UUID": "b7daed19-74b5-4781-81af-3d89dd190f4b"
+    },
+    {
+        "threat_name": "ChewBacca",
+        "aka": [],
+        "status": "New",
+        "UUID": "0547cf60-ee70-464c-8ac8-ec94a8ced2d5"
+    },
+    {
+        "threat_name": "Chinad",
+        "aka": [],
+        "status": "New",
+        "UUID": "9b1bce02-64f7-4f32-82a4-58e55f04d305"
+    },
+    {
+        "threat_name": "Chinoxy",
+        "aka": [],
+        "status": "New",
+        "UUID": "9d8e3961-151d-4cbd-a860-212b8580db24"
+    },
+    {
+        "threat_name": "Chir",
+        "aka": [],
+        "status": "New",
+        "UUID": "0ad3bbce-8d17-49fe-bb24-818f59b5f4ca"
+    },
+    {
+        "threat_name": "Chrysaor",
+        "aka": [
+            "Pegasus",
+            "JigglyPuff"
+        ],
+        "status": "New",
+        "UUID": "57f77f04-e96f-417d-892b-d9e8150eba03"
+    },
+    {
+        "threat_name": "Chthonic",
+        "aka": [
+            "AndroKINS"
+        ],
+        "status": "New",
+        "UUID": "5fc9440f-daef-4f0a-bfde-1ae9d8dd213f"
+    },
+    {
+        "threat_name": "Cinobi",
+        "aka": [],
+        "status": "New",
+        "UUID": "cd42fbb7-b018-4a83-ba0e-a28d87d433f0"
+    },
+    {
+        "threat_name": "CLAMBLING",
+        "aka": [
+            "CLAM BLING"
+        ],
+        "status": "New",
+        "UUID": "21f45b09-de71-4b27-a804-b778721310cb"
+    },
+    {
+        "threat_name": "CLASSFON",
+        "aka": [
+            "DrvDll.dll",
+            "PlusDll.dll"
+        ],
+        "status": "New",
+        "UUID": "8f464149-f074-4f2d-bb6d-1ee8f60910c9"
+    },
+    {
+        "threat_name": "CLEANTOAD",
+        "aka": [],
+        "status": "New",
+        "UUID": "68db4982-c290-41b3-be43-b6710e263956"
+    },
+    {
+        "threat_name": "Client Maximus",
+        "aka": [],
+        "status": "New",
+        "UUID": "3193cd25-4146-4d88-8f13-0ab889c7bc27"
+    },
+    {
+        "threat_name": "Clientor",
+        "aka": [],
+        "status": "New",
+        "UUID": "56f874d0-408f-444a-91f4-8e340eff5e68"
+    },
+    {
+        "threat_name": "ClipBanker",
+        "aka": [],
+        "status": "New",
+        "UUID": "aaf3b5e0-1e9e-4380-84d0-9558bc4ccf8c"
+    },
+    {
+        "threat_name": "Clipper.Generic",
+        "aka": [],
+        "status": "New",
+        "UUID": "ea3a1aa7-dab8-4975-880f-12bec68040e0"
+    },
+    {
+        "threat_name": "Cloud Duke",
+        "aka": [
+            "CloudDuke",
+            "MiniDionis",
+            "CloudLook",
+            "Cloud Look",
+            "OneDriveSolution",
+            "DropperSolution",
+            "BastionSolution"
+        ],
+        "status": "New",
+        "UUID": "41a01374-c55a-4cd0-bbd5-031dfb2423e2"
+    },
+    {
+        "threat_name": "Cloud Snooper",
+        "aka": [
+            "Snoopy"
+        ],
+        "status": "New",
+        "UUID": "e986ffe5-4080-49aa-8368-582dd1d2a0bc"
+    },
+    {
+        "threat_name": "CloudAtlas",
+        "aka": [
+            "Inception Framework"
+        ],
+        "status": "New",
+        "UUID": "3d3f22cd-6575-47ba-b175-ba07fc8c5731"
+    },
+    {
+        "threat_name": "CMSBrute",
+        "aka": [],
+        "status": "New",
+        "UUID": "a53d5318-34aa-4783-8c3d-ece1f6917a48"
+    },
+    {
+        "threat_name": "CMSTAR",
+        "aka": [
+            "meciv",
+            "CM**"
+        ],
+        "status": "New",
+        "UUID": "41cf167e-f6ae-4149-b0aa-bcfc6fdd6ee9"
+    },
+    {
+        "threat_name": "CoalaBot",
+        "aka": [
+            "Coala Bot",
+            "KoalaBot",
+            "Koala Bot"
+        ],
+        "status": "New",
+        "UUID": "ca53c458-4d8f-48d7-bc3e-f0730c9061fd"
+    },
+    {
+        "threat_name": "CobInt",
+        "aka": [
+            "COOLPANTS"
+        ],
+        "status": "New",
+        "UUID": "3f874cae-b289-4bf4-800b-599882709e36"
+    },
+    {
+        "threat_name": "Carbon",
+        "aka": [
+            "Turla Driver Loader",
+            "TDL",
+            "Project Cobra",
+            "Carbon System",
+            "Cobra Carbon System"
+        ],
+        "status": "New",
+        "UUID": "b7e5ec5f-30a1-457b-ae9d-41b268818e48"
+    },
+    {
+        "threat_name": "CockBlock",
+        "aka": [
+            "CockBlocker"
+        ],
+        "status": "New",
+        "UUID": "90bc7509-2ffa-4954-8a1d-60812f0adbf8"
+    },
+    {
+        "threat_name": "Cohhoc",
+        "aka": [],
+        "status": "New",
+        "UUID": "42ac9dfc-fdc6-469e-9682-9af0f8637ea1"
+    },
+    {
+        "threat_name": "CoinThief",
+        "aka": [
+            "Coin Thief"
+        ],
+        "status": "New",
+        "UUID": "1d0fe7e0-b96a-466f-8c53-db142eef7ab4"
+    },
+    {
+        "threat_name": "Coldroot RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "bdc12315-d0c4-4fa3-b769-7d09890eb422"
+    },
+    {
+        "threat_name": "Colony",
+        "aka": [
+            "Bandios",
+            "GrayBird"
+        ],
+        "status": "New",
+        "UUID": "fcc97a95-6880-4926-b3ff-25e32b1bf023"
+    },
+    {
+        "threat_name": "Combojack",
+        "aka": [],
+        "status": "New",
+        "UUID": "42c2483f-df17-4fcf-a645-a2cb21f8c65a"
+    },
+    {
+        "threat_name": "COMBOS",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "129bb1ac-13a9-41c8-b95a-3adef0ad5483"
+    },
+    {
+        "threat_name": "CometBot",
+        "aka": [],
+        "status": "New",
+        "UUID": "6b161b64-021b-4c5b-b4a9-fb9801eae79c"
+    },
+    {
+        "threat_name": "ComodoSec",
+        "aka": [],
+        "status": "New",
+        "UUID": "fee83b22-77aa-49d4-9ba2-bc569657473e"
+    },
+    {
+        "threat_name": "COMpfun",
+        "aka": [
+            "Reductor RAT"
+        ],
+        "status": "New",
+        "UUID": "106d2382-484b-4d10-b201-02332f072829"
+    },
+    {
+        "threat_name": "Computrace",
+        "aka": [
+            "Absolute Computrace",
+            "Absolute Lojack"
+        ],
+        "status": "New",
+        "UUID": "6e055136-c59e-4ba7-9491-b9bb5bae3e22"
+    },
+    {
+        "threat_name": "ComradeCircle",
+        "aka": [
+            "Comrade Circle"
+        ],
+        "status": "New",
+        "UUID": "9916ce8b-f44e-46e9-b348-3a9604718875"
+    },
+    {
+        "threat_name": "concealment_troy",
+        "aka": [],
+        "status": "New",
+        "UUID": "d5102399-f880-404e-8f4a-e79ffd09bd12"
+    },
+    {
+        "threat_name": "Conficker",
+        "aka": [
+            "traffic converter",
+            "downadup",
+            "Kido",
+            "downup",
+            "Downup",
+            "Downadup"
+        ],
+        "status": "New",
+        "UUID": "84e8fe6b-aba6-43cf-8f1c-e1091ce4af4d"
+    },
+    {
+        "threat_name": "Confucius",
+        "aka": [],
+        "status": "New",
+        "UUID": "d08bee16-1a5b-4a4e-9f59-a51eafa1c90f"
+    },
+    {
+        "threat_name": "Connic",
+        "aka": [
+            "SpyBanker"
+        ],
+        "status": "New",
+        "UUID": "e949a5f9-ec14-4252-96bf-336a7a5c4ac5"
+    },
+    {
+        "threat_name": "COOKIEBAG",
+        "aka": [],
+        "status": "New",
+        "UUID": "7ec42952-9b50-4bc9-91d0-53fe16743abb"
+    },
+    {
+        "threat_name": "CoreBot",
+        "aka": [],
+        "status": "New",
+        "UUID": "aee1c5f4-1e83-4bde-8c72-d1975c6e05dc"
+    },
+    {
+        "threat_name": "CoreDN",
+        "aka": [
+            "Jelous"
+        ],
+        "status": "In Progress",
+        "UUID": "f3103c54-d28f-4cbf-a4c1-bfd62cb30258"
+    },
+    {
+        "threat_name": "Coreshell",
+        "aka": [
+            "SOURFACE",
+            "Sofacy"
+        ],
+        "status": "New",
+        "UUID": "7af74bcc-30e7-48c5-9775-89d8310b6b8a"
+    },
+    {
+        "threat_name": "Corona DDOS Bot",
+        "aka": [],
+        "status": "New",
+        "UUID": "8206f601-fc16-44fe-a15d-8cce1f489406"
+    },
+    {
+        "threat_name": "Coronavirus Android Worm",
+        "aka": [],
+        "status": "New",
+        "UUID": "d43f51a3-21fb-45c4-92e6-3c497a5651e0"
+    },
+    {
+        "threat_name": "CoronaVirus Ransomware",
+        "aka": [
+            "CoronaVirus Cover-Ransomware"
+        ],
+        "status": "New",
+        "UUID": "573c05c8-7d3d-41cc-b584-b7d43d347163"
+    },
+    {
+        "threat_name": "Cotx RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "f17c41a8-8daf-488c-8110-ac85703037bb"
+    },
+    {
+        "threat_name": "CoViper",
+        "aka": [],
+        "status": "New",
+        "UUID": "2f50f826-2701-4c30-9c2a-9ffef8ac2d15"
+    },
+    {
+        "threat_name": "CpuMeaner",
+        "aka": [],
+        "status": "New",
+        "UUID": "e71ad16a-efc2-49a8-8c60-853e31a73441"
+    },
+    {
+        "threat_name": "Cpuminer",
+        "aka": [],
+        "status": "New",
+        "UUID": "bfc18d1d-4cb0-466a-b1cb-bf4ded884c07"
+    },
+    {
+        "threat_name": "Cr1ptT0r",
+        "aka": [
+            "CriptTor"
+        ],
+        "status": "New",
+        "UUID": "59f2ea91-05e6-42e7-b9fe-0c5448ceecc8"
+    },
+    {
+        "threat_name": "crackshot",
+        "aka": [],
+        "status": "New",
+        "UUID": "0577e482-db3b-4fa3-a626-0a58a1b1a7dd"
+    },
+    {
+        "threat_name": "CradleCore",
+        "aka": [
+            "Cradle",
+            "Cradle Ransomware"
+        ],
+        "status": "New",
+        "UUID": "76920c65-0ab7-4a01-b925-10d4ad319fb6"
+    },
+    {
+        "threat_name": "CREAMSICLE",
+        "aka": [],
+        "status": "New",
+        "UUID": "6c4b0300-f59c-46e8-941e-c4cc4e251dec"
+    },
+    {
+        "threat_name": "CreativeUpdater",
+        "aka": [],
+        "status": "New",
+        "UUID": "7234f57a-e838-41db-ac49-9bf10cc74917"
+    },
+    {
+        "threat_name": "Credraptor",
+        "aka": [],
+        "status": "New",
+        "UUID": "e546ea9d-3819-482f-93e1-7bd31d45844e"
+    },
+    {
+        "threat_name": "Crenufs",
+        "aka": [],
+        "status": "New",
+        "UUID": "e9f830bc-63b0-4f97-8666-a19766c414c8"
+    },
+    {
+        "threat_name": "Crisis",
+        "aka": [
+            "Remote Control System",
+            "RCS"
+        ],
+        "status": "New",
+        "UUID": "5b01868a-dc34-4dc4-949c-9b0f3039d544"
+    },
+    {
+        "threat_name": "CrossRAT",
+        "aka": [
+            "Trupto"
+        ],
+        "status": "New",
+        "UUID": "28cc506e-44a7-4666-9ecc-cb4b24159827"
+    },
+    {
+        "threat_name": "Crossrider",
+        "aka": [],
+        "status": "New",
+        "UUID": "32115932-74a7-4527-8d73-0b8505bfc169"
+    },
+    {
+        "threat_name": "CROSSWALK",
+        "aka": [],
+        "status": "New",
+        "UUID": "171a46f1-e84b-4674-947c-9acabc79851c"
+    },
+    {
+        "threat_name": "Cryakl",
+        "aka": [],
+        "status": "New",
+        "UUID": "e68a619b-0d43-45f6-953e-c7cc452eb77c"
+    },
+    {
+        "threat_name": "CrypMic",
+        "aka": [],
+        "status": "New",
+        "UUID": "26ba9baa-5391-456c-b656-0aeb4629ff8f"
+    },
+    {
+        "threat_name": "CryptoLocker",
+        "aka": [],
+        "status": "New",
+        "UUID": "86b3c338-06dc-4ec3-a944-3e9b38738a61"
+    },
+    {
+        "threat_name": "CrypticConvo",
+        "aka": [],
+        "status": "New",
+        "UUID": "69e49d88-16d8-4fe6-a0eb-d126cf92f40d"
+    },
+    {
+        "threat_name": "CryptoFortress",
+        "aka": [],
+        "status": "New",
+        "UUID": "2c1af559-055d-4b31-9ea0-94c07d877fb9"
+    },
+    {
+        "threat_name": "Crypt0l0cker",
+        "aka": [],
+        "status": "New",
+        "UUID": "3935777d-64e0-41dc-a16a-8ba197d10a4d"
+    },
+    {
+        "threat_name": "CryptoLuck",
+        "aka": [],
+        "status": "New",
+        "UUID": "4d57c925-db9d-4426-bb90-d004cef89ed9"
+    },
+    {
+        "threat_name": "CryptoMix",
+        "aka": [
+            "CryptFile2",
+            "WORK"
+        ],
+        "status": "New",
+        "UUID": "aa797d21-fec1-4024-811d-b14ede3ec27a"
+    },
+    {
+        "threat_name": "CryptoNight",
+        "aka": [],
+        "status": "New",
+        "UUID": "375e47d9-5b4d-4f95-a354-36f2deccc0da"
+    },
+    {
+        "threat_name": "CryptoPatronum",
+        "aka": [],
+        "status": "New",
+        "UUID": "c6a71aad-f1f3-4213-bf91-fb1646408aca"
+    },
+    {
+        "threat_name": "Crypto Ransomeware",
+        "aka": [
+            "CryptoRansomeware"
+        ],
+        "status": "New",
+        "UUID": "0f974ed0-3f71-49ac-986f-09ac617f9894"
+    },
+    {
+        "threat_name": "Cryptorium",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "2a72af9b-4e09-4585-86d1-cea4f16718be"
+    },
+    {
+        "threat_name": "CryptoShield",
+        "aka": [
+            "REVENGE"
+        ],
+        "status": "New",
+        "UUID": "33e12940-a922-4974-8e90-9f33ea2d394f"
+    },
+    {
+        "threat_name": "CryptoShuffler",
+        "aka": [],
+        "status": "New",
+        "UUID": "14b5073d-6adf-4486-b810-f7477bb8f989"
+    },
+    {
+        "threat_name": "Cryptowall",
+        "aka": [],
+        "status": "New",
+        "UUID": "50a6750a-bc80-4bd2-a8ba-07ab1291177b"
+    },
+    {
+        "threat_name": "CryptoWire",
+        "aka": [
+            "Lomix",
+            "UltraLocker"
+        ],
+        "status": "New",
+        "UUID": "de6e5e35-e4b6-4d44-b27c-6fa148ce4ec0"
+    },
+    {
+        "threat_name": "CryptXXX",
+        "aka": [],
+        "status": "New",
+        "UUID": "ab55ef6b-5a4c-44bd-a877-ba78b3f494ef"
+    },
+    {
+        "threat_name": "CsExt",
+        "aka": [],
+        "status": "New",
+        "UUID": "264fea7d-a754-4a17-b26b-f77423801efb"
+    },
+    {
+        "threat_name": "CTB Locker",
+        "aka": [
+            "CTB-locker"
+        ],
+        "status": "New",
+        "UUID": "0a868b59-7960-495f-b937-419c6aa13fe1"
+    },
+    {
+        "threat_name": "Cuba Ransomware",
+        "aka": [],
+        "status": "New",
+        "UUID": "83c6aca6-f77d-4a7c-b780-0750d85d3011"
+    },
+    {
+        "threat_name": "Cueisfry",
+        "aka": [],
+        "status": "New",
+        "UUID": "8c1823ac-724a-4493-a307-9c2c239e9786"
+    },
+    {
+        "threat_name": "CukieGrab",
+        "aka": [
+            "Roblox Trade Assist"
+        ],
+        "status": "New",
+        "UUID": "6f0d1653-8cb5-4224-9c23-9231c1316ca5"
+    },
+    {
+        "threat_name": "Cursed Murderer Ransomware",
+        "aka": [
+            "TheCursedMurderer"
+        ],
+        "status": "New",
+        "UUID": "4d5acf1a-5788-403c-9d0b-0232c91bd545"
+    },
+    {
+        "threat_name": "Cutlet",
+        "aka": [
+            "Cutlet Maker"
+        ],
+        "status": "New",
+        "UUID": "025dd501-f569-4b25-9706-af69f19dec95"
+    },
+    {
+        "threat_name": "CyberSplitter",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "498c8d34-eea0-4f9e-986a-aade444d7138"
+    },
+    {
+        "threat_name": "CycBot",
+        "aka": [],
+        "status": "New",
+        "UUID": "a54030cb-2bef-42a9-acbd-f1ee0e581d1d"
+    },
+    {
+        "threat_name": "Dacls",
+        "aka": [],
+        "status": "New",
+        "UUID": "a62dc85c-4dc8-4c0f-b78d-82ffde1ad316"
+    },
+    {
+        "threat_name": "DADJOKE",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "8df8a1f5-9d9c-4212-ac3f-70584ad73ec5"
+    },
+    {
+        "threat_name": "DADSTACHE",
+        "aka": [],
+        "status": "New",
+        "UUID": "c11dc33c-b993-48eb-b755-c88a026e6c79"
+    },
+    {
+        "threat_name": "Dairy",
+        "aka": [],
+        "status": "New",
+        "UUID": "4fa8e0f6-a04d-41a2-91e3-85113734a8fc"
+    },
+    {
+        "threat_name": "danbot",
+        "aka": [],
+        "status": "New",
+        "UUID": "cf72d223-5845-4855-804c-ab4d53fde320"
+    },
+    {
+        "threat_name": "Dark Nexus",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "b617b6fe-be92-42e9-9186-055549f1f8a3"
+    },
+    {
+        "threat_name": "Dark Shades",
+        "aka": [],
+        "status": "New",
+        "UUID": "a92981f7-0e8f-4d56-89f4-e95b66388186"
+    },
+    {
+        "threat_name": "DarkHotel",
+        "aka": [],
+        "status": "New",
+        "UUID": "f7e499ad-62fd-42a6-8daa-4eb33349732d"
+    },
+    {
+        "threat_name": "DarkMegi",
+        "aka": [],
+        "status": "New",
+        "UUID": "d2094d04-a427-4e95-8927-88cda1227905"
+    },
+    {
+        "threat_name": "Darkmoon",
+        "aka": [],
+        "status": "New",
+        "UUID": "0d06b80f-e838-4609-9bc1-7042ac486040"
+    },
+    {
+        "threat_name": "DarkPulsar",
+        "aka": [],
+        "status": "New",
+        "UUID": "78694d45-3446-445b-ae08-9c6973a5aa22"
+    },
+    {
+        "threat_name": "DarkRAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "c0b9f910-fe50-44c1-a45d-8a654971acbe"
+    },
+    {
+        "threat_name": "DarkShell",
+        "aka": [],
+        "status": "New",
+        "UUID": "553294f4-3548-453b-959c-5ea6e934ce49"
+    },
+    {
+        "threat_name": "Darksky",
+        "aka": [],
+        "status": "New",
+        "UUID": "578291e9-62a8-45ef-a5fa-650e91009dee"
+    },
+    {
+        "threat_name": "DarkStRAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "fd4174ac-65c0-42c9-b01f-c1346b644aef"
+    },
+    {
+        "threat_name": "DarkTequila",
+        "aka": [],
+        "status": "New",
+        "UUID": "d1184db5-ef53-4933-b894-ff4c9899e214"
+    },
+    {
+        "threat_name": "Darktrack RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "cecace46-f991-4872-855a-e6aa2f1b7118"
+    },
+    {
+        "threat_name": "DarthMiner",
+        "aka": [],
+        "status": "New",
+        "UUID": "0357f84f-d587-48de-a305-8a36a17d2ceb"
+    },
+    {
+        "threat_name": "Daserf",
+        "aka": [],
+        "status": "New",
+        "UUID": "657637dd-74e1-4674-aafd-0fbfbcf772c5"
+    },
+    {
+        "threat_name": "Datper",
+        "aka": [],
+        "status": "New",
+        "UUID": "655a734e-55a6-47be-8704-3d225f944ce3"
+    },
+    {
+        "threat_name": "DBatLoader",
+        "aka": [],
+        "status": "New",
+        "UUID": "fa9608bb-7351-44a8-a00d-cc63c824060f"
+    },
+    {
+        "threat_name": "DDKeylogger",
+        "aka": [
+            "DD Keylogger",
+            "Toyecma"
+        ],
+        "status": "Complete",
+        "UUID": "8ada86e4-5c47-485c-8605-a68c72f074d9"
+    },
+    {
+        "threat_name": "DDKONG",
+        "aka": [],
+        "status": "New",
+        "UUID": "8812e412-7cb2-4ec8-88e7-9bacf5176664"
+    },
+    {
+        "threat_name": "ddoor",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "e1ffaaf7-774c-4472-913d-78bf9c4fa90a"
+    },
+    {
+        "threat_name": "DeathRansom",
+        "aka": [],
+        "status": "New",
+        "UUID": "da2fe411-8d2e-4edb-9266-1e0ff5ed4937"
+    },
+    {
+        "threat_name": "Decebal",
+        "aka": [],
+        "status": "New",
+        "UUID": "4ca0c1a6-0541-4499-a82f-24188311a361"
+    },
+    {
+        "threat_name": "DEFENSOR ID",
+        "aka": [],
+        "status": "New",
+        "UUID": "bbd0d8d8-a42e-4e91-ad11-f9125629b866"
+    },
+    {
+        "threat_name": "Defray",
+        "aka": [],
+        "status": "New",
+        "UUID": "dc1bdf75-dbf9-40d4-b3f1-10b459df3c01"
+    },
+    {
+        "threat_name": "Whiskey",
+        "aka": [
+            "WhiskeyAlfa",
+            "WhiskeyBravo",
+            "WhiskeyCharlie",
+            "WhiskeyDelta"
+        ],
+        "status": "New",
+        "UUID": "1dac32db-3991-4730-8b9a-47676a8a392d"
+    },
+    {
+        "threat_name": "Uniform",
+        "aka": [
+            "UniformALfa",
+            "UniformJuliett"
+        ],
+        "status": "New",
+        "UUID": "84ce5283-a08d-4781-b296-8d7b94391b61"
+    },
+    {
+        "threat_name": "Tango",
+        "aka": [
+            "TangoAlfa",
+            "TangoBravo",
+            "TangoCharlie",
+            "TangoDelta"
+        ],
+        "status": "New",
+        "UUID": "81ced8a1-9807-4236-bc7d-f31a4b6eaff7"
+    },
+    {
+        "threat_name": "Sierra",
+        "aka": [
+            "SierraAlfa",
+            "SierraBravo",
+            "SierraCharlie",
+            "SierraJuliett-MikeOne",
+            "SierraJuliett-MikeTwo"
+        ],
+        "status": "New",
+        "UUID": "264dad9c-cabb-4383-9e83-50d207f27894"
+    },
+    {
+        "threat_name": "Romeo",
+        "aka": [
+            "RomeoALfa",
+            "RomeoBravo",
+            "RomeoCharlie",
+            "RomeoDelta",
+            "RomeoEcho",
+            "RomeoFoxtrot",
+            "RomeoGolf",
+            "RomeoHotel",
+            "RomeoMike",
+            "RomeoNovember",
+            "RomeoWhiskey"
+        ],
+        "status": "New",
+        "UUID": "df1ce4ca-1462-4701-97e9-6b0d564d8070"
+    },
+    {
+        "threat_name": "Papa",
+        "aka": [
+            "PapaAlfa"
+        ],
+        "status": "New",
+        "UUID": "101df17e-c5aa-412b-9c7d-263071afd135"
+    },
+    {
+        "threat_name": "Lima",
+        "aka": [
+            "LimaAlfa",
+            "LimaBravo",
+            "LimaCharlie",
+            "LimaDelta"
+        ],
+        "status": "In Progress",
+        "UUID": "f5e575c1-5d44-4e72-a655-ac3a6867a470"
+    },
+    {
+        "threat_name": "Kilo",
+        "aka": [
+            "KiloAlfa"
+        ],
+        "status": "New",
+        "UUID": "f88cc503-76d5-453f-ac14-2a760623e24b"
+    },
+    {
+        "threat_name": "India",
+        "aka": [
+            "IndiaAlfa",
+            "IndiaAlpha",
+            "IndiaBravo",
+            "IndiaCharlie",
+            "IndiaDelta",
+            "IndiaEcho",
+            "IndiaFoxtrot",
+            "IndiaGolf",
+            "IndiaHotel",
+            "IndiaIndia",
+            "IndiaJuliett",
+            "IndiaKilo",
+            "IndiaWhiskey"
+        ],
+        "status": "New",
+        "UUID": "5a960639-7811-4f30-8075-b0e5b35ef56d"
+    },
+    {
+        "threat_name": "Hotel",
+        "aka": [
+            "HotelAlfa"
+        ],
+        "status": "New",
+        "UUID": "efdebd41-5e8b-4d8b-878f-13801092b1bb"
+    },
+    {
+        "threat_name": "Delta",
+        "aka": [
+            "DeltaAlfa",
+            "DeltaBravo",
+            "DeltaCharlie"
+        ],
+        "status": "New",
+        "UUID": "cd69b43e-111e-4726-a023-00df94729ed2"
+    },
+    {
+        "threat_name": "Dendroid",
+        "aka": [],
+        "status": "New",
+        "UUID": "22b1b9c3-99cd-488e-8955-eeced41195ba"
+    },
+    {
+        "threat_name": "Dented",
+        "aka": [],
+        "status": "New",
+        "UUID": "db860eb7-25b7-4951-964c-7c16c3c9f19b"
+    },
+    {
+        "threat_name": "DeputyDog",
+        "aka": [],
+        "status": "New",
+        "UUID": "b41e1d52-a777-42f6-a76a-929b841f146a"
+    },
+    {
+        "threat_name": "DeriaLock",
+        "aka": [],
+        "status": "New",
+        "UUID": "35c0016a-702b-4965-ba5b-ed4ea9f48271"
+    },
+    {
+        "threat_name": "Derusbi",
+        "aka": [],
+        "status": "New",
+        "UUID": "b52b5aeb-0353-4770-a085-26424874085d"
+    },
+    {
+        "threat_name": "Devil's RAT",
+        "aka": [],
+        "status": "New",
+        "UUID": "f7ad5660-10fe-4ade-8d26-cd1f07ee52f6"
+    },
+    {
+        "threat_name": "Dexphot",
+        "aka": [],
+        "status": "New",
+        "UUID": "45cc7391-08cf-4af8-ae91-692847c6cd2c"
+    },
+    {
+        "threat_name": "Dexter",
+        "aka": [],
+        "status": "New",
+        "UUID": "6a710ab7-2d47-4bdc-88d9-3ae55515786a"
+    },
+    {
+        "threat_name": "DiamondFox",
+        "aka": [],
+        "status": "New",
+        "UUID": "201bcffa-7f00-4d07-b2f2-5530f2bd8964"
+    },
+    {
+        "threat_name": "DILLJUICE",
+        "aka": [],
+        "status": "New",
+        "UUID": "912cc4db-5a99-4369-baa1-834edc1cd58a"
+    },
+    {
+        "threat_name": "Dimnie",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "94561ff2-9bc1-4f32-86f1-2012f2f159fa"
+    },
+    {
+        "threat_name": "DirCrypt",
+        "aka": [],
+        "status": "New",
+        "UUID": "b2685dc7-1eda-4d4a-ac8d-e2864fd82c2c"
+    },
+    {
+        "threat_name": "DispCashBR",
+        "aka": [],
+        "status": "New",
+        "UUID": "efcc620e-def1-44cc-994a-0b0c423211ac"
+    },
+    {
+        "threat_name": "DispenserXFS",
+        "aka": [],
+        "status": "New",
+        "UUID": "df3c013b-af69-41a8-bee0-5c29f2bce117"
+    },
+    {
+        "threat_name": "DistTrack",
+        "aka": [],
+        "status": "New",
+        "UUID": "611e8608-83b0-4367-94c7-41e0ffc22c90"
+    },
+    {
+        "threat_name": "Divergent",
+        "aka": [],
+        "status": "New",
+        "UUID": "d4e7124d-a5e8-4faa-b1a0-f82b53abcca0"
+    },
+    {
+        "threat_name": "DMA Locker",
+        "aka": [],
+        "status": "New",
+        "UUID": "504cf1c7-03b0-4a13-8cda-457a944bde03"
+    },
+    {
+        "threat_name": "DMSniff",
+        "aka": [],
+        "status": "New",
+        "UUID": "0ff612d5-cf0b-424e-b258-5a99cce00958"
+    },
+    {
+        "threat_name": "dmsSpy",
+        "aka": [],
+        "status": "New",
+        "UUID": "0995658e-50b7-498b-9b31-5d6c5df89229"
+    },
+    {
+        "threat_name": "DNSChanger",
+        "aka": [],
+        "status": "New",
+        "UUID": "30c55b1d-e58d-468a-bad4-a5ec8d14b41c"
+    },
+    {
+        "threat_name": "DNSMessenger",
+        "aka": [],
+        "status": "New",
+        "UUID": "dac73979-f9db-4c7b-b87f-52cb31f23fee"
+    },
+    {
+        "threat_name": "DNSpionage",
+        "aka": [],
+        "status": "New",
+        "UUID": "e4558150-f793-4917-bacf-a3b78307e2f9"
+    },
+    {
+        "threat_name": "DNSRat",
+        "aka": [],
+        "status": "New",
+        "UUID": "cf920db4-2c89-4552-96a6-7b8265c07c38"
+    },
+    {
+        "threat_name": "Dockster",
+        "aka": [],
+        "status": "New",
+        "UUID": "ad2a8275-3452-48a9-8a5f-dd197a54560e"
+    },
+    {
+        "threat_name": "DogHousePower",
+        "aka": [],
+        "status": "New",
+        "UUID": "995c3962-82a6-4783-9d17-068ee40651e3"
+    },
+    {
+        "threat_name": "Dok",
+        "aka": [],
+        "status": "New",
+        "UUID": "5ad94e59-a128-4e49-b7da-b35eecaf8eef"
+    },
+    {
+        "threat_name": "Dorshel",
+        "aka": [],
+        "status": "New",
+        "UUID": "373ec152-5b2c-4f15-8c55-d27b5dfeb27e"
+    },
+    {
+        "threat_name": "Dot Ransomware",
+        "aka": [],
+        "status": "New",
+        "UUID": "764cd6e0-7f08-4185-90c3-859e1cbfe0bd"
+    },
+    {
+        "threat_name": "DoubleLocker",
+        "aka": [],
+        "status": "New",
+        "UUID": "237259ad-f68d-47e4-b47d-91db9b4d2f29"
+    },
+    {
+        "threat_name": "DoublePulsar",
+        "aka": [],
+        "status": "New",
+        "UUID": "603bddd8-a14c-4c2f-b502-eabad6bc0a2e"
+    },
+    {
+        "threat_name": "Downdelph",
+        "aka": [],
+        "status": "New",
+        "UUID": "df2741be-b6cd-447d-b025-2ca48d585639"
+    },
+    {
+        "threat_name": "Downeks",
+        "aka": [],
+        "status": "New",
+        "UUID": "60d1359e-23b1-47be-babf-48bce2a5a784"
+    },
+    {
+        "threat_name": "DownPaper",
+        "aka": [],
+        "status": "New",
+        "UUID": "87efd343-521b-479b-ab9e-f4c988834e70"
+    },
+    {
+        "threat_name": "Downrage",
+        "aka": [],
+        "status": "New",
+        "UUID": "8e76cdb0-2b7b-4d4a-920a-208d33da1eb8"
+    },
+    {
+        "threat_name": "DramNudge",
+        "aka": [],
+        "status": "New",
+        "UUID": "bff54ee2-b7a5-4811-94d8-2244e1b92c57"
+    },
+    {
+        "threat_name": "DreamBot",
+        "aka": [],
+        "status": "New",
+        "UUID": "7b8ac770-888f-4d1a-9bda-5595ae93b86a"
+    },
+    {
+        "threat_name": "DRIFTPIN",
+        "aka": [],
+        "status": "New",
+        "UUID": "b77a6805-ec96-4603-91f6-ab33f03ada9e"
+    },
+    {
+        "threat_name": "Dripion",
+        "aka": [],
+        "status": "New",
+        "UUID": "ca48d503-0cba-4de2-9984-b636a1016839"
+    },
+    {
+        "threat_name": "DropboxC2C",
+        "aka": [],
+        "status": "New",
+        "UUID": "033ae80f-7f22-4c45-9be9-5aefb8627e24"
+    },
+    {
+        "threat_name": "DROPSHOT",
+        "aka": [
+            "StoneDrill"
+        ],
+        "status": "New",
+        "UUID": "183264f3-6906-4530-b58d-c87c795e4951"
+    },
+    {
+        "threat_name": "Dtrack",
+        "aka": [],
+        "status": "New",
+        "UUID": "7e11f3f6-95ca-4579-bb0b-139930bd1239"
+    },
+    {
+        "threat_name": "Dualtoy",
+        "aka": [],
+        "status": "New",
+        "UUID": "e50d8ae6-4dfe-4a9b-b5c9-5047f1807c5d"
+    },
+    {
+        "threat_name": "DUBrute",
+        "aka": [],
+        "status": "New",
+        "UUID": "91a55b07-0a71-42ef-9a0f-8b124062d0dd"
+    },
+    {
+        "threat_name": "Dumador",
+        "aka": [],
+        "status": "New",
+        "UUID": "4353c912-093e-478d-a426-51f920d1fcf8"
+    },
+    {
+        "threat_name": "Dummy",
+        "aka": [],
+        "status": "New",
+        "UUID": "99295102-0290-4f9e-a05c-3c66606855a2"
+    },
+    {
+        "threat_name": "Duqu",
+        "aka": [],
+        "status": "New",
+        "UUID": "5515586c-0d4b-4735-80f4-5c40139ac5bd"
+    },
+    {
+        "threat_name": "DUSTMAN",
+        "aka": [
+            "ZeroCleare"
+        ],
+        "status": "New",
+        "UUID": "413b9226-512c-43b8-a4b3-f66196434cf5"
+    },
+    {
+        "threat_name": "Duuzer",
+        "aka": [],
+        "status": "New",
+        "UUID": "d4886c7b-8d76-4b4c-9ff9-1ddaf9b510e8"
+    },
+    {
+        "threat_name": "Dvmap",
+        "aka": [],
+        "status": "New",
+        "UUID": "0daccc59-d6c7-4bf2-978c-f1e66e48c1fb"
+    },
+    {
+        "threat_name": "DYEPACK",
+        "aka": [],
+        "status": "New",
+        "UUID": "e4358ad2-90bb-4972-a167-34708a79b56b"
+    },
+    {
+        "threat_name": "Adware.LoadMoney",
+        "aka": [],
+        "status": "New",
+        "UUID": "976928bb-ddc8-447e-8309-aee20f2c1a7e"
+    },
+    {
+        "threat_name": "TinyNuke",
+        "aka": [
+            "NukeBot",
+            "Nuclear Bot",
+            "MicroBankingTrojan",
+            "Xbot"
+        ],
+        "status": "Complete",
+        "UUID": "08fe851f-a3a8-44cf-ab60-739ed617a36d"
+    },
+    {
+        "threat_name": "Adware.BubbleChatter",
+        "aka": [],
+        "status": "New",
+        "UUID": "5234fd5c-aab5-47de-afd8-ca9bf55ee8c5"
+    },
+    {
+        "threat_name": "Locky",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "612cc5e3-a58a-4642-8547-19ce8a6646f0"
+    },
+    {
+        "threat_name": "CANNONFODDER",
+        "aka": [
+            "YAHOYAH"
+        ],
+        "status": "New",
+        "UUID": "b883985b-fd7b-41ce-92c8-cab3f04063b3"
+    },
+    {
+        "threat_name": "Cerberus",
+        "aka": [],
+        "status": "New",
+        "UUID": "a056dc01-6067-4767-b161-95d35c627eec"
+    },
+    {
+        "threat_name": "CoinMiner.XMRig",
+        "aka": [],
+        "status": "New",
+        "UUID": "94f0d8b5-69f8-434c-adc0-ca176a3cb68d"
+    },
+    {
+        "threat_name": "CoinMiner.Monero",
+        "aka": [],
+        "status": "New",
+        "UUID": "79a2b7b7-18f3-402f-b0c6-e1efb61e5d98"
+    },
+    {
+        "threat_name": "CoinMiner.Ethereum",
+        "aka": [],
+        "status": "New",
+        "UUID": "054a1975-7b61-4fa4-8b05-0c278c34cacd"
+    },
+    {
+        "threat_name": "Satan DDoS",
+        "aka": [
+            "Lucifer (Palo Alto)"
+        ],
+        "status": "Complete",
+        "UUID": "d3feaacc-1bb3-4a43-9e12-e45e5a7c318a"
+    },
+    {
+        "threat_name": "DONUT",
+        "aka": [],
+        "status": "New",
+        "UUID": "ee4d5704-cbdb-4fe8-8860-2128022c847e"
+    },
+    {
+        "threat_name": "Mirai",
+        "aka": [
+            "Satori",
+            "Okiru",
+            "Masuta",
+            "OMG",
+            "Wicked",
+            "Miori",
+            "Hakai",
+            "Hakai",
+            "SpeakUp"
+        ],
+        "status": "Complete",
+        "UUID": "90f82f2e-16be-4e14-844a-6477fdf109a4"
+    },
+    {
+        "threat_name": "WellMail",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "818f15a5-110d-40e8-bbbd-79bcedb99772"
+    },
+    {
+        "threat_name": "WellMess",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "ed335d0c-88f3-4b9a-9cb0-06f813c7d40d"
+    },
+    {
+        "threat_name": "ThiefQuest",
+        "aka": [
+            "EvilQuest",
+            "OSX.EvilQuest",
+            "OSX.ThiefQuest"
+        ],
+        "status": "In Progress",
+        "UUID": "9fc10cc6-c369-4a5e-b0b6-56cb84107e9f"
+    },
+    {
+        "threat_name": "VMZeuS",
+        "aka": [
+            "VM Zeus",
+            "ZeusVM",
+            "Zeus VM",
+            "Zberp",
+            "KINS Builder",
+            "KINS",
+            "ZeuS VM"
+        ],
+        "status": "Complete",
+        "UUID": "b0feb0a7-e140-42b6-aea6-d53e2e7306cc"
+    },
+    {
+        "threat_name": "VirLock",
+        "aka": [],
+        "status": null,
+        "UUID": "c2364091-b667-4a16-aa1d-732404d1c699"
+    },
+    {
+        "threat_name": "MgBot",
+        "aka": [
+            "BLame",
+            "Mgmbot",
+            "EGGROLL"
+        ],
+        "status": "Complete",
+        "UUID": "4239ea2d-eeb5-49e9-b478-a2d62eaea264"
+    },
+    {
+        "threat_name": "NetSupport Manager",
+        "aka": [
+            "NetSupportManager RAT",
+            "NetSupport Manager RAT"
+        ],
+        "status": "Complete",
+        "UUID": "8828edfd-fd06-4533-8cc6-4425d363a75c"
+    },
+    {
+        "threat_name": "Sage",
+        "aka": [
+            "SAGE",
+            "Saga",
+            "SAGA",
+            "Sage 2.0",
+            "Sage Ransomware"
+        ],
+        "status": "Complete",
+        "UUID": "d93aa8c8-3418-4d87-a0ed-06d4bdb851d1"
+    },
+    {
+        "threat_name": "Matiex",
+        "aka": [
+            "Matiex Keylogger"
+        ],
+        "status": "Complete",
+        "UUID": "4a06e254-79cf-4a1e-89bd-2dea7e89060d"
+    },
+    {
+        "threat_name": "Drovorub",
+        "aka": [
+            "Woodcutter",
+            "Woodsplitter",
+            "\u0434\u0440\u043e\u0432\u043e\u0440\u0443\u0431",
+            "POCODOWNLOADER"
+        ],
+        "status": "In Progress",
+        "UUID": "927933e6-5308-4120-bc37-c39aac21b87d"
+    },
+    {
+        "threat_name": "Darkside",
+        "aka": [
+            "Dark Side",
+            "Darkside Ransomware",
+            "DarkSide"
+        ],
+        "status": "In Progress",
+        "UUID": "117b4793-347e-47a8-b86f-5a58c3cfd35b"
+    },
+    {
+        "threat_name": "FritzFrog",
+        "aka": [],
+        "status": "New",
+        "UUID": "34a62841-88ab-49bf-851e-282ce6df08a1"
+    },
+    {
+        "threat_name": "CONTI",
+        "aka": [
+            "CONTI Ransomware"
+        ],
+        "status": "Complete",
+        "UUID": "98e0e0b4-98c8-443c-8f59-96a5b094e3eb"
+    },
+    {
+        "threat_name": "ObliqueRAT",
+        "aka": [],
+        "status": null,
+        "UUID": "9cedcd27-5e9c-41e2-b6bb-394c20559d6a"
+    },
+    {
+        "threat_name": "BackConfig",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "8a010ac2-a4cc-43f3-b1fc-0b1d930bde1d"
+    },
+    {
+        "threat_name": "Farseer",
+        "aka": [],
+        "status": null,
+        "UUID": "0dbe218e-1f1f-4e7b-8393-7c5914175ba0"
+    },
+    {
+        "threat_name": "TA505",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "0cd62a3f-27ac-4af4-ae0b-9727e6f52b2c"
+    },
+    {
+        "threat_name": "SLOTHFULMEDIA",
+        "aka": [],
+        "status": "Complete",
+        "UUID": "07c8b986-3e1e-494d-b688-920b16dec111"
+    },
+    {
+        "threat_name": "DemonWare",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "54d6e546-2693-4798-9971-539a8b15ca7f"
+    },
+    {
+        "threat_name": "Exorcist 2.0",
+        "aka": [
+            "Exorcist 2"
+        ],
+        "status": "In Progress",
+        "UUID": "a8773fb1-01ab-409c-b8f5-9717e5908f29"
+    },
+    {
+        "threat_name": "LockBit",
+        "aka": [
+            "ABCD Ransomware",
+            "ABCD",
+            "LockBit 2.0",
+            "LockBit 2"
+        ],
+        "status": "In Progress",
+        "UUID": "5683b897-1f6f-4774-91ed-793dec69ba7e"
+    },
+    {
+        "threat_name": "Mount Locker",
+        "aka": [
+            "MountLocker"
+        ],
+        "status": "In Progress",
+        "UUID": "cfa10578-aacf-4895-8fa3-8f08bf644908"
+    },
+    {
+        "threat_name": "TRAPGET",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "ac946dc4-de09-4383-b7df-2bea81340a05"
+    },
+    {
+        "threat_name": "Sekhmet",
+        "aka": [
+            "Sehkmet",
+            "Egregor"
+        ],
+        "status": "In Progress",
+        "UUID": "2e4c57ec-0c35-4caa-8c0b-d280d35adcb5"
+    },
+    {
+        "threat_name": "Mozi",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "153a8429-0ba7-4664-9f6e-7081507651c4"
+    },
+    {
+        "threat_name": "SUNBURST",
+        "aka": [
+            "Solorigate"
+        ],
+        "status": "Complete",
+        "UUID": "db518a0a-7bc8-41df-9442-f074b59331ad"
+    },
+    {
+        "threat_name": "TEARDROP",
+        "aka": [
+            "Teardrop"
+        ],
+        "status": "In Progress",
+        "UUID": "b21255d8-7b43-47ed-a699-6a7ffdf5247f"
+    },
+    {
+        "threat_name": "Raindrop",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": ""
+    },
+    {
+        "threat_name": "Phoenix Locker",
+        "aka": [
+            "Phoenix CryptoLocker"
+        ],
+        "status": "Complete",
+        "UUID": ""
+    },
+    {
+        "threat_name": "Remexi",
+        "aka": [
+            "SEAWEED"
+        ],
+        "status": "In Progress",
+        "UUID": "eb48654e-f6f2-4dc8-9936-15ff84d7a041"
+    },
+    {
+        "threat_name": "COSMICGALE",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "7f0ee54b-4ec8-4eed-9d6e-2cf3cf04d661"
+    },
+    {
+        "threat_name": "SUPERNOVA",
+        "aka": [],
+        "status": null,
+        "UUID": "9ca2e435-8766-4dd4-ac05-c3f62c909f05"
+    },
+    {
+        "threat_name": "Sibot",
+        "aka": [],
+        "status": "In Progress",
+        "UUID": "0f1fa57a-4916-4e00-900d-8f52a83ceed1"
+    },
+    {
+        "threat_name": "BoomBox",
+        "aka": [
+            "BOOM.exe"
+        ],
+        "status": "In Progress",
+        "UUID": "8763f8c3-bc13-4307-aed9-5166560770e1"
+    },
+    {
+        "threat_name": "EnvyScout",
+        "aka": [
+            "Envy Scout",
+            "NV.html",
+            "NV"
+        ],
+        "status": "In Progress",
+        "UUID": "2f0349b6-0a1a-498e-b0ce-fdf12b354af2"
+    },
+    {
+        "threat_name": "NativeZone",
+        "aka": [
+            "NativeCacheSvc.dll",
+            "NativeCacheSvc",
+            "Native Zone",
+            "configNativeCache"
+        ],
+        "status": "In Progress",
+        "UUID": "fc81913a-be57-4b6d-8e86-4cc0679380a0"
+    },
+    {
+        "threat_name": "Pegasus",
+        "aka": [
+            "JigglyPuff",
+            "Chrysaor"
+        ],
+        "status": "Complete",
+        "UUID": "a4f34cd8-0139-44b2-b690-f53035e26207"
+    },
+    {
+        "threat_name": "Macaw",
+        "aka": [
+            "Macaw Locker"
+        ],
+        "status": "New",
+        "UUID": "7a1aa5c8-ce2b-424d-8f99-11ab1e4de08a"
+    }
+]
